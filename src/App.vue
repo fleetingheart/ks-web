@@ -22,7 +22,7 @@
                 <img class="group-hover:hidden" src="/img/logo.png" alt="Katawa Shoujo Logo">
                 <img class="hidden group-hover:block" src="/img/logo-over.png" alt="Katawa Shoujo Logo">
             </router-link>
-            <router-view class="bg-red-500/0 mt-[5%] h-[84%]"></router-view>
+            <router-view class="mt-8 max-h-[85%] bg-red-500/0"></router-view>
         </div>
         <Footer class="absolute bottom-0"></Footer>
     </div>

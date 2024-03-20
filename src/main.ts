@@ -1,8 +1,7 @@
 import { createApp } from "vue";
 import "./style.css";
 import App from "./App.vue";
-import * as VueI18n from "vue-i18n";
-import i18nStrings from "./i18n/provider";
+import { i18nInstance } from "./i18n/provider";
 
 // -- Disable console logs in production
 // if (import.meta.env.PROD) {
@@ -26,14 +25,7 @@ import '@sweetalert2/theme-dark/dark.min.css';
 app.use(VueSweetalert2);
 
 // -- i18n
-const i18n = VueI18n.createI18n({
-    legacy: false,
-    locale: 'en',
-    fallbackLocale: 'en',
-    messages: i18nStrings,
-});
-
-app.use(i18n);
+app.use(i18nInstance);
 
 // -- Mount app
 app.mount("#app");

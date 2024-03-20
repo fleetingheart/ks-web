@@ -12,7 +12,7 @@
         <div id="languages" class="col-span-2 flex items-end justify-center">
             <div class="flex flex-row items-center justify-center flex-wrap gap-0 w-[400px]">
                 <div v-for="language, k of languages" :key="k" class="flex flex-row items-center">
-                    <a href="#">
+                    <a href="#" @click="changeLocale(language.code)">
                         {{ language.name }}
                     </a>
                     <div v-if="k != languages.length - 1" class="h-[1rem] w-[1px] bg-muted mx-[0.4em]"></div>
@@ -30,6 +30,11 @@
 
 
 <script setup lang="ts">
+import { useI18n } from 'vue-i18n';
+import { persistentChangeLocale } from '@/i18n/provider';
+
+const { t, locale } = useI18n({ useScope: 'global' })
+
 const languages = [
     { name: "Česky", code: "cs" },
     { name: "Deutsch", code: "de" },
@@ -45,6 +50,10 @@ const languages = [
     { name: "中文(简体)", code: "zh-CN" },
     { name: "中文(繁體)", code: "zh-TW" }
 ]
+
+function changeLocale(newLocale: string) {
+    persistentChangeLocale(locale, newLocale);
+}
 </script>
 
 <style scoped>
