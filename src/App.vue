@@ -22,7 +22,7 @@
                 <img class="group-hover:hidden" src="/img/logo.png" alt="Katawa Shoujo Logo">
                 <img class="hidden group-hover:block" src="/img/logo-over.png" alt="Katawa Shoujo Logo">
             </router-link>
-            <router-view class="mt-8 max-h-[85%] bg-red-500/0"></router-view>
+            <router-view class="mt-9 max-h-[85%] bg-red-500/0 overflow-y-auto pr-2"></router-view>
         </div>
         <Footer class="absolute bottom-0"></Footer>
     </div>
@@ -44,7 +44,7 @@ const { t } = useI18n();
 
 body {
     @apply bg-neutral-900 text-white text-xl;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
     background: url('/img/mainbg.png');
     color: #8D8375;
 }
@@ -66,7 +66,7 @@ header {
 
 /* width */
 ::-webkit-scrollbar {
-    width: 10px;
+    width: 4px;
 }
 
 /* Track */
