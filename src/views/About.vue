@@ -1,8 +1,8 @@
 <template>
-    <div class="about">
+    <div id="about">
         <h1 class="text-black font-bold">{{ t('about.title') }}</h1>
         <div class="separator"></div>
-        <div class="leading-5 text-[0.9em]">
+        <div class="ks-pagetext">
             <img class="inline float-left mr-4 mb-1" src="/img/sd-chars.png" alt="Characters">
             <p>{{ t('about.intro') }}</p>
             <br>
@@ -47,25 +47,17 @@ watch(locale, () => {
 </script>
 
 <style>
-.about {
+#about {
     font-family: sans-serif;
     color: black;
     font-size: 0.8em;
 }
 
-.separator {
-    background-image: url('/img/underline.png');
-    background-repeat: no-repeat;
-    background-position: left;
-    height: 10px;
-    transform: translateY(-7px);
-}
-
-.about a {
+#about a {
     color: #993333;
 }
 
-.about a:hover {
+#about a:hover {
     text-decoration: underline;
 }
 </style>

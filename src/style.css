@@ -9,3 +9,15 @@
 .generic-disabled {
     @apply disabled:grayscale disabled:cursor-not-allowed;
 }
+
+.separator {
+    background-image: url('/img/underline.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 10px;
+    transform: translateY(-7px);
+}
+
+.ks-pagetext {
+    @apply leading-5 text-[0.9em];
+}

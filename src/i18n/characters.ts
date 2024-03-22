@@ -1,3 +1,6 @@
+// TODO: Alot of i18n data lifted from the source is not recent,
+// update it with the latest data from the katawa-shoujo.com website
+
 export const characters = {
     en: {
         statstrings: {

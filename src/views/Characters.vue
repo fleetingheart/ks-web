@@ -1,50 +1,42 @@
 <template>
+    <div id="characters" class="flex flex-col gap-3">
+        <Character character="hisao" :is-minor="false" :is-detailed="false"/>
+        <Character character="emi" :is-minor="false" :is-detailed="true"/>
+        <Character character="hanako" :is-minor="false" :is-detailed="true"/>
+        <Character character="lilly" :is-minor="false" :is-detailed="true"/>
+        <Character character="rin" :is-minor="false" :is-detailed="true"/>
+        <Character character="shizune" :is-minor="false" :is-detailed="true"/>
+        <Character character="misha" :is-minor="false" :is-detailed="true"/>
+        <div id="minor-characters">
+            <h1 class="font-bold">{{ t('statstrings.minors') }}</h1>
+            <div class="separator"></div>
+        </div>
+        <Character character="kenji" :is-minor="true" :is-detailed="false"/>
+        <Character character="nurse" :is-minor="true" :is-detailed="false"/>
+        <Character character="muto" :is-minor="true" :is-detailed="false"/>
+        <Character character="yuuko" :is-minor="true" :is-detailed="false"/>
 
+    </div>
 </template>
 
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n';
-
+import Character from '@/components/Character.vue';
 const { t } = useI18n();
-const characters = ["shizune", "emi", "rin", "hanako", "lilly"];
-const commonData = {
-    emi: {
-        sizes: [70, 51, 74],
-        btype: "B",
-        height: 151,
-        weight: 41
-    },
-    hanako: {
-        sizes: [86, 56, 84],
-        btype: "AB",
-        height: 164,
-        weight: 52
-    },
-    lilly: {
-        sizes: [89, 61, 89],
-        btype: "A",
-        height: 171,
-        weight: 59
-    },
-    rin: {
-        sizes: [83, 54, 78],
-        btype: "AB",
-        height: 161,
-        weight: 50
-    },
-    shizune: {
-        sizes: [88, 52, 85],
-        btype: "O",
-        height: 158,
-        weight: 53
-    },
-    misha: {
-        sizes: [85, 58, 84],
-        btype: "AB",
-        height: 158,
-        weight: 57
-    }
-};
-const distanceUnit = "cm";
-const weightUnit = "kg";
 </script>
+
+<style scoped>
+#characters {
+    font-family: sans-serif;
+    color: black;
+    font-size: 0.8em;
+}
+
+#characters a {
+    color: #993333;
+}
+
+#characters a:hover {
+    text-decoration: underline;
+}
+</style>
