@@ -1,5 +1,5 @@
 <template>
-    <div id="characters" class="flex flex-col gap-3">
+    <div id="characters" class="flex flex-col gap-3 pageview">
         <Character character="hisao" :is-minor="false" :is-detailed="false"/>
         <Character character="emi" :is-minor="false" :is-detailed="true"/>
         <Character character="hanako" :is-minor="false" :is-detailed="true"/>
@@ -26,17 +26,4 @@ const { t } = useI18n();
 </script>
 
 <style scoped>
-#characters {
-    font-family: sans-serif;
-    color: black;
-    font-size: 0.8em;
-}
-
-#characters a {
-    color: #993333;
-}
-
-#characters a:hover {
-    text-decoration: underline;
-}
 </style>

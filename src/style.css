@@ -21,3 +21,17 @@
 .ks-pagetext {
     @apply leading-5 text-[0.9em];
 }
+
+.pageview {
+    font-family: sans-serif;
+    color: black;
+    font-size: 0.8em;
+}
+
+.pageview a {
+    color: #993333;
+}
+
+.pageview a:hover {
+    text-decoration: underline;
+}

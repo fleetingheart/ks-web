@@ -1,5 +1,5 @@
 <template>
-    <div id="about">
+    <div id="about" class="pageview">
         <h1 class="text-black font-bold">{{ t('about.title') }}</h1>
         <div class="separator"></div>
         <div class="ks-pagetext">
@@ -47,17 +47,4 @@ watch(locale, () => {
 </script>
 
 <style>
-#about {
-    font-family: sans-serif;
-    color: black;
-    font-size: 0.8em;
-}
-
-#about a {
-    color: #993333;
-}
-
-#about a:hover {
-    text-decoration: underline;
-}
 </style>

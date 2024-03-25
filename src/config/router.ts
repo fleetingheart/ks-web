@@ -6,6 +6,7 @@ export const routes: vRoute[] = [
   { path: "/", name: "Home", component: () => import("@/views/Home.vue") },
   { path: "/characters", name: "Characters", component: () => import("@/views/Characters.vue") },
   { path: "/about", name: "About", component: () => import("@/views/About.vue") },
+  { path: "/download", name: "Download", component: () => import("@/views/Download.vue") },
 ];
 
 export const router = createRouter({
