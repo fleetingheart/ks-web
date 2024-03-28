@@ -28,7 +28,7 @@ export const characters = {
                 "name": "Hanako Ikezawa",
                 "description": "At a young age, Hanako had a traumatic experience that left her life in shambles. Her father died when their home burned down in an accident, which also disfigured Hanako herself permanently. She is reclusive to the extreme, shunning from all other people to the point of actually panicking from any social contact. Her only trusted friend is Lilly, who has taken Hanako under her wing ever since the two were introduced to each other.",
                 "birthday": "July 10",
-                "zodiacSign": "Cancer",
+                "zodiac": "Cancer",
                 "hairColor": "Purple",
                 "eyeColor": "Grey Purple"
             },
@@ -36,7 +36,7 @@ export const characters = {
                 "name": "Lilly Satou",
                 "description": "Blind since birth, Lilly is caring, responsible and friendly - the perfect foil to Hanako, her best friend, whom she shares an almost mother-daughter relationship with, in addition to her free time often being spent drinking tea alongside her companion. In class she is a diligent student, with her sense of confidence serving her well in her role as class representative of class 3-2.",
                 "birthday": "February 7",
-                "zodiacSign": "Aquarius",
+                "zodiac": "Aquarius",
                 "hairColor": "Blonde",
                 "eyeColor": "Blue"
             },
@@ -135,7 +135,7 @@ export const characters = {
                 "name": "Hanako Ikezawa",
                 "description": "Hanako utrpěla v nízkém věku traumatickou zkušenost, která nechala její život v troskách. Její otec zemřel při nešťastném požáru jejich domu a tento požár také Hanako navždy zohyzdil. Hanako je teď neuvěřitelně odtažitá  a straní se ostatních lidí až tak, že začíná panikařit při jakémkoliv sociálním kontaktu. Její jedinou přítelkyní, které důvěřuje, je Lilly, která vzala Hanako pod svá křídla od okamžiku, kdy si byly navzájem představeny.",
                 "birthday": "10. červenec",
-                "zodiacSign": "Rak",
+                "zodiac": "Rak",
                 "hairColor": "Fialové",
                 "eyeColor": "Šedě fialové"
             },
@@ -143,7 +143,7 @@ export const characters = {
                 "name": "Lilly Satou",
                 "description": "Slepá od narození, Lilly je starostlivá, zodpovědná a přátelská - skvělý společník pro Hanako, její nejlepší přítelkyni, se kterou sdílí nejen čas strávený s ní pitím čaje, ale i vztah takřka mateřský. Ve třídě je vzornou studentkou a její sebejistota jí dobře slouží v její roli zástupkyně prezidentky třídy 3-2.",
                 "birthday": "27. června",
-                "zodiacSign": "Rak",
+                "zodiac": "Rak",
                 "hairColor": "Blond",
                 "eyeColor": "Modré"
             },
@@ -195,7 +195,7 @@ export const characters = {
                 "name": "Hanako Ikezawa",
                 "description": "Ein traumatisches Erlebnis in Hanakos Kindheit machte aus ihrem Leben einen Scherbenhaufen. Ihr Vater starb, als ihr Haus in einem Unfall niederbrannte, der auch Hanako für immer entstellen sollte. Sie ist extrem zurückgezogen und weist alle Menschen zurück; zwischenmenschliche Kontakte können gar in Panikanfällen enden. Nur ihrer einzige Freundin Lilly, die Hanako unter ihre Fittiche genommen hat, als sie einander vorgestellt worden sind, kann sie vertrauen.",
                 "birthday": "10. Juli",
-                "zodiacSign": "Krebs",
+                "zodiac": "Krebs",
                 "hairColor": "Lila",
                 "eyeColor": "Grau-Violett"
             },
@@ -203,7 +203,7 @@ export const characters = {
                 "name": "Lilly Satou",
                 "description": "Lilly, von Geburt an blind, ist fürsorglich, verantwortungsbewusst und freundlich - das perfekte Gegenstück zu Hanako, mit der sie eine enge Beziehung verbindet, die fast an Mutter und Tochter erinnert; oft verbringen sie ihre Freizeit beim gemeinsamen Teetrinken. In der Schule ist sie eine gewissenhafte Schülerin, und ihr Selbstvertrauen hilft ihr bei der Bewältigung ihrer Aufgabe als Klassensprecherin der Klasse 3-2.",
                 "birthday": "7. Februar",
-                "zodiacSign": "Wassermann",
+                "zodiac": "Wassermann",
                 "hairColor": "Blond",
                 "eyeColor": "Blau"
             },
@@ -278,7 +278,7 @@ export const characters = {
                 "name": "Hanako Ikezawa",
                 "description": "A una edad temprana, Hanako sufrió una experiencia traumatizante que dejó su vida en ruinas. Su padre murió cuando su casa se incendió a causa de un accidente, el cual también desfiguró a Hanako permanentemente. Ella es extremadamente solitaria, evitando a todas las demás personas hasta al punto de entrar en pánico en cualquier contacto social. Su única amiga de confianza es Lilly, quien la tomó bajo su cuidado desde el momento en que fueron presentadas.",
                 "birthday": "10 de julio",
-                "zodiacSign": "Cáncer",
+                "zodiac": "Cáncer",
                 "hairColor": "Púrpura",
                 "eyeColor": "Púrpura Grisáceo"
             },
@@ -286,7 +286,7 @@ export const characters = {
                 "name": "Lilly Satou",
                 "description": "Ciega de nacimiento, Lilly es bondadosa, responsable y amigable — el complemento perfecto para Hanako, su mejor amiga, con quien comparte una relación casi tan cercana como la de una madre con su hija, además de pasar frecuentemente sus ratos libres bebiendo té a su lado. Lilly es una estudiante diligente, cuya confianza le ayuda a cumplir su papel como representante de la clase 3-2.",
                 "birthday": "27 de junio",
-                "zodiacSign": "Cáncer",
+                "zodiac": "Cáncer",
                 "hairColor": "Rubia",
                 "eyeColor": "Azul"
             },
@@ -362,7 +362,7 @@ export const characters = {
                 "name": "Hanako Ikezawa",
                 "description": "Nuorella iällä Hanako koki traumaattisen kokemuksen, joka raunioitti hänen elämänsä. Hänen isänsä kuoli, kun heidän talonsa paloi matalaksi onnettomuudessa joka myös runteli Hanakon itsensä pysyvästi. Hän on äärimmäisyyksiin saakka syrjäänvetäytyvä ja torjuu kaikki muut ihmiset, aina siihen pisteeseen, että suorastaan panikoi kaikissa sosiaalisissa kontakteissa. Hänen ainoa luotettu ystävänsä on Lilly, joka on ottanut Hanakon siipensä suojiin siitä saakka, kun kaksikko esiteltiin toisilleen.",
                 "birthday": "Heinäkuu 10.",
-                "zodiacSign": "Rapu",
+                "zodiac": "Rapu",
                 "hairColor": "Purppurat",
                 "eyeColor": "Purppuranharmaat"
             },
@@ -370,7 +370,7 @@ export const characters = {
                 "name": "Lilly Satou",
                 "description": "Sokea syntymästään, Lilly on välittävä, vastuuntuntoinen ja ystävällinen - täydellinen vastakohta Hanakolle, parhaalle ystävälleen, jonka kanssa hän jakaa lähes äiti-tytär-suhteen, sen lisäksi että viettää vapaa-aikansa usein juoden teetä kumppaninsa vierellä. Luokassa hän on ahkera oppilas, jonka itsetunto palvelee häntä hyvin roolissaan luokan 3-2 edustajana.",
                 "birthday": "Kesäkuu 27.",
-                "zodiacSign": "Rapu",
+                "zodiac": "Rapu",
                 "hairColor": "Vaaleat",
                 "eyeColor": "Siniset"
             },
@@ -445,7 +445,7 @@ export const characters = {
                 "name": "Hanako Ikezawa",
                 "description": "Quand elle était plus jeune, Hanako a eu une expérience traumatisante qui a laissé sa vie en pagaille. Son père est mort quand leur maison a brûlé dans un accident, qui a aussi défiguré Hanako elle-même définitivement. Elle est recluse à l'extrême, fuyant toutes les autres personnes au point de paniquer devant un contact social. Sa seule amie de confiance est Lilly, qui a pris Hanako sous son aile depuis qu'elles ont été présentées l'une à l'autre.",
                 "birthday": "10 juillet",
-                "zodiacSign": "Cancer",
+                "zodiac": "Cancer",
                 "hairColor": "Violets",
                 "eyeColor": "Gris violet"
             },
@@ -453,7 +453,7 @@ export const characters = {
                 "name": "Lilly Satou",
                 "description": "Aveugle depuis la naissance, Lilly est responsable et amicale - ce qui est parfait pour Hanako, sa meilleure amie, avec qui elle partage une relation quasi mère-fille ; en plus de ça, elle passe souvent son temps libre à boire du thé aux côtés de son amie. C'est une élève appliqué en classe, et son sentiment de confiance l'aide dans son rôle de déléguée de la classe 3-2.",
                 "birthday": "7 février",
-                "zodiacSign": "Verseau",
+                "zodiac": "Verseau",
                 "hairColor": "Blonds",
                 "eyeColor": "Bleus"
             },
@@ -528,7 +528,7 @@ export const characters = {
                 "name": "Hanako Ikezawa",
                 "description": "Hanako életét romba döntötte egy gyerekkori trauma. Apja meghalt az otthonukat elpusztító tűzben, ami Hanakót is mindörökre elcsúfította. Hihetelenül zárkózott; olyan szinten kerüli a társaságot, hogy egyszerűen bepánikol, ha más emberekkel kell érintkeznie. Egyetlen bizalmas barátja Lilly, aki már az első találkozásukkor szárnyai alá vette.",
                 "birthday": "Július 10.",
-                "zodiacSign": "Rák",
+                "zodiac": "Rák",
                 "hairColor": "Lila",
                 "eyeColor": "Szürkés-lila"
             },
@@ -536,7 +536,7 @@ export const characters = {
                 "name": "Lilly Satou",
                 "description": "Lilly születése óta vak. Gondoskodó, felelősségteljes, barátságos lány: tökéletesen illik legjobb barátjához, Hanakóhoz. Közel anya-lánya kapcsolat áll fenn kettejük között, és szabadidejükben gyakran teáznak együtt. Szorgalmas diák, magabiztossága pedig kiváló osztálytitkárrá teszi a 3-2-ben.",
                 "birthday": "Február 7.",
-                "zodiacSign": "Vízöntő",
+                "zodiac": "Vízöntő",
                 "hairColor": "Szõke",
                 "eyeColor": "Kék"
             },
@@ -611,7 +611,7 @@ export const characters = {
                 "name": "Hanako Ikezawa",
                 "description": "In giovane età, Hanako ha subito un' esperienza traumatica che ha gettato la sua vita nel caos. Suo padre morì quando la loro casa bruciò in un incidente, che ha anche sfigurato permanentemente Hanako stessa. E' solitaria all' estremo, evitando le altre persone fino al punto di effettivamente andare in panico al minimo contatto sociale. La sua unica amica fidata è Lilly, che ha preso Hanako sotto la sua ala fin da quando le due sono state presentate.",
                 "birthday": "10 Luglio",
-                "zodiacSign": "Cancro",
+                "zodiac": "Cancro",
                 "hairColor": "Viola",
                 "eyeColor": "Grigio Violacei"
             },
@@ -619,7 +619,7 @@ export const characters = {
                 "name": "Lilly Satou",
                 "description": "Cieca dalla nascita, Lilly è premurosa, responsabile e amichevole - il perfetto contrasto ad Hanako, la sua migliore amica, con cui condivide una relazione quasi di madre-figlia, in addizione al suo tempo libero che viene spesso speso bevendo tè a fianco della sua compagna. In classe è una studentessa diligente, e il suo senso di confidenza in sè stessa la serve bene nel suo ruolo di rappresentante della classe 3-2.",
                 "birthday": "27 Giugno",
-                "zodiacSign": "Cancro",
+                "zodiac": "Cancro",
                 "hairColor": "Biondi",
                 "eyeColor": "Blu"
             },
@@ -777,7 +777,7 @@ export const characters = {
                 "name": "Hanako Ikezawa",
                 "description": "Quando mais nova Hanako teve um acidente que deixou sua vida em desordem. Seu pai morreu quando a sua casa pegou fogo em um acidente, que  também a desfigurou permanentemente. Ela é extremamente tímida, evitando todas as outras pessoas ao ponto de se aterrorizar com qualquer contato social. A sua única amiga de confiança é Lilly, que a colocou debaixo de suas asas desde seu primeiro encontro.",
                 "birthday": "10 de julho",
-                "zodiacSign": "Câncer",
+                "zodiac": "Câncer",
                 "hairColor": "Púrpura",
                 "eyeColor": "Púrpura acinzentada"
             },
@@ -785,7 +785,7 @@ export const characters = {
                 "name": "Lilly Satou",
                 "description": "Cega desde que nascimento, Lilly é gentil, responsável e amigável - o contraste perfeito de Hanako, sua melhor amiga, na qual compartilha uma relação de quase mãe e filha, em adiante ao seu tempo livre, quase sempre fica bebendo chá com sua companheira. Na sala, ela é uma estudante aplicada, com seu senso de confiança servindo bem como representante da turma 3-2.",
                 "birthday": "7 de fevereiro",
-                "zodiacSign": "Aquário",
+                "zodiac": "Aquário",
                 "hairColor": "Loiro",
                 "eyeColor": "Azul"
             },
@@ -860,7 +860,7 @@ export const characters = {
                 "name": "池沢華子",
                 "description": "幼少時に見舞われた惨事のために、華子の人生は大きく狂わされる。父親は失火で家が全焼した際に亡くなり、華子自身も一生消えることのない傷を負った。彼女は極端に人目を避け、どんな人からも遠ざかろうとし、他人との接触でパニックを起こすほどである。初めて出会ってから華子をずっと守り続けてきたリリーは、彼女が信頼できる唯一の友人。",
                 "birthday": "7月10日",
-                "zodiacSign": "蟹座",
+                "zodiac": "蟹座",
                 "hairColor": "紫色",
                 "eyeColor": "灰紫"
             },
@@ -868,7 +868,7 @@ export const characters = {
                 "name": "砂藤リリー",
                 "description": "生まれつき盲目のリリーは優しく、責任感があり、親しみやすい少女である ―― 親友である華子にとっては最高のパートナーだ。二人の関係は母と娘のそれに近く、暇なときにはよく一緒にお茶を飲んでいる。クラスでの彼女は勤勉な生徒で、その深い自信は3年2組のクラス代表を務めるのに大いに役立っている。",
                 "birthday": "6月27日",
-                "zodiacSign": "水瓶座",
+                "zodiac": "水瓶座",
                 "hairColor": "金色",
                 "eyeColor": "青"
             },
@@ -876,7 +876,7 @@ export const characters = {
                 "name": "手塚琳",
                 "description": "重度の先天性障害と、それに伴う手術のため、琳の腕は小さな突起でしかない。そのため彼女は足と、時に口をあらゆる事 ―― 特に絵画 ―― に使う。障害のため、スカートを履くのは無理があるので、琳は学校では男子の制服を着ている。彼女の哲学的なひらめきは、その独創性に負けずとも劣らない。時折考え事に没頭したり、人間や世界、その他諸々のことについて難解な考えを披露するのが好きで、周りの人々は大いに混乱させられている。",
                 "birthday": "3月13日",
-                "zodiacSign": "魚座",
+                "zodiac": "魚座",
                 "hairColor": "赤色",
                 "eyeColor": "濃緑"
             },
@@ -884,7 +884,7 @@ export const characters = {
                 "name": "羽加道静音",
                 "description": "意志が強く、押しが強い静音は間違いなくリーダーの器である。耳が聞こえず、口もきけないにもかかわらず、彼女はずっとクラス委員を務めており、たいていの状況で主導権を握る。学内では厳しい監督者、有能な仕切り屋、そして公正なリーダーとして知られている。",
                 "birthday": "5月6日",
-                "zodiacSign": "牡牛座",
+                "zodiac": "牡牛座",
                 "hairColor": "紺青色",
                 "eyeColor": "青"
             },
@@ -892,7 +892,7 @@ export const characters = {
                 "name": "御門「ミーシャ」椎名",
                 "description": "ミーシャは静音の通訳、かつ生徒会のメンバーである。陽気で茶目っ気があり、本音を決して隠さない彼女は、久夫を生徒会に引き込もうとする静音に喜んで協力する。",
                 "birthday": "11月1日",
-                "zodiacSign": "蠍座",
+                "zodiac": "蠍座",
                 "hairColor": "赤色",
                 "eyeColor": "金"
             },
@@ -1035,7 +1035,7 @@ export const characters = {
                 "name": "池澤華子",
                 "description": "小時候，一場痛苦的經歷使華子的人生變得破碎不堪。她的父親在一場燒毀池澤家的火災中不幸身亡，而華子也因此永久性地毀容。她極度內向，試圖避開所有人，甚至在任何交流接觸都會恐慌。她唯一信賴的朋友是莉莉，兩人最初認識的時候莉莉就已經極力保護華子。",
                 "birthday": "7月10日",
-                "zodiacSign": "巨蟹座",
+                "zodiac": "巨蟹座",
                 "hairColor": "紫色",
                 "eyeColor": "紫灰色"
             },
@@ -1043,7 +1043,7 @@ export const characters = {
                 "name": "砂藤莉莉",
                 "description": "儘管出生時便雙目失明，莉莉是個關愛他人、負責任同時又非常友善的人。莉莉是與華子最親近的人，兩人不僅是摯友，還有一種近似母女的親密關係，兩人常在課餘時間一起品茶。莉莉在班級中是個勤奮的學生，她的自信對其3-2班班長的角色有很大的作用。",
                 "birthday": "2月7日",
-                "zodiacSign": "寶瓶座",
+                "zodiac": "寶瓶座",
                 "hairColor": "金黃色",
                 "eyeColor": "藍色"
             },
