@@ -27,7 +27,9 @@ function deepMerge(...objects) {
     return merged;
 }
 
+console.time('[i18nProvider] Merging strings');
 const strings = deepMerge(taglines, navigation, characters, about);
+console.timeEnd('[i18nProvider] Merging strings');
 // TODO: zh-TW cannot be detected this way, maybe fix it later
 const locales = ['en', 'cs', 'de', 'es', 'fi', 'fr', 'hu', 'it', 'ko', 'pt', 'ja', 'zh', 'zh-TW'];
 const defaultLocale = locales.find(l => l === navigator.language.split('-')[0]) ?? 'en';

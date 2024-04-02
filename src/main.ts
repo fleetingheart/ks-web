@@ -1,4 +1,6 @@
 import { createApp } from "vue";
+import VueViewer from 'v-viewer';
+import 'viewerjs/dist/viewer.css';
 import "./style.css";
 import App from "./App.vue";
 import { i18nInstance } from "./i18n/provider";
@@ -27,8 +29,11 @@ app.use(VueSweetalert2);
 // -- i18n
 app.use(i18nInstance);
 
+// -- Viewer
+app.use(VueViewer);
+
 // -- Mount app
 app.mount("#app");
 
 // -- Measure app start time
-console.log(`App mounted in ${Date.now() - appStart}ms`);
+console.log(`[main] Vue App mounted in ${Date.now() - appStart}ms`);

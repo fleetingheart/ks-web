@@ -1,5 +1,5 @@
 <template>
-    <div class="character">
+    <div class="character" :id="character">
         <h2
             class="font-bold"
             :style="isMinor ? 'font-size: 0.8em;' : ''"
@@ -20,7 +20,6 @@
                         <li>{{ t(`statstrings.threes`) }}: {{ commonData[character].sizes.join("/") }}</li>
                         <li>{{ t(`statstrings.hair`) }}: {{ t(`chardata.${character}.hairColor`) }}</li>
                         <li>{{ t(`statstrings.eyes`) }}: {{ t(`chardata.${character}.eyeColor`) }}</li>
-    
                     </ul>
                     <br>
                 </div>
