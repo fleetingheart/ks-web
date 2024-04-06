@@ -1,7 +1,7 @@
 <template>
     <div class="relative h-screen w-screen">
         <div class="ks-container p-8 relative">
-            <header class="px-2 text-[1.1em] relative flex flex-row gap-5 w-[78%] justify-between">
+            <header class="px-2 text-[1.1em] relative flex flex-row gap-5 w-[78%] justify-between" :class="{ 'kanji-locale': isKanjiLocale }">
                 <div>
                     <router-link class="hover:text-black whitespace-nowrap" to="/about">{{ t('navigation.about') }}</router-link>
                 </div>
@@ -33,8 +33,10 @@ import Footer from './components/Footer.vue'
 import { useI18n } from 'vue-i18n';
 import { initTitleManager } from './services/titlemanager';
 import { useRouter } from 'vue-router';
-const { t } = useI18n();
+import { useIsKanjiLocale } from '@/i18n/provider';
 
+const { t, locale } = useI18n();
+const isKanjiLocale = useIsKanjiLocale(locale);
 initTitleManager(t, useRouter())
 </script>
 
@@ -45,6 +47,12 @@ initTitleManager(t, useRouter())
     font-family: Playtime;
     src: url('/fonts/playtime.ttf');
 }
+
+@font-face {
+    font-family: VLPGothic;
+    src: url('/fonts/VL-PGothic-Regular.ttf');
+}
+
 
 body {
     @apply bg-neutral-900 text-white text-xl;
@@ -62,6 +70,10 @@ body {
 
 header {
     font-family: Playtime;
+}
+
+header.kanji-locale {
+    font-family: VLPGothic;
 }
 
 .router-link-active {
