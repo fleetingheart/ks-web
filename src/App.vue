@@ -28,10 +28,14 @@
     </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import Footer from './components/Footer.vue'
 import { useI18n } from 'vue-i18n';
+import { initTitleManager } from './services/titlemanager';
+import { useRouter } from 'vue-router';
 const { t } = useI18n();
+
+initTitleManager(t, useRouter())
 </script>
 
 <style>
