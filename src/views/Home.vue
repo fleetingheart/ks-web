@@ -1,6 +1,6 @@
 <template>
     <div id="home" class="flex flex-col items-center justify-center h-full relative">
-        <router-link :to="`/characters#${randChar}`" class="text-3xl mb-12">{{ t(`taglines.${randChar}`) }}</router-link>
+        <router-link :to="`/characters#${randChar}`" class="text-3xl mb-12 text-center">{{ t(`taglines.${randChar}`) }}</router-link>
         <div class="absolute bottom-0 flex flex-col">
             <img src="/img/line-s.png" alt="Seperator" class="w-48 mx-auto">
             <div class="flex flex-row gap-4 mt-3">

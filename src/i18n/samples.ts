@@ -67,6 +67,13 @@ export const samples = {
             "opening": "Opening"
         }
     },
+    ru: {
+        "samples": {
+            "screenshots": "Скриншоты",
+            "music": "Музыка",
+            "opening": "Опенинг"
+        }
+    },
     ja: {
         "samples": {
             "screenshots": "スクリーンショット",

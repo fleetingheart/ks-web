@@ -115,6 +115,18 @@ export const navigation = {
             logo: 'Index'
         }
     },
+    ru: {
+        navigation: {
+            main: 'Katawa Shoujo',
+            about: 'Об игре',
+            characters: 'Персонажи',
+            samples: 'Арт',
+            download: 'Скачать',
+            staff: 'Авторы',
+            logo: 'Index',
+            padding: 10
+        }
+    },
     ja: {
         navigation: {
             main: 'かたわ少女',
