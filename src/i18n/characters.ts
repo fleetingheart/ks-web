@@ -831,6 +831,89 @@ export const characters = {
             }
         }
     },
+    ru: {
+        "statstrings": {
+            "bday": "День рождения",
+            "zodiac": "Знак зодиака",
+            "btype": "Группа крови",
+            "height": "Рост",
+            "weight": "Вес",
+            "threes": "Грудь/Талия/Бёдра",
+            "hair": "Цвет волос",
+            "eyes": "Цвет глаз",
+            "minors": "Второстепенные персонажи"
+        },
+        "chardata": {
+            "hisao": {
+                "name": "Хисао Накай",
+                "description": "Пережив многомесячную госпитализацию после того, как его сердце чуть не остановилось, он с трудом пытается найти своё место в новом мире и привыкнуть к новому окружению. После того, как его заставили начать всё с начала, происходящее вокруг безумие заставило Хисао пересмотреть его равнодушное отношение ко всему, особенно к таким вещам, как жизнь, дружба и будущее."
+            },
+            "emi": {
+                "name": "Эми Ибаразаки",
+                "description": "Несмотря на то, что обе её ноги ампутированы ниже колена, Эми, вероятно, самая жизнерадостная и весёлая девушка на всей планете, не говоря уж о конкретной школе. Не оставшись в отчаянии даже после того, как катастрофа лишила её обоих ног, Эми смотрит на свою инвалидность скорее как на благо, её протезы, вместо того, чтобы мешать ей, позволяют достигать невероятных спортивных высот в рамках школьной команды бегунов.",
+                "birthday": "14 марта",
+                "zodiac": "Рыбы",
+                "hairColor": "Светло-рыжий",
+                "eyeColor": "Зелёный, похожий на цвет листьев тополя"
+            },
+            "hanako": {
+                "name": "Ханако Икезава",
+                "description": "В юном возрасте Ханако пережила травмирующий опыт, разрушивший её жизнь. Её отец погиб в пожаре, уничтоживем их дом и обезобразившем Ханако навсегда. Она ведёт затворнический образ жизни, скрываясь от других людей до такой степени, что любая попытка заговорить с ней может привести к панической атаке. Её единственный друг — Лилли, которая взяла её к себе под опеку с тех пор, как они познакомились.",
+                "birthday": "10 июля",
+                "zodiac": "Рак",
+                "hairColor": "Фиолетовый",
+                "eyeColor": "Серо-фиолетовые"
+            },
+            "lilly": {
+                "name": "Лилли Сато",
+                "description": "Слепая от рождения Лилли — заботливая, ответственная и дружелюбная девушка — является идеальным компаньоном для Ханако, её лучшей подруги, отношения с которой у неё похожи на таковые для матери и дочери. С ней она регулярно проводит время за кружкой чая. Она является усердным студентом, уверенным в своих силах, что позволяет ей успешно исполнять обязанности старосты класса 3-2",
+                "birthday": "7 февраля",
+                "zodiac": "Водолей",
+                "hairColor": "Блондинка",
+                "eyeColor": "Голубой"
+            },
+            "rin": {
+                "name": "Rin Tezuka",
+                "description": "Since Rin’s arms are tiny stumps due to a severe birth defect and subsequent surgery, she uses her feet and occasionally her mouth to do everything, which includes painting. Because of her disability, using skirts is tough, so Rin is wearing a boy’s uniform at school. Her creativity is matched by her philosophical streak: Rin is fond of occasionally getting lost in thought and giving voice to abstract ideas about man, the universe, and other things that thoroughly confuse people.",
+                "birthday": "March 13",
+                "zodiac": "Pisces",
+                "hairColor": "Red",
+                "eyeColor": "Dark Green"
+            },
+            "shizune": {
+                "name": "Shizune Hakamichi",
+                "description": "Strong willed and forceful, Shizune is definitely the leader type. She’s been the class rep, despite being deaf and mute, for as long as her class has had one, and generally takes charge in just about any situation she’s placed in. Shizune is known around the school as a fearsome taskmaster, and skilled manipulator, but also as a fair and just leader.",
+                "birthday": "May 6",
+                "zodiac": "Taurus",
+                "hairColor": "Dark Blue",
+                "eyeColor": "Blue"
+            },
+            "misha": {
+                "name": "Shiina \"Misha\" Mikado",
+                "description": "Misha is the interpreter for Shizune and a fellow member of the student council. Cheery, playful, and never one to pull a punch, she happily joins in Shizune's attempts to get Hisao onto the student council.",
+                "birthday": "November 1",
+                "zodiac": "Scorpio",
+                "hairColor": "Pink",
+                "eyeColor": "Gold"
+            },
+            "kenji": {
+                "name": "Kenji Setou",
+                "description": "Borderline hikkikomori, Kenji likes to spend a lot of time in his room, planning for whatever the radical feminist movement's next move may be. He is leery of the instant attraction that Hisao seems to have brought upon himself, but nonetheless very pleased to finally have a hallmate."
+            },
+            "nurse": {
+                "name": "Nurse",
+                "description": "The chief of the nurse staff of Yamaku, and a surprisingly young person for someone in his position. He is a funny and jovial guy, always good for a laugh and well liked by students. Nonetheless, he has a heart of pure gold and he is very passionate and serious about his job."
+            },
+            "muto": {
+                "name": "Akio Mutou",
+                "description": "Both homeroom and science teacher of 3-3, and just as much out of touch with his class as he is out of touch with reality. Probably born to be a teacher (no matter how much his students disagree), his greatest skill is the ability to ignore irrelevant things completely (no matter how much anyone who wishes he'd remember their names disagrees)."
+            },
+            "yuuko": {
+                "name": "Yuuko Shirakawa",
+                "description": "Yuuko has serious problems with managing her life, which makes her the perfect person to ask for help to manage one's own. She funds her university studies by working part time at a popular cafe. The lengths she goes to avoid being fired for her natural clumsiness bewilder other people, along with her neurotic attention to detail and frequent streaks of depression."
+            }
+        }
+    },
     ja: {
         "statstrings": {
             "bday": "誕生日",
