@@ -6,7 +6,7 @@ import { characters } from "./characters";
 import { about } from "./about";
 import { downloads } from "./downloads";
 import { samples } from "./samples";
-import { WritableComputedRef } from "vue";
+import { WritableComputedRef, computed } from "vue";
 
 function deepMerge(...objects) {
     const merged = {};
@@ -53,4 +53,9 @@ export function persistentChangeLocale(instance: WritableComputedRef<string>, ne
     instance.value = newLocale;
     localStorage.setItem('locale', newLocale);
     console.log('[i18nProvider] Locale changed to', newLocale);
+}
+
+export function useIsKanjiLocale(instance: WritableComputedRef<string>) {
+    const kanjiLocales = ['ja', 'zh-CN', 'zh-TW'];
+    return computed(() => kanjiLocales.includes(instance.value));
 }
