@@ -28,9 +28,6 @@ const { t, locale } = useI18n();
 const characters = ["shizune", "emi", "rin", "hanako", "lilly"];
 const randChar = characters[Math.floor(Math.random() * characters.length)];
 const isKanjiLocale = useIsKanjiLocale(locale);
-setInterval(() => {
-    console.log('isKanjiLocale', isKanjiLocale.value)
-}, 1000)
 </script>
 
 <style scoped>
