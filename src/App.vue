@@ -12,7 +12,7 @@
                     <router-link class="hover:text-black whitespace-nowrap" to="/samples">{{ t('navigation.samples') }}</router-link>
                 </div>
                 <div>
-                    <router-link class="hover:text-black whitespace-nowrap" to="/download">{{ t('navigation.download') }}</router-link>
+                    <router-link class="hover:text-black whitespace-nowrap dl-link" to="/download">{{ t('navigation.download') }}</router-link>
                 </div>
                 <div>
                     <router-link class="hover:text-black whitespace-nowrap" to="/staff">{{ t('navigation.staff') }}</router-link>
@@ -52,7 +52,7 @@ body {
 .ks-container {
     width: 640px;
     height: 480px;
-    background: url('/img/innerbg_release.jpg');
+    background: url('/img/innerbg.jpg');
     @apply absolute left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%];
 }
 
@@ -62,6 +62,15 @@ header {
 
 .router-link-active {
     @apply pointer-events-none text-black
+}
+
+.dl-link {
+    position: relative;
+}
+
+.dl-link::before {
+    content: url('/img/redcircle.png');
+    @apply absolute -z-10 left-[-10%] top-[-75%];
 }
 
 /* width */
