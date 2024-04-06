@@ -1,7 +1,7 @@
 <template>
     <div id="downloads" class="pageview flex flex-col gap-1">
         <div id="full-version">
-            <h1 class="font-bold">Full Version</h1>
+            <h1 class="font-bold">{{ t('downloads.full') }}</h1>
             <div class="separator"></div>
             <i class="text-[0.7em]">Languages: English, Français, Español Internacional, 日本語</i>
             <div class="p-1 text-[0.90em] leading-6">
@@ -20,7 +20,7 @@
             </div>
         </div>
         <div id="act-one-version">
-            <h1 class="font-bold">Act 1 (v5)</h1>
+            <h1 class="font-bold">{{ t('downloads.preview') }} (v5)</h1>
             <div class="separator"></div>
             <i class="text-[0.7em] mt-2">Languages: English, Deutsch, Français, Magyar, Italiano, 日本語, Русский, 简体中文, 繁體中文</i>
             <div class="p-1 text-[0.90em] leading-6">
@@ -39,7 +39,7 @@
             </div>
         </div>
         <div id="soundtrack">
-            <h1 class="font-bold">Soundtrack</h1>
+            <h1 class="font-bold">{{ t('downloads.soundtrack') }} </h1>
             <div class="separator"></div>
             <div class="p-1 text-[0.90em] leading-6">
                 <p>
@@ -69,7 +69,7 @@
             </div>
         </div>
         <div id="wallpapers">
-            <h1 class="font-bold">Wallpapers</h1>
+            <h1 class="font-bold">{{ t('downloads.wallpapers') }}</h1>
             <div class="separator"></div>
             <div class="p-1 text-[0.90em] inline-grid grid-cols-3 gap-3">
                 <div v-for="wallpaper, k of commonData.wallpapers" :key="k" class="flex flex-col items-center leading-5">
@@ -88,20 +88,20 @@
             </div>
         </div>
         <div id="link-banners" class="text-[0.90em]">
-            <h1 class="font-bold">Link Banners</h1>
+            <h1 class="font-bold">{{ t('downloads.banners') }}</h1>
             <div class="separator"></div>
             <div class="flex flex-col gap-4">
                 <div>
-                    <img src="/img/banner/ks_banner_small.jpg" alt="Small Banner">
-                    <a href="/img/banner/ks_banner_small.jpg">Small 88x31</a>
+                    <img src="/img/banner/ks_banner_small.jpg" :alt="`${t('downloads.small')} Banner`">
+                    <a href="/img/banner/ks_banner_small.jpg">{{ t('downloads.small') }} 88x31</a>
                 </div>
                 <div>
-                    <img src="/img/banner/ks_banner_medium.jpg" alt="Medium Banner">
-                    <a href="/img/banner/ks_banner_medium.jpg">Medium 200x40</a>
+                    <img src="/img/banner/ks_banner_medium.jpg" :alt="`${t('downloads.medium')} Banner`">
+                    <a href="/img/banner/ks_banner_medium.jpg">{{ t('downloads.medium') }} 200x40</a>
                 </div>
                 <div>
-                    <img src="/img/banner/ks_banner.jpg" alt="Standard Banner">
-                    <a href="/img/banner/ks_banner.jpg">Standard 468x60</a>
+                    <img src="/img/banner/ks_banner.jpg" :alt="`${t('downloads.standard')} Banner`">
+                    <a href="/img/banner/ks_banner.jpg">{{ t('downloads.standard') }} 468x60</a>
                 </div>
             </div>
         </div>

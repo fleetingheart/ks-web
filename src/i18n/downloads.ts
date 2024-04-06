@@ -1,0 +1,283 @@
+export const downloads = {
+    en: {
+        "downloads": {
+            "preview": "Act 1",
+            "previewstatus": "<i>tba</i>",
+            "full": "Full version",
+            "fullstatus": "<i>tba</i>",
+            "wallpapers": "Wallpapers",
+            "emi": "Emi",
+            "misha": "Misha",
+            "sd": "SD Girls",
+            "shizune": "Shizune",
+            "banners": "Link Banners",
+            "small": "Small",
+            "medium": "Medium",
+            "standard": "Standard",
+            "wiz": "Wizard",
+            "tile": "Tile",
+            "soviet": "Soviet",
+            "artbooks": "Artbooks",
+            "soundtrack": "Soundtrack",
+            "ja_JP": "Japanese",
+            "en_US": "English",
+            "pg": "Player Guide",
+            "fon": "Fragments of Summer",
+            "ksmw": "Midwinter",
+            "kstt": "Tomorrow/Today",
+            "fr_FR": "French",
+            "ksab": "Kawasoft Artbook",
+            "ksis": "Imperfect Spectrum",
+            "ksbs": "Beauty & Strangeness",
+            "kstsh": "The Soft Hour"
+        }
+    },
+    cs: {
+        "downloads": {
+            "preview": "Zkušební verze",
+            "previewstatus": "<i>Bude ohlášena</i>",
+            "full": "Plná verze",
+            "fullstatus": "<i>Bude ohlášena</i>",
+            "wallpapers": "Wallpapery",
+            "emi": "Emi",
+            "misha": "Misha",
+            "sd": "KS dívky",
+            "shizune": "Shizune",
+            "banners": "Bannery pro linkování",
+            "small": "Malý",
+            "medium": "Střední",
+            "standard": "Standardní",
+            "wiz": "Wizard",
+            "tile": "Tile",
+            "soviet": "Soviet",
+            "artbooks": "Artbooks",
+            "soundtrack": "Soundtrack",
+            "ja_JP": "Japanese",
+            "en_US": "English",
+            "pg": "Player Guide",
+            "fon": "Fragments of Summer",
+            "ksmw": "Midwinter",
+            "kstt": "Tomorrow/Today",
+            "fr_FR": "French",
+            "ksab": "Kawasoft Artbook",
+            "ksis": "Imperfect Spectrum",
+            "ksbs": "Beauty & Strangeness",
+            "kstsh": "The Soft Hour"
+        }
+    },
+    de: {
+        "downloads": {
+            "preview": "Akt 1",
+            "previewstatus": "<i>tba</i>",
+            "full": "Vollversion",
+            "fullstatus": "<i>tba</i>",
+            "wallpapers": "Wallpapers",
+            "emi": "Emi",
+            "misha": "Misha",
+            "sd": "SD",
+            "shizune": "Shizune",
+            "banners": "Link-Banner",
+            "small": "Klein",
+            "medium": "Mittel",
+            "standard": "Standard",
+            "wiz": "Wizard",
+            "tile": "Tile",
+            "soviet": "Soviet",
+            "artbooks": "Artbooks",
+            "soundtrack": "Soundtrack",
+            "ja_JP": "Japanisch",
+            "en_US": "Englisch",
+            "pg": "Player Guide",
+            "fon": "Fragments of Summer",
+            "ksmw": "Midwinter",
+            "kstt": "Tomorrow/Today",
+            "fr_FR": "Französisch"
+        }
+    },
+    es: {
+        "downloads": {
+            "preview": "Acto 1",
+            "previewstatus": "<i>N/D</i>",
+            "full": "Versión completa",
+            "fullstatus": "<i>N/D</i>",
+            "wallpapers": "Fondos de pantalla",
+            "emi": "Emi",
+            "misha": "Misha",
+            "sd": "SD",
+            "shizune": "Shizune",
+            "banners": "Banners de sitio",
+            "small": "pequeño",
+            "medium": "medio",
+            "standard": "standard"
+        }
+    },
+    fi: {
+        "downloads": {
+            "preview": "Ennakkoversio",
+            "previewstatus": "<i>Julkaistaan myöhemmin</i>",
+            "full": "Täysi versio",
+            "fullstatus": "<i>Julkaistaan myöhemmin</i>",
+            "wallpapers": "Taustakuvat",
+            "emi": "Emi",
+            "misha": "Misha",
+            "sd": "SD",
+            "shizune": "Shizune",
+            "banners": "Linkkibannerit",
+            "small": "Pieni",
+            "medium": "Medium",
+            "standard": "Standardi"
+        }
+    },
+    fr: {
+        "downloads": {
+            "preview": "Acte 1",
+            "previewstatus": "<i>N/A</i>",
+            "full": "Version complète",
+            "fullstatus": "<i>N/A</i>",
+            "wallpapers": "Fonds d'écran",
+            "emi": "Emi",
+            "misha": "Misha",
+            "sd": "SD",
+            "shizune": "Shizune",
+            "banners": "Bannières",
+            "small": "Petit",
+            "medium": "Moyen",
+            "standard": "Standard"
+        }
+    },
+    hu: {
+        "downloads": {
+            "preview": "Első Fejezet",
+            "previewstatus": "<i>tba</i>",
+            "full": "Teljes verzió",
+            "fullstatus": "<i>tba</i>",
+            "wallpapers": "Háttérképek",
+            "emi": "Emi",
+            "misha": "Misha",
+            "sd": "SD",
+            "shizune": "Shizune",
+            "banners": "Link Bannerek",
+            "small": "Kicsi",
+            "medium": "Közepes",
+            "standard": "Átlagos"
+        }
+    },
+    it: {
+        "downloads": {
+            "preview": "Anteprima",
+            "previewstatus": "<i>nd</i>",
+            "full": "Versione completa",
+            "fullstatus": "<i>nd</i>",
+            "wallpapers": "Sfondi",
+            "emi": "Emi",
+            "misha": "Misha",
+            "sd": "SD",
+            "shizune": "Shizune",
+            "banners": "Banner per collegamento",
+            "small": "Piccolo",
+            "medium": "Medio",
+            "standard": "Standard"
+        }
+    },
+    ko: {
+        "downloads": {
+            "preview": "제 1장",
+            "previewstatus": "<i>nd</i>",
+            "full": "풀버전",
+            "fullstatus": "<i>nd</i>",
+            "wallpapers": "바탕화면",
+            "emi": "에미",
+            "misha": "미샤",
+            "sd": "SD 소녀",
+            "shizune": "시즈네",
+            "banners": "링크 배너",
+            "small": "소",
+            "medium": "중",
+            "standard": "표준"
+        }
+    },
+    pt: {
+        "downloads": {
+            "preview": "Ato 1",
+            "previewstatus": "<i>A ser adicionada.</i>",
+            "full": "Versão completa",
+            "fullstatus": "<i>A ser adicionada.</i>",
+            "wallpapers": "Papeis de Parede",
+            "emi": "Emi",
+            "misha": "Misha",
+            "sd": "SD",
+            "shizune": "Shizune",
+            "banners": "Link Banners",
+            "small": "Pequeno",
+            "medium": "Médio",
+            "standard": "Grande"
+        }
+    },
+    ja: {
+        "downloads": {
+            "preview": "体験版",
+            "previewstatus": "<i>準備中</i>",
+            "full": "完全版",
+            "fullstatus": "<i>準備中</i>",
+            "wallpapers": "壁紙",
+            "emi": "笑美",
+            "misha": "ミーシャ",
+            "sd": "SDキャラ",
+            "shizune": "静音",
+            "banners": "リンクバナー",
+            "small": "小",
+            "medium": "中",
+            "standard": "標準",
+            "wiz": "Wizard",
+            "tile": "Tile",
+            "soviet": "Soviet",
+            "artbooks": "同人誌",
+            "soundtrack": "サウンドトラック",
+            "ja_JP": "日本語版",
+            "en_US": "英語版",
+            "pg": "プレイヤーズガイド",
+            "fon": "夏の欠片",
+            "ksmw": "Midwinter",
+            "kstt": "Tomorrow/Today",
+            "fr_FR": "フランス語"
+        }
+    },
+    zh: {
+        "downloads": {
+            "preview": "第一章",
+            "previewstatus": "<i>未发布</i>",
+            "full": "完全版",
+            "fullstatus": "<i>未发布</i>",
+            "wallpapers": "壁纸",
+            "emi": "笑美",
+            "misha": "米莎",
+            "sd": "SD Girls",
+            "shizune": "静音",
+            "banners": "链接用图像",
+            "small": "小",
+            "medium": "中",
+            "standard": "普通",
+            "wiz": "巫师",
+            "tile": "拼图"
+        }
+    },
+    "zh-TW": {
+        "downloads": {
+            "preview": "第一章",
+            "previewstatus": "<i>未發佈</i>",
+            "full": "完全版",
+            "fullstatus": "<i>未發佈</i>",
+            "wallpapers": "牆紙",
+            "emi": "笑美",
+            "misha": "米莎",
+            "sd": "SD Girls",
+            "shizune": "靜音",
+            "banners": "連結用圖像",
+            "small": "小",
+            "medium": "中",
+            "standard": "普通",
+            "wiz": "巫師",
+            "tile": "拼圖"
+        }
+    }
+}
