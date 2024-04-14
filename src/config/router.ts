@@ -9,6 +9,7 @@ export const routes: vRoute[] = [
     { path: "/about", name: "About", component: () => import("@/views/About.vue") },
     { path: "/download", name: "Download", component: () => import("@/views/Download.vue") },
     { path: "/samples", name: "Samples", component: () => import("@/views/Samples.vue") },
+    { path: "/staff", name: "Staff", component: () => import("@/views/Staff.vue") },
 ];
 
 export const router = createRouter({
