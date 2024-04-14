@@ -11,8 +11,8 @@
         <div class="absolute bottom-0 flex flex-col">
             <img src="/img/line-s.png" alt="Seperator" class="w-48 mx-auto">
             <div class="flex flex-row gap-4 mt-3">
-                <a target="_blank" href="https://katawashoujo.blogspot.com/">Blog</a>
-                <a target="_blank" href="http://ks.fhs.sh/">Forum</a>
+                <a target="_blank" href="https://katawashoujo.blogspot.com/">{{ t(`footer.blog`) }}</a>
+                <a target="_blank" href="http://ks.fhs.sh/">{{ t(`footer.forum`) }}</a>
                 <a target="_blank" href="http://shimmie.katawa-shoujo.com/">Shimmie</a>
                 <a target="_blank" href="irc://irc.irchighway.net/katawa-shoujo">IRC</a>
             </div>
