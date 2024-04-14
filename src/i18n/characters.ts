@@ -873,44 +873,44 @@ export const characters = {
                 "eyeColor": "Голубой"
             },
             "rin": {
-                "name": "Rin Tezuka",
-                "description": "Since Rin’s arms are tiny stumps due to a severe birth defect and subsequent surgery, she uses her feet and occasionally her mouth to do everything, which includes painting. Because of her disability, using skirts is tough, so Rin is wearing a boy’s uniform at school. Her creativity is matched by her philosophical streak: Rin is fond of occasionally getting lost in thought and giving voice to abstract ideas about man, the universe, and other things that thoroughly confuse people.",
-                "birthday": "March 13",
-                "zodiac": "Pisces",
-                "hairColor": "Red",
-                "eyeColor": "Dark Green"
+                "name": "Рин Тезука",
+                "description": "В результате серьёзного врождённого дефекта и последующей операции руки Рин представляют из себя небольшие культи, из-за чего она использует свои ноги и иногда рот, чтобы взаимодействовать с окружающим миром, в том числе, чтобы рисовать. Из-за её инвалидности ей неудобно ходить в юбке, поэтому она носит мужскую школьную форму. Её креативность соответствует её философской натуре: Рин нравится периодически погружаться в собственные мысли и озвучивать абстрактные идеи о людях, вселенной и прочих вещах, что изрядно озадачивает окружаюющих.",
+                "birthday": "13 марта",
+                "zodiac": "Рыбы",
+                "hairColor": "Бордовый",
+                "eyeColor": "Тёмно-серые"
             },
             "shizune": {
-                "name": "Shizune Hakamichi",
-                "description": "Strong willed and forceful, Shizune is definitely the leader type. She’s been the class rep, despite being deaf and mute, for as long as her class has had one, and generally takes charge in just about any situation she’s placed in. Shizune is known around the school as a fearsome taskmaster, and skilled manipulator, but also as a fair and just leader.",
-                "birthday": "May 6",
-                "zodiac": "Taurus",
-                "hairColor": "Dark Blue",
-                "eyeColor": "Blue"
+                "name": "Шизуне Хакамичи",
+                "description": "Целеустремлённая и преодолевающая любые преграды, несмотря ни на что, Шизуне определённо обладает лидерским характером. Несмотря на то, что она глухонема, она является старостой своего класса с самого начала обучения, и обычно она берёт контроль над любой ситуацией, в которой оказывается. С одной стороны, Шизуне получила в школе репутацию вызывающего страх надсмотрщика и умелого манипулятора, а с другой — справедливого и честного руководителя.",
+                "birthday": "6 мая",
+                "zodiac": "Телец",
+                "hairColor": "Тёмно-синий",
+                "eyeColor": "Синий"
             },
             "misha": {
-                "name": "Shiina \"Misha\" Mikado",
-                "description": "Misha is the interpreter for Shizune and a fellow member of the student council. Cheery, playful, and never one to pull a punch, she happily joins in Shizune's attempts to get Hisao onto the student council.",
-                "birthday": "November 1",
-                "zodiac": "Scorpio",
-                "hairColor": "Pink",
-                "eyeColor": "Gold"
+                "name": "Шиина «Миша» Микадо",
+                "description": "Миша — переводчик Шизуне и один из членов Школьного совета. Весёлая, игривая и не упускающая шанса пошутить, она с удовольствием включается в попытки Шизуне заманить Хисао в школьный совет.",
+                "birthday": "1 ноября",
+                "zodiac": "Скорпион",
+                "hairColor": "Розовый",
+                "eyeColor": "Золотой"
             },
             "kenji": {
-                "name": "Kenji Setou",
-                "description": "Borderline hikkikomori, Kenji likes to spend a lot of time in his room, planning for whatever the radical feminist movement's next move may be. He is leery of the instant attraction that Hisao seems to have brought upon himself, but nonetheless very pleased to finally have a hallmate."
+                "name": "Кендзи Сето",
+                "description": "Будучи классическим примером хиккикомори, Кендзи предпочитает проводить большую часть времени у себя в комнате, готовясь отразить следующую атаку феминистского движения, какой бы она ни была. Его настораживает то, как быстро Хисао привлёк к себе внимание, но несмотря на это, он рад тому, чоо у него наконец-то появился сосед по коридору."
             },
             "nurse": {
-                "name": "Nurse",
-                "description": "The chief of the nurse staff of Yamaku, and a surprisingly young person for someone in his position. He is a funny and jovial guy, always good for a laugh and well liked by students. Nonetheless, he has a heart of pure gold and he is very passionate and serious about his job."
+                "name": "Фельдшер.",
+                "description": "Руководитель медицинского персонала Ямаку, удивительно молодой человек для такой должности. Будучи весёлым и жизнерадостным парнем, не упускающим возможности посмеяться, он завоевал любовь всех учеников. Он всегда серьёзно и со всей отдачей относится к своей работе, воспринимая всё близко к сердцу."
             },
             "muto": {
-                "name": "Akio Mutou",
-                "description": "Both homeroom and science teacher of 3-3, and just as much out of touch with his class as he is out of touch with reality. Probably born to be a teacher (no matter how much his students disagree), his greatest skill is the ability to ignore irrelevant things completely (no matter how much anyone who wishes he'd remember their names disagrees)."
+                "name": "Акио Муто",
+                "description": "Преподаватель естественных наук и классный руководитель класса 3-3, он настолько же оторван от своего класса, насколько он оторван от реальности. Пожалуй, он прирождённый учитель (несмотря на то, сколько его учеников могли бы с этим не согласиться), и его самое главное умение — игнорировать то, что не является важным (и неважно, что каждый, кто хотел бы, чтобы они запоминал, как их зовут, с этим не согласен)."
             },
             "yuuko": {
-                "name": "Yuuko Shirakawa",
-                "description": "Yuuko has serious problems with managing her life, which makes her the perfect person to ask for help to manage one's own. She funds her university studies by working part time at a popular cafe. The lengths she goes to avoid being fired for her natural clumsiness bewilder other people, along with her neurotic attention to detail and frequent streaks of depression."
+                "name": "Юко Ширакава",
+                "description": "Юко очень трудно разобраться с собственной жизню, что делает её идеальным советчиком для тех, у кого в жизни есть проблемы. Чтобы обеспечить своё обучение в институте, она работает в популярном кафе на полставки. То, как она пытается приложить все усилия, чтобы её не уволили из-за её природной неуклюжести порой озадачивает окружающих, так же 4как и её невротическое внимание к деталям и частые приступы депрессии."
             }
         }
     },
