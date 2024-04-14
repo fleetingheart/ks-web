@@ -1,5 +1,4 @@
-import { RouteLocationNormalized, RouterOptions, createRouter, createWebHistory } from "vue-router";
-import { nextTick, watch } from "vue";
+import { RouterOptions, createRouter, createWebHistory } from "vue-router";
 
 export type vRoute = RouterOptions["routes"][number];
 
