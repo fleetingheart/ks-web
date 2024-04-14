@@ -213,6 +213,39 @@ export const downloads = {
             "standard": "Grande"
         }
     },
+    ru: {
+        "downloads": {
+            "preview": "Акт 1",
+            "previewstatus": "<i>tba</i>",
+            "full": "Последняя версия",
+            "fullstatus": "<i>tba</i>",
+            "wallpapers": "Обои для рабочего стола",
+            "emi": "Эми",
+            "misha": "Миша",
+            "sd": "Чибики",
+            "shizune": "Шизуне",
+            "banners": "Баннеры для форумов",
+            "small": "Маленький",
+            "medium": "Средний",
+            "standard": "Большой",
+            "wiz": "Маг",
+            "tile": "Пазл",
+            "soviet": "Коммунизм",
+            "artbooks": "Артбуки",
+            "soundtrack": "Саундтрек",
+            "ja_JP": "Японский",
+            "en_US": "Английский",
+            "pg": "Руководство для игрока",
+            "fon": "Fragments of Summer",
+            "ksmw": "Midwinter",
+            "kstt": "Tomorrow/Today",
+            "fr_FR": "Французский",
+            "ksab": "Kawasoft Artbook",
+            "ksis": "Imperfect Spectrum",
+            "ksbs": "Beauty & Strangeness",
+            "kstsh": "The Soft Hour"
+        }
+    },
     ja: {
         "downloads": {
             "preview": "体験版",
