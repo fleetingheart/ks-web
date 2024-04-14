@@ -230,7 +230,7 @@ export const downloads = {
             "standard": "Большой",
             "wiz": "Маг",
             "tile": "Пазл",
-            "soviet": "Коммунизм",
+            "soviet": "В советской России...",
             "artbooks": "Артбуки",
             "soundtrack": "Саундтрек",
             "ja_JP": "Японский",
