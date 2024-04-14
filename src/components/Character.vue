@@ -14,9 +14,9 @@
                     <ul>
                         <li>{{ t(`statstrings.bday`) }}: {{ t(`chardata.${character}.birthday`) }}</li>
                         <li>{{ t(`statstrings.zodiac`) }}: {{ t(`chardata.${character}.zodiac`) }}</li>
-                        <li>{{ t(`statstrings.btype`) }}: {{ commonData[character].btype }}</li>
-                        <li>{{ t(`statstrings.height`) }}: {{ commonData[character].height }} {{ distanceUnit }}</li>
-                        <li>{{ t(`statstrings.weight`) }}: {{ commonData[character].weight }} {{ weightUnit }}</li>
+                        <li>{{ t(`statstrings.btype`) }}: {{ t(`chardata.${character}.btype`) }}</li>
+                        <li>{{ t(`statstrings.height`) }}: {{ commonData[character].height }} {{ t(`statstrings.cm`) }}</li>
+                        <li>{{ t(`statstrings.weight`) }}: {{ commonData[character].weight }} {{ t(`statstrings.kg`) }}</li>
                         <li>{{ t(`statstrings.threes`) }}: {{ commonData[character].sizes.join("/") }}</li>
                         <li>{{ t(`statstrings.hair`) }}: {{ t(`chardata.${character}.hairColor`) }}</li>
                         <li>{{ t(`statstrings.eyes`) }}: {{ t(`chardata.${character}.eyeColor`) }}</li>
@@ -49,43 +49,35 @@ const characters = ["shizune", "emi", "rin", "hanako", "lilly"];
 const commonData = {
     emi: {
         sizes: [70, 51, 74],
-        btype: "B",
         height: 151,
         weight: 41
     },
     hanako: {
         sizes: [86, 56, 84],
-        btype: "AB",
         height: 164,
         weight: 52
     },
     lilly: {
         sizes: [89, 61, 89],
-        btype: "A",
         height: 171,
         weight: 59
     },
     rin: {
         sizes: [83, 54, 78],
-        btype: "AB",
         height: 161,
         weight: 50
     },
     shizune: {
         sizes: [88, 52, 85],
-        btype: "O",
         height: 158,
         weight: 53
     },
     misha: {
         sizes: [85, 58, 84],
-        btype: "AB",
         height: 158,
         weight: 57
     }
 };
-const distanceUnit = "cm";
-const weightUnit = "kg";
 </script>
 
 <style scoped>

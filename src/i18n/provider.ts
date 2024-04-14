@@ -6,6 +6,7 @@ import { characters } from "./characters";
 import { about } from "./about";
 import { downloads } from "./downloads";
 import { samples } from "./samples";
+import { footer } from "./footer";
 import { staff } from "./staff";
 import { WritableComputedRef, computed } from "vue";
 
@@ -31,7 +32,7 @@ function deepMerge(...objects) {
 }
 
 console.time('[i18nProvider] Merging strings');
-const strings = deepMerge(taglines, navigation, characters, about, downloads, samples, staff);
+const strings = deepMerge(taglines, navigation, characters, about, downloads, samples, footer, staff);
 console.timeEnd('[i18nProvider] Merging strings');
 // TODO: zh-TW cannot be detected this way, maybe fix it later
 const locales = ['en', 'cs', 'de', 'es', 'fi', 'fr', 'hu', 'it', 'ko', 'pt', 'ja', 'zh', 'zh-TW'];
