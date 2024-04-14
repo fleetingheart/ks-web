@@ -582,6 +582,106 @@ export const staff = {
             `
         }
     },
+    ru: {
+        "staff": {
+            content: `
+                <h2 class="first">О Four Leaf Studios</h2>
+                <img src="/img/concept.jpg" alt="Страница из омаке, нарисованная RAITA" id="concept-img">
+                Новый 2007-й год не предвещал ничего необычного для посетителей <a href="http://zip.4chan.org/a/imgboard.html">раздела
+                    /a/</a> на <a href="http://4chan.org/">4chan</a>, но 4 января анонимный пользователь запостил <a
+                    href="http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]"
+                    title="страница из омаке, нарисованная RAITA">страницу омаке</a> из доудзина <a
+                    href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> из цикла Zettai Shoujo за авторством
+                <a href="http://www.geocities.jp/raita_z/">RAITA</a>. Эта страница описывала персонажей из симулятора свиданий, который
+                был назван «Katawa Shoujo». По причинам, которые мы уже никогда не выясним, чья-то гениальная идея воплотить идею RAITA
+                в жизнь всех заразила, и вскоре идеи того, как могла бы выглядеть такая игра — начиная от нежной истории любви и
+                заканчивая больными сексуальными фантазиями — заполонили ветку с комментариями. Сумасшедшая идея создания настоящей
+                игры, основанной всего лишь на одной картинке и небольших заметках на полях с идеями, которые оставил RAITA взбудоражила
+                мозг коллективного Анонимуса настолько, что люди начали относиться к этому проекту <a href="./sticky/">со всей
+                    серьёзностью</a>.
+                <br>
+                <br>
+                Вскоре появились <a href="http://s8.invisionfree.com/Zettai_Shojou/index.php">форумы</a> <a
+                    href="http://ks.fhs.sh/">разработки</a> и в течение следующих месяцев люди на них делились своими идеями и
+                предложениями, пытались проработать свои идеи, рисовали арт с примерами, писали тексты и пытались привести в порядок
+                хаотичную дискуссию десятков людей, спорящих о том, как должна выглядеть и разрабатываться игра. Именно с этого момента
+                самые активные участники дискуссии начали настоящую разработку игры, взяв имя Four Leaf Studios <i>(«студия
+                    Четырехлистник» — отсылка к логотипу 4chan, четырёхлистному клеверу — прим. переводчика)</i>. Активная разработка
+                проекта началась летом 2007 года.
+                <br>
+                <br>
+                Работа продолжалась вплоть до 2012 года. В течение пяти долгих лет Four Leaf Studios трудились над проектом, невзирая на
+                то, что очень долгое время было непонятно, увидит ли он свет вообще. Свет в конце тоннеля, впрочем, забрезжил в конце
+                2011 года, когда был начат путь к выпуску финальной версии игры.
+                <br>
+                <br>
+                Katawa Shoujo была выпущена 4 января 2012 года, спустя ровно пять лет после того самого треда на 4chan.
+
+                <h2>Авторы игры</h2>
+                <h3>Сценарий</h3>
+                <ul>
+                    <li>Anonymous22</li>
+                    <li><a href="http://twitter.com/enneuni" target="_blank">Aura</a></li>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                    <li><a href="http://twitter.com/TheHivemindstw" target="_blank">TheHivemind</a></li>
+                </ul>
+                <h3>Редактура</h3>
+                <ul>
+                    <li>Kagami</li>
+                    <li>Losstarot</li>
+                    <li>Silentcook</li>
+                </ul>
+                <h3>Музыка</h3>
+                <ul>
+                    <li><a href="http://twitter.com/AoiichiNiiSan" target="_blank">Blue123</a></li>
+                    <li><a href="http://twitter.com/nicolarmarfi" target="_blank">NicolArmarfi</a></li>
+                </ul>
+                <h3>Арт</h3>
+                <ul>
+                    <li><a href="http://twitter.com/MightyKow" target="_blank">gebyy-terar</a></li>
+                    <li>Kamifish</li>
+                    <li><a href="http://twitter.com/burgooblop" target="_blank">moekki</a></li>
+                    <li><a href="http://twitter.com/CurePimmy" target="_blank">Pimmy</a></li>
+                    <li><a href="http://twitter.com/weee_desu" target="_blank">raemz</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                </ul>
+                <h3>Дополнительный арт</h3>
+                <ul>
+                    <li><a href="http://twitter.com/not_climatic" target="_blank">climatic</a></li>
+                    <li>Doomfest</li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>Анимационные ролики</h3>
+                <ul>
+                    <li><a href="http://mikeinel.deviantart.com/" target="_blank">Mike Inel</a></li>
+                </ul>
+                <h3>Режиссура</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>Разработка</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                </ul>
+                <h3>Продюсеры</h3>
+                <ul>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                </ul>
+                <h3>Отдельная благодарность</h3>
+                <ul>
+                    <li>replicated</li>
+                    <li><a href="http://twitter.com/hir000" target="_blank">hir</a></li>
+                    <li><a href="http://twitter.com/renpytom" target="_blank">PyTom</a></li>
+                    <li><a href="http://twitter.com/raita_z/" target="_blank">RAITA</a></li>
+                    <li>многие другие, кто внёс небольшой вклад в проект — всех и не вспомнить...</li>
+                </ul>
+            `
+        }
+    },
     zh: {
         "staff": {
             content: `
