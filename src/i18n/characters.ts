@@ -9,7 +9,9 @@ export const characters = {
             "threes": "Bust/Waist/Hips",
             "hair": "Hair",
             "eyes": "Eyes",
-            "minors": "Minor Characters"
+            "minors": "Minor Characters",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -98,7 +100,9 @@ export const characters = {
             "threes": "Prsa/Pas/Boky",
             "hair": "Vlasy",
             "eyes": "Oči",
-            "minors": "Vedlejší postavy"
+            "minors": "Vedlejší postavy",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -188,7 +192,9 @@ export const characters = {
             "threes": "Brust/Taille/Hüfte",
             "hair": "Haarfarbe",
             "eyes": "Augenfarbe",
-            "minors": "Nebenfiguren"
+            "minors": "Nebenfiguren",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -277,7 +283,9 @@ export const characters = {
             "threes": "Medidas",
             "hair": "Cabello",
             "eyes": "Ojos",
-            "minors": "Personajes Secundarios"
+            "minors": "Personajes Secundarios",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -367,7 +375,9 @@ export const characters = {
             "threes": "Rinta/Vyötärö/Lantio",
             "hair": "Hiukset",
             "eyes": "Silmät",
-            "minors": "Sivuhahmot"
+            "minors": "Sivuhahmot",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -456,7 +466,9 @@ export const characters = {
             "threes": "Mensurations",
             "hair": "Cheveux",
             "eyes": "Yeux",
-            "minors": "Personnages Secondaires"
+            "minors": "Personnages Secondaires",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -545,7 +557,9 @@ export const characters = {
             "threes": "Mell/Derék/Csípõ",
             "hair": "Hajszín",
             "eyes": "Szemszín",
-            "minors": "Mellékszereplõk"
+            "minors": "Mellékszereplõk",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -634,7 +648,9 @@ export const characters = {
             "threes": "Petto/Vita/Anche",
             "hair": "Capelli",
             "eyes": "Occhi",
-            "minors": "Personaggi Minori"
+            "minors": "Personaggi Minori",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -723,7 +739,9 @@ export const characters = {
             "threes": "쓰리사이즈",
             "hair": "머리",
             "eyes": "눈",
-            "minors": "조연"
+            "minors": "조연",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -812,7 +830,9 @@ export const characters = {
             "threes": "Busto/Cintura/Quadril",
             "hair": "Cabelo",
             "eyes": "Olhos",
-            "minors": "Personagens Secundários"
+            "minors": "Personagens Secundários",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -901,7 +921,9 @@ export const characters = {
             "threes": "Грудь/Талия/Бёдра",
             "hair": "Цвет волос",
             "eyes": "Цвет глаз",
-            "minors": "Второстепенные персонажи"
+            "minors": "Второстепенные персонажи",
+            "cm": "см",
+            "kg": "кг"
         },
         "chardata": {
             "hisao": {
@@ -990,7 +1012,9 @@ export const characters = {
             "threes": "B/W/H",
             "hair": "髪の毛の色",
             "eyes": "瞳の色",
-            "minors": "その他登場人物"
+            "minors": "その他登場人物",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -1087,7 +1111,9 @@ export const characters = {
             "threes": "三围",
             "hair": "头发颜色",
             "eyes": "眼睛颜色",
-            "minors": "配角"
+            "minors": "配角",
+            "cm": "cm",
+            "kg": "kg"
         },
         "chardata": {
             "hisao": {
@@ -1177,7 +1203,9 @@ export const characters = {
             "threes": "三圍",
             "hair": "頭髮顏色",
             "eyes": "眼睛顏色",
-            "minors": "配角"
+            "minors": "配角",
+            "cm": "cm",
+            "kg": "kg"  
         },
         "chardata": {
             "hisao": {

@@ -15,8 +15,8 @@
                         <li>{{ t(`statstrings.bday`) }}: {{ t(`chardata.${character}.birthday`) }}</li>
                         <li>{{ t(`statstrings.zodiac`) }}: {{ t(`chardata.${character}.zodiac`) }}</li>
                         <li>{{ t(`statstrings.btype`) }}: {{ t(`chardata.${character}.btype`) }}</li>
-                        <li>{{ t(`statstrings.height`) }}: {{ commonData[character].height }} {{ distanceUnit }}</li>
-                        <li>{{ t(`statstrings.weight`) }}: {{ commonData[character].weight }} {{ weightUnit }}</li>
+                        <li>{{ t(`statstrings.height`) }}: {{ commonData[character].height }} {{ t(`statstrings.cm`) }}</li>
+                        <li>{{ t(`statstrings.weight`) }}: {{ commonData[character].weight }} {{ t(`statstrings.kg`) }}</li>
                         <li>{{ t(`statstrings.threes`) }}: {{ commonData[character].sizes.join("/") }}</li>
                         <li>{{ t(`statstrings.hair`) }}: {{ t(`chardata.${character}.hairColor`) }}</li>
                         <li>{{ t(`statstrings.eyes`) }}: {{ t(`chardata.${character}.eyeColor`) }}</li>
@@ -78,8 +78,6 @@ const commonData = {
         weight: 57
     }
 };
-const distanceUnit = "cm";
-const weightUnit = "kg";
 </script>
 
 <style scoped>
