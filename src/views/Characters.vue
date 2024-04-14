@@ -22,7 +22,19 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n';
 import Character from '@/components/Character.vue';
+import { useRoute } from 'vue-router';
+import { onMounted } from 'vue';
 const { t } = useI18n();
+const { hash } = useRoute();
+
+onMounted(() => {
+    if (!hash) return;
+    
+    const element = document.getElementById(hash.slice(1));
+    if (element) {
+        element.scrollIntoView();
+    }
+})
 </script>
 
 <style scoped>
