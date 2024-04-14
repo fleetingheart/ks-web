@@ -58,6 +58,6 @@ export function persistentChangeLocale(instance: WritableComputedRef<string>, ne
 }
 
 export function useIsKanjiLocale(instance: WritableComputedRef<string>) {
-    const kanjiLocales = ['ja', 'zh-CN', 'zh-TW'];
+    const kanjiLocales = ['ja', 'zh', 'zh-TW'];
     return computed(() => kanjiLocales.includes(instance.value));
 }

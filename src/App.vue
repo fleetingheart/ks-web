@@ -1,7 +1,10 @@
 <template>
     <div class="relative h-screen w-screen">
         <div class="ks-container p-8 relative">
-            <header class="px-2 text-[1.1em] relative flex flex-row gap-5 w-[78%] justify-between" :class="{ 'kanji-locale': isKanjiLocale }">
+            <header
+                class="px-2 text-[1.1em] relative flex flex-row gap-5 w-[78%] justify-between"
+                :class="{ 'kanji-locale': isKanjiLocale, 'jp-locale': useSmallFont }"
+            >
                 <div>
                     <router-link class="hover:text-black whitespace-nowrap" to="/about">{{ t('navigation.about') }}</router-link>
                 </div>
@@ -12,7 +15,12 @@
                     <router-link class="hover:text-black whitespace-nowrap" to="/samples">{{ t('navigation.samples') }}</router-link>
                 </div>
                 <div>
-                    <router-link class="hover:text-black whitespace-nowrap dl-link" to="/download">{{ t('navigation.download') }}</router-link>
+                    <router-link
+                        class="hover:text-black whitespace-nowrap dl-link"
+                        :class="downloadCircle"
+                        to="/download"
+                    >{{ t('navigation.download') }}
+                    </router-link>
                 </div>
                 <div>
                     <router-link class="hover:text-black whitespace-nowrap" to="/staff">{{ t('navigation.staff') }}</router-link>
@@ -34,10 +42,29 @@ import { useI18n } from 'vue-i18n';
 import { initTitleManager } from './services/titlemanager';
 import { useRouter } from 'vue-router';
 import { useIsKanjiLocale } from '@/i18n/provider';
+import { computed } from 'vue';
 
 const { t, locale } = useI18n();
 const isKanjiLocale = useIsKanjiLocale(locale);
-initTitleManager(t, useRouter())
+initTitleManager(t, useRouter());
+
+const downloadCircle = computed(() => {
+    switch(locale.value) {
+        case 'zh':
+            return 'dl-link-short'
+        case 'zh-TW':
+            return 'dl-link-short'
+        case 'ja':
+            return 'dl-link-long'
+        case 'fi':
+            return 'dl-link-short'
+        default:
+            return '';
+    }
+})
+const useSmallFont = computed(() => {
+    return locale.value === 'ja';
+})
 </script>
 
 <style>
@@ -76,6 +103,10 @@ header.kanji-locale {
     font-family: VLPGothic;
 }
 
+header.jp-locale {
+    @apply scale-[0.8] left-[-8%];
+}
+
 .router-link-active {
     @apply pointer-events-none text-black
 }
@@ -87,6 +118,15 @@ header.kanji-locale {
 .dl-link::before {
     content: url('/img/redcircle.png');
     @apply absolute -z-10 left-[-10%] top-[-75%];
+}
+
+.dl-link-short::before {
+    content: url('/img/redcircle_short.png')!important;
+    @apply left-[-30%];
+}
+
+.dl-link-long::before {
+    content: url('/img/redcircle_long.png')!important;
 }
 
 /* width */
