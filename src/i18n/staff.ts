@@ -297,42 +297,80 @@ export const staff = {
     hu: {
         "staff": {
             content: `
-                <h2 class="first">A Four Leaves Studios története</h2>
-                <img src="/img/concept.jpg" alt="RAITA omake oldalt" id="concept-img">
-                2007 első napján még mindenki úgy gondolta a <a href="http://4chan.org/">4chan</a> <a href="http://zip.4chan.org/a/imgboard.html" target="_blank">/a/</a> boardján, hogy ez az év is csak olyan lesz mint a többi. De Január 4-én Anonymous postolt egy <a href="http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA omake oldalt">omake oldalt</a> a <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> című doujinból, amit a Zettai Shoujo doujinrajzolókör egyik tagja, <a href="http://www.geocities.jp/raita_z/">RAITA</a> készített. A képen karaktervázlatok voltak egy dating sim játékhoz, amit RAITA "Katawa Shoujo"-nak nevezett. Valakinek az a zseniális ötlete támadt, hogy tényleg meg kellene csinálni a játékot RAITA vázlatai alapján. Sosem fogjuk megtudni miért, de bombaként robbant az ötlet, és a threadben egy csapásra gyengéd szerelmi történetektől kezdve a legperverzebb fantáziákig volt már minden. Az őrült ötlet, hogy egyetlen képből és a RAITA által margókra írt minimális leírásokból valódi játékot kellene csinálni, annyira felizgatta Anonymous fantáziáját, hogy sokan <a href="static/sticky.html">tényleg komolyan</a> kezdtek foglalkozni a projektkezdeménnyel.
+                <h2 class="first">A Four Leaf Studios-ról</h2>
+                <img src="/img/concept.jpg" alt="RAITA's omake page" id="concept-img">
+                2007, mint új év, ugyanolyan megszokott évnek ígérkezett a <a href="http://zip.4chan.org/a/imgboard.html">4chan /a/ board</a> közösség számára, mígnem Január 4-én Anonymus közzétett egy <a href="http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA's omake page">omake oldalt</a> a <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> című doujinshi-ből, amelyet <a href="http://www.geocities.jp/raita_z/">RAITA</a> készített, a Zettai Shoujo doujin alkotói körből. Az oldalon egy randiszimulátor játék vázlatai voltak láthatók, amelyet az alkotó "Katawa Shoujo"-nak nevezett. Semmiből kipattanva valakinek azon remek ötlete támadt, hogy tényleg megvalósuljanak a lapon megrajzoltak egy játék formájában. Az ötlet hallatán megannyi ember szerteágazó szerelmi története és megbújt erotikus vágya kapott szárnyra, szétbombázva ezzel az egész thread-et. Az őrült koncepció egy játék megalkotásáról, röpke vázlatok és melléjük írt jegyzetek alapján, olyannyira megmozgatott sokmindenkit, hogy idővel <a href="static/sticky.html">ténylegesen</a> is elkezdődött a játék fejlesztése.
                 <br>
                 <br>
-                Röviddel ezután létrejött a <a href="http://s8.invisionfree.com/Zettai_Shojou/index.php">fejlesztõi</a> <a href="http://ks.renai.us/">fórum</a> és utána hónapokig röpködtek körbe a javaslatok és ötletek. Mindenki próbálta formába önteni az ötleteit, rajz-, és szövegminták készültek; és persze a játék részletein vitatkozó többtucat ember veszekedéseiből kialakuló káoszt is kézben kellett tartani valahogy. A legaktívabb fórumozók ezután megkezdték a tényleges játékfejlesztést Four Leaves Studios fedőnéven, így végül 2007 nyarán valóban elindult a projekt.
-                
-                <h2>Jelenlegi Fejlesztõcsapat</h2>
+                Nem sokkal ezután létrejött egy <a href="http://s8.invisionfree.com/Zettai_Shojou/index.php">fejlesztői</a> <a href="http://ks.renai.us/">fórum</a> és az ezt követő hónapok során megállás nélkül érkeztek be ötletek, további rajzok, fogalmazások, az ezekből fakadó káoszt pedig külön kihívásnak bizonyult kordában tartani. Ebből a tömegből emelkedett ki azon néhány aktív személy, akik végül 2007 nyarán a Four Leaf Studios név alatt átvették teljesen a fejlesztést.
+                <br>
+                <br>
+                A történések sorozata 2012-ben ért véget. Öt hosszú éven keresztül, mialatt a Four Leaf Studios fáradozott a projekten és már úgy hitték sosem jutnak el a végéig, végül 2011-ben tűnt először úgy igazán, hogy van esély a játék befejezésére, ezzel pedig egy utolsó hajrá keretein belül újból beindult a játék befejezéséért való küzdelem.
+                <br>
+                <br>
+                Míg végül, 2012 Január 4-én, kereken 5 évvel az eredeti 4chan poszt után, a Katawa Shoujo mint játék megjelent.
+
+                <h2>Stáblista</h2>
+                <h3>Szerzők</h3>
                 <ul>
-                    <li>cpl_crud: Projektproducer, a Hanako-út írója </li>
-                    <li>Aura: Vezető író, Játékdesigner, a Rin-út írója</li>
-                    <li>delta: Főprogramozó, UI designer</li>
-                    <li>TheHivemind: az Emi-út írója</li>
-                    <li>Anonymous22: a Shizune-út írója</li>
-                    <li>Suriko: a Lilly-út írója</li>
-                    <li>Kagami: Szerkesztõ</li>
-                    <li>Losstarot: Szerkesztõ</li>
-                    <li>Silentcook: Szerkesztõ</li>
-                    <li>Ambi07: Grafikus</li>
-                    <li>moekki: Grafikus</li>
-                    <li>raemz: Grafikus</li>
-                    <li>gebyy-terar: Grafikus</li>
-                    <li>Kamifish: Grafikus</li>
-                    <li>Raide: Grafikus</li>
-                    <li>yujovi: Háttérfényképész</li>
-                    <li>Blue123: Zeneszerző</li>
+                    <li>Anonymous22</li>
+                    <li><a href="http://twitter.com/enneuni" target="_blank">Aura</a></li>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                    <li><a href="http://twitter.com/TheHivemindstw" target="_blank">TheHivemind</a></li>
                 </ul>
-                
-                <h2>Külön Köszönet</h2>
+                <h3>Szerkesztők</h3>
                 <ul>
-                    <li>Anonymous</li>
-                    <li>PyTom</li>
-                    <li>NicolArmarfi</li>
-                    <li>replicated</li>
-                    <li>RAITA</li>
-                    <li>Sok kisebb és volt közreműködő, túl sok név ahhoz, hogy itt mind felsoroljuk...</li>
+                    <li>Kagami</li>
+                    <li>Losstarot</li>
+                    <li>Silentcook</li>
+                </ul>
+                <h3>Zeneszerzők</h3>
+                <ul>
+                    <li><a href="http://twitter.com/AoiichiNiiSan" target="_blank">Blue123</a></li>
+                    <li><a href="http://twitter.com/nicolarmarfi" target="_blank">NicolArmarfi</a></li>
+                </ul>
+                <h3>Grafikusok</h3>
+                <ul>
+                    <li><a href="http://twitter.com/MightyKow" target="_blank">gebyy-terar</a></li>
+                    <li>Kamifish</li>
+                    <li><a href="http://twitter.com/burgooblop" target="_blank">moekki</a></li>
+                    <li><a href="http://twitter.com/CurePimmy" target="_blank">Pimmy</a></li>
+                    <li><a href="http://twitter.com/weee_desu" target="_blank">raemz</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                </ul>
+                <h3>További grafikusok</h3>
+                <ul>
+                    <li><a href="http://twitter.com/not_climatic" target="_blank">climatic</a></li>
+                    <li>Doomfest</li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>FMV Animáció</h3>
+                <ul>
+                    <li><a href="http://mikeinel.deviantart.com/" target="_blank">Mike Inel</a></li>
+                </ul>
+                <h3>Rendezők</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>Programozó</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                </ul>
+                <h3>Gyártás</h3>
+                <ul>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                </ul>
+                <h3>Külön köszönet</h3>
+                <ul>
+                    <li>anonymus</li>
+                    <li><a href="http://twitter.com/hir000" target="_blank">hir</a></li>
+                    <li><a href="http://twitter.com/renpytom" target="_blank">PyTom</a></li>
+                    <li><a href="http://twitter.com/raita_z/" target="_blank">RAITA</a></li>
+                    <li>És további sok más név, kit fel lehetne sorolni...</li>
                 </ul>
             `
         }
