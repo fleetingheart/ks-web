@@ -1,4 +1,4 @@
-import { RouterOptions, createRouter, createWebHistory } from "vue-router";
+import { RouterOptions, createRouter, createWebHistory, createWebHashHistory } from "vue-router";
 
 export type vRoute = RouterOptions["routes"][number];
 
