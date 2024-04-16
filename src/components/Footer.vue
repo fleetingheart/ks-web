@@ -1,6 +1,6 @@
 <template>
     <footer class="grid grid-cols-6 w-full p-2">
-        <div id="copyright" class="col-span-2">
+        <div id="copyright" class="col-span-4 sm:col-span-2 order-3 sm:order-[unset]">
             <img src="/img/4lsl.png" alt="Four Leaf Studios Logo">
             <p class="leading-5 mt-2">
                 ©2007-2013
@@ -9,7 +9,7 @@
                 <a href="https://fhs.sh">fhs.sh</a> under the <a href="https://codeberg.org/fhs/ks-web/src/branch/main/LICENSE">MIT License</a>
             </p>
         </div>
-        <div id="languages" class="col-span-2 flex items-end justify-center">
+        <div id="languages" class="col-span-6 sm:col-span-2 flex items-end justify-center mb-12 sm:mb-0">
             <div class="flex flex-row items-center justify-center flex-wrap gap-0 w-[400px]">
                 <div v-for="language, k of languages" :key="k" class="flex flex-row items-center">
                     <a href="#" @click="changeLocale(language.code)">
@@ -19,7 +19,7 @@
                 </div>
             </div>
         </div>
-        <div id="notices" class="flex flex-col gap-2 col-span-2 items-end justify-end">
+        <div id="notices" class="col-span-2 order-3 sm:order-[unset] sm:col-span-2 flex flex-col gap-2 items-end justify-end">
             <a target="_blank" href="https://twitter.com/fourleafstudios?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="small" data-show-screen-name="false" data-show-count="false">Follow @fourleafstudios</a>
             <a target="_blank" href="https://creativecommons.org/licenses/by-nc-nd/3.0/">
                 <img src="/img/cc_by_nc_nd_80x15.png" alt="CC by NC-ND license">

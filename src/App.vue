@@ -1,5 +1,5 @@
 <template>
-    <div class="relative h-screen w-screen">
+    <div class="relative h-[100dvh] w-screen">
         <div class="ks-container p-8 relative">
             <header
                 class="px-2 text-[1.1em] relative flex flex-row gap-5 w-[78%] justify-between"
@@ -92,7 +92,7 @@ body {
     width: 640px;
     height: 480px;
     background: url('/img/innerbg.jpg');
-    @apply absolute left-[50%] top-[50%] translate-x-[-50%] translate-y-[-50%];
+    @apply absolute left-[50%] top-[35%] sm:top-[50%] translate-x-[-50%] translate-y-[-50%] scale-[50%] sm:scale-100;
 }
 
 header {
