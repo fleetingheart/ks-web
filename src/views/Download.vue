@@ -3,7 +3,7 @@
         <div id="full-version">
             <h1 class="font-bold">{{ t('downloads.full') }}</h1>
             <div class="separator"></div>
-            <i class="text-[0.7em]">Languages: English, Français, Español Internacional, 日本語</i>
+            <i class="text-[0.7em]">{{ t('downloads.dwlanguage')}}: English, Français, Español Internacional, 日本語</i>
             <div class="p-1 text-[0.90em] leading-6">
                 <p>
                     <span class="inline-block font-bold w-14 mr-2">Torrent: </span>
@@ -22,7 +22,7 @@
         <div id="act-one-version">
             <h1 class="font-bold">{{ t('downloads.preview') }} (v5)</h1>
             <div class="separator"></div>
-            <i class="text-[0.7em] mt-2">Languages: English, Deutsch, Français, Magyar, Italiano, 日本語, Русский, 简体中文, 繁體中文</i>
+            <i class="text-[0.7em] mt-2">{{ t('downloads.dwlanguage')}}: English, Deutsch, Français, Magyar, Italiano, 日本語, Русский, 简体中文, 繁體中文</i>
             <div class="p-1 text-[0.90em] leading-6">
                 <p>
                     <span class="inline-block font-bold w-14 mr-2">Torrent: </span>
