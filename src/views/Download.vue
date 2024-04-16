@@ -49,7 +49,7 @@
             </div>
         </div>
         <div id="artbooks">
-            <h1 class="font-bold">Artbooks</h1>
+            <h1 class="font-bold">{{ t('downloads.artbooks') }}</h1>
             <div class="separator"></div>
             <div class="p-1 text-[0.90em] inline-grid grid-cols-3 gap-3">
                 <div v-for="artbook, k of commonData.artbooks" :key="k" class="flex flex-col items-center leading-5">
