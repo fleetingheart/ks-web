@@ -298,7 +298,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">A Four Leaf Studios-ról</h2>
-                <img src="/img/concept.jpg" alt="RAITA's omake page" id="concept-img">
+                <img src="/img/concept.jpg" alt="RAITA omake oldala" id="concept-img">
                 2007, mint új év, ugyanolyan megszokott évnek ígérkezett a <a href="http://zip.4chan.org/a/imgboard.html">4chan /a/ board</a> közösség számára, mígnem Január 4-én Anonymus közzétett egy <a href="http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA's omake page">omake oldalt</a> a <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> című doujinshi-ből, amelyet <a href="http://www.geocities.jp/raita_z/">RAITA</a> készített, a Zettai Shoujo doujin alkotói körből. Az oldalon egy randiszimulátor játék vázlatai voltak láthatók, amelyet az alkotó "Katawa Shoujo"-nak nevezett. Semmiből kipattanva valakinek azon remek ötlete támadt, hogy tényleg megvalósuljanak a lapon megrajzoltak egy játék formájában. Az ötlet hallatán megannyi ember szerteágazó szerelmi története és megbújt erotikus vágya kapott szárnyra, szétbombázva ezzel az egész thread-et. Az őrült koncepció egy játék megalkotásáról, röpke vázlatok és melléjük írt jegyzetek alapján, olyannyira megmozgatott sokmindenkit, hogy idővel <a href="static/sticky.html">ténylegesen</a> is elkezdődött a játék fejlesztése.
                 <br>
                 <br>
