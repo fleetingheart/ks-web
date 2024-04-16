@@ -154,6 +154,8 @@ export const downloads = {
             "wallpapers": "Háttérképek",
             "emi": "Emi",
             "misha": "Misha",
+            "artbooks": "Illusztrációk",
+            "soundtrack": "Zene",
             "sd": "SD",
             "shizune": "Shizune",
             "banners": "Link Bannerek",
