@@ -38,7 +38,7 @@ export const footer = {
     hu: {
         footer: {
             "blog": "Blog",
-            "forum": "Forum"
+            "forum": "Fórum"
         }
     },
     it: {

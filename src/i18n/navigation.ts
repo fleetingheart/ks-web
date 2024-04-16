@@ -74,7 +74,7 @@ export const navigation = {
         navigation: {
             main: 'Katawa Shoujo',
             about: 'Infó',
-            characters: 'Szereplõk',
+            characters: 'Szereplők',
             samples: 'Ízelítő',
             download: 'Letöltés',
             staff: 'Stáb',

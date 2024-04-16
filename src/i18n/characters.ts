@@ -564,7 +564,7 @@ export const characters = {
         "chardata": {
             "hisao": {
                 "name": "Hisao Nakai",
-                "description": "Bár gondterhelt a közel halálos szívrohamát követő kórházban töltött hónapok és az új környezete miatt, de minden erejével azon van, hogy megtalálja helyét a világban. Miután mindent újra kellett kezdenie, zavaros helyzete miatt változtatnia kellett a világhoz való közönyös hozzáállásán, különös tekintettel az életre, a barátságra és a jövőre."
+                "description": "Bár gondterhelt a közel halálos szívrohamát követő kórházban töltött hónapok és új környezete miatt, mégis minden erejével azon van, hogy megtalálja helyét a világban. Miután mindent újra kellett kezdenie, zavaros helyzete miatt változtatnia kellett a világhoz való közönyös hozzáállásán, különös tekintettel az életre, a barátságra és a jövőre."
             },
             "emi": {
                 "name": "Emi Ibarazaki",
@@ -573,20 +573,20 @@ export const characters = {
                 "btype": "B",
                 "zodiac": "Halak",
                 "hairColor": "Világosbarna",
-                "eyeColor": "Erdõzöld"
+                "eyeColor": "Nyárfalevél"
             },
             "hanako": {
                 "name": "Hanako Ikezawa",
-                "description": "Hanako életét romba döntötte egy gyerekkori trauma. Apja meghalt az otthonukat elpusztító tűzben, ami Hanakót is mindörökre elcsúfította. Hihetelenül zárkózott; olyan szinten kerüli a társaságot, hogy egyszerűen bepánikol, ha más emberekkel kell érintkeznie. Egyetlen bizalmas barátja Lilly, aki már az első találkozásukkor szárnyai alá vette.",
+                "description": "Hanako életét romba döntötte egy gyerekkori trauma. Apja meghalt az otthonukat elpusztító tűzben, ami Hanako-t is mindörökre elcsúfította. Hihetelenül zárkózott; olyan szinten kerüli a társaságot, hogy egyszerűen bepánikol, ha más emberekkel kell érintkeznie. Egyetlen bizalmas barátja Lilly, aki már az első találkozásukkor szárnyai alá vette őt.",
                 "birthday": "Július 10.",
                 "btype": "AB",
                 "zodiac": "Rák",
                 "hairColor": "Lila",
-                "eyeColor": "Szürkés-lila"
+                "eyeColor": "Szürkéslila"
             },
             "lilly": {
                 "name": "Lilly Satou",
-                "description": "Lilly születése óta vak. Gondoskodó, felelősségteljes, barátságos lány: tökéletesen illik legjobb barátjához, Hanakóhoz. Közel anya-lánya kapcsolat áll fenn kettejük között, és szabadidejükben gyakran teáznak együtt. Szorgalmas diák, magabiztossága pedig kiváló osztálytitkárrá teszi a 3-2-ben.",
+                "description": "Lilly születése óta vak. Gondoskodó, felelősségteljes, barátságos lány: tökéletesen illik legjobb barátjához, Hanako-hoz. Közel anya-lánya kapcsolat áll fenn kettejük között, és szabadidejükben gyakran teáznak együtt. Szorgalmas diák, magabiztossága pedig kiváló osztálytitkárrá teszi a 3-2-es osztály számára.",
                 "birthday": "Február 7.",
                 "btype": "A",
                 "zodiac": "Vízöntő",
@@ -595,7 +595,7 @@ export const characters = {
             },
             "rin": {
                 "name": "Rin Tezuka",
-                "description": "Egy súlyos születési rendellenesség és az azt követő műtét miatt Rin karjai helyén csak rövid csonkok vannak, így a lábával és szájával csinál mindent; még festeni is szokott. A fogyatékosságából kifolyólag kényelmetlen lenne, ha szoknyát kellene hordania, ezért inkább fiú egyenruhát visel az iskolában. Kreativitásával csak filozófikus meglátásai veszik fel a versenyt: Rin hajlamos belefeledkezni a gondolataiba, és nem rest mindenkit jól összezavarni az emberrel, a világegyetemmel, és sok minden mással kapcsolatos elvont elméleteivel.",
+                "description": "Egy súlyos születési rendellenesség és az ezt követő műtét miatt Rin karjai helyén csak rövid csonkok vannak, így a lábbal és szájjal csinál mindent; beleértve a festést. A fogyatékosságából kifolyólag kényelmetlen lenne, ha szoknyát kellene hordania, ezért inkább fiú egyenruhát visel az iskolában. Kreativitásával csak filozófikus meglátásai veszik fel a versenyt: Rin hajlamos belefeledkezni a gondolataiba és nem rest mindenkit jól összezavarni az emberrel, a világegyetemmel és sok minden mással kapcsolatos elvont elméleteivel.",
                 "birthday": "Március 13.",
                 "btype": "AB",
                 "zodiac": "Halak",
@@ -604,7 +604,7 @@ export const characters = {
             },
             "shizune": {
                 "name": "Shizune Hakamichi",
-                "description": "Erős akaratával és erélyes természetével Shizune született vezető. Süketnéma, de ettől függetlenül azóta osztálytitkár, amióta létezik olyan. Bármilyen helyzetbe is kerüljön, szinte mindig vezető szerepet vállal benne. Az iskolában kegyetlen rabszolgahajcsár és ügyes manipulátor hírében áll, de őszinte és igazságos vezetőként is ismerik.",
+                "description": "Erős akaratával és erélyes természetével Shizune született vezető. Süketnéma, de ettől függetlenül azóta diáktanács elnök, amióta létezik olyan. Bármilyen helyzetbe is kerüljön, szinte mindig vezető szerepet vállal benne. Az iskolában kegyetlen rabszolgahajcsár és ügyes manipulátor hírében áll, de őszinte és igazságos vezetőként is ismerik.",
                 "birthday": "Május 6.",
                 "btype": "O",
                 "zodiac": "Bika",
@@ -613,7 +613,7 @@ export const characters = {
             },
             "misha": {
                 "name": "Shiina \"Misha\" Mikado",
-                "description": "Misha Shizune tolmácsa, és a diáktanács tagja. Vidám, játékos, és egy légynek sem tudna ártani. Örömmel segít Shizunének, aki szeretné Hisaot a diáktanács tagjaként látni.",
+                "description": "Misha Shizune tolmácsa és a diáktanács tagja. Vidám, játékos, egy légynek sem tudna ártani. Örömmel segít Shizune-nek, aki szeretné Hisao-t a diáktanács tagjaként látni.",
                 "birthday": "November 1.",
                 "btype": "AB",
                 "zodiac": "Skorpió",
@@ -626,15 +626,15 @@ export const characters = {
             },
             "nurse": {
                 "name": "Nurse",
-                "description": "Fiatal kora miatt nem nézné ki belőle az ember, de ő a Yamaku ápolószemélyzetének vezetője. Vicces, kedélyes fickó, akit imádnak a diákok, és mindig vevő egy-két poénra. Emellett arany szíve van; valamint nagyon szenvedélyes és komoly tud lenni, ha a munkájáról van szó."
+                "description": "Fiatal kora miatt nem nézné ki belőle az ember, de ő a Yamaku ápolószemélyzetének vezetője. Vicces, kedélyes fickó, akit imádnak a diákok, és mindig vevő egy-két poénra. Továbbá arany szíve van, de nagyon szenvedélyes és komoly is tud lenni, ha a munkájáról van szó."
             },
             "muto": {
                 "name": "Akio Mutou",
-                "description": "A 3-3 tudományos ismeretek-tanára, és osztályfőnöke. Az osztálya dolgaival pontosan annyira nincs tisztában, mint a való világgal. Azt mondhatnánk, tanárnak született (bár diákjai ezt vitatnák). Legjobb tulajdonsága, hogy képes teljesen figyelmen kívül hagyni a lényegtelen részleteket (ez újfent vita tárgya: sokan imádkoztak már azért, hogy Mutou végre megjegyezze a nevük)."
+                "description": "A 3-3 osztály tudományos ismeretek tanára és osztályfőnöke. Az osztálya dolgaival pontosan annyira nincs tisztában, mint a való világgal. Azt mondhatnánk, tanárnak született (bármennyire is mondják diákjai az ellentétét). Legjobb tulajdonsága, hogy képes teljesen figyelmen kívül hagyni a lényegtelen részleteket (ez újfent vita tárgya: sokan imádkoztak már azért, hogy Mutou végre megjegyezze a nevüket)."
             },
             "yuuko": {
                 "name": "Yuuko Shirakawa",
-                "description": "Yuuko csak nagyon nehezen tudja kézben tartani az életét; így ha problémád van a sajátoddal, nyugodtan fordulj hozzá. Egyetemre jár, és mellette egy felkapott kávézóban dolgozik, hogy a tandíjat fizetni tudja. Mindenkit elámít, ahogy Yuuko a végletekig elmegy, csak hogy ne rúgják ki az ügyetlensége miatt. Szintén furcsa és érdekes, hogy mániákusan ügyel a részletekre, és gyakran vannak depressziós kitörései is."
+                "description": "Yuuko csak nagyon nehezen tudja kézben tartani az életét; így ha problémád van a sajátoddal, legjobb döntés hozzá fordulni. Egyetemre jár és mellette egy felkapott kávézóban dolgozik, hogy a tandíjat fizetni tudja. Mindenkit elámít, ahogy Yuuko a végletekig elmegy, csak hogy ne rúgják ki az ügyetlensége miatt. Szintén furcsa és érdekes, hogy mániákusan ügyel a részletekre, és gyakran vannak depressziós kitörései is."
             }
         }
     },
