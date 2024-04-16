@@ -159,7 +159,7 @@ export const downloads = {
             "banners": "Link Bannerek",
             "small": "Kicsi",
             "medium": "Közepes",
-            "standard": "Átlagos"
+            "standard": "Alapértelmezett"
         }
     },
     it: {

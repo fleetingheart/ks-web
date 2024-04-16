@@ -12,7 +12,7 @@ export const about = {
             title: 'O Katawa Shoujo',
             intro: 'Katawa Shoujo je vizuální novela bishoujo typu zasazená do prostředí střední školy Yamaku pro postižené studenty, umístěné kdesi v moderním Japonsku. Hisaovi Nakaiovi, normálnímu klukovi žijícímu normálním životem, se převrátil život naruby, když se dozvěděl, že po propuštění z dlouhé hospitalizace musí kvůli své vrozené srdeční vadě změnit školu. I přes tyto nesnáze je ale Hisao schopen nalézt přátele, a možná dokonce i lásku - pokud se rozhodne správně. Může se vydat některou z pěti cest příslušících pěti hlavním hrdinkám, kde každá z těchto cest sleduje příběh příslušící této postavě.',
             gameplay: 'Příběh je vyprávěn z pohledu hlavní postavy a používá vyprávění v první osobě. Ve hře je použit tradiční text a sprite-based model vizuální novely s užitím textového ADV okna. Katawa Shoujo obsahuje části pro dospělé hráče a je vytvořena ve skriptovacím programu <a href="http://renpy.org/">Ren\'Py</a>.',
-            info: 'Katawa Shoujo je tvořena <a href="staff">mezinárodním týmem amatérských tvůrců</a> a bude vydána zadarmo pod <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.cs">licencí Creative Commons BY-NC-ND</a>. V současnosti není známo plánované datum vydání.'
+            info: 'Katawa Shoujo je tvořena <a href="staff">mezinárodním týmem amatérských tvůrců</a> a bude vydána zadarmo pod <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.cs">licencí Creative Commons BY-NC-ND</a>.'
         }
     },
     de: {
@@ -20,7 +20,7 @@ export const about = {
             title: 'Über Katawa Shoujo',
             intro: 'Katawa Shoujo ist eine Visual Novel im Bishoujo-Stil, die an der fiktionalen Yamaku-Akademie für körperbehinderte Kinder und Jugendliche irgendwo im modernen Japan spielt. Das Leben Hisao Nakais, eines normalen Jungen, der ein normales Leben führt, wird auf den Kopf gestellt, als ein angeborener Herzfehler ihn erst für lange Zeit ins Krankenhaus und später an eine völlige neue Schule zwingt. Trotz seiner Schwierigkeiten ist Hisao in der Lage, Freunde zu finden - und vielleicht auch Liebe, wenn er seine Karten richtig ausspielt. Die Geschichte kann fünf Pfaden folgen, die mit den fünf weiblichen Hauptpersonen verbunden sind.',
             gameplay: 'Die Geschichte wird aus der Perspektive des Hauptdarstellers in der ersten Person erzählt. Das Spiel nutzt ein traditionelles text- und spritebasiertes Visual Novel-Konzept mit einem ADV-Textfenster. Katawa Shoujo beinhaltet nicht jugendfreie Szenen und wird auf Basis des <a href="http://renpy.org/">Ren\'Py</a> Skript-Systems entwickelt.',
-            info: 'Katawa Shoujo wird von <a href="staff">einem internationalem Team von Freiwilligen</a> produziert und kostenfrei unter der <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.de">Creative Commons BY-NC-ND Lizenz</a> veröffentlicht werden. Gegenwärtig ist kein Veröffentlichungsdatum gesetzt.'
+            info: 'Katawa Shoujo wird von <a href="staff">einem internationalem Team von Freiwilligen</a> produziert und kostenfrei unter der <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.de">Creative Commons BY-NC-ND Lizenz</a> veröffentlicht werden.'
         }
     },
     es: {
@@ -28,7 +28,7 @@ export const about = {
             title: 'Acerca de Katawa Shoujo',
             intro: 'Katawa Shoujo es una novela visual de tipo bishoujo ambientada en el ficticio Colegio Yamaku para jóvenes discapacitados, localizada en algún lugar del Japón moderno. Hisao Nakai, un chico normal viviendo una vida normal, sufre un vuelco en ésta cuando un defecto cardiaco congénito lo obliga a trasladarse a una nueva escuela tras una larga hospitalización. A pesar de sus dificultades, Hisao es capaz de encontrar la amistad — y quizás el amor, si juega bien sus cartas. Hay cinco caminos principales correspondientes a las 5 protagonistas, con cada camino siguiendo la historia perteneciente a ese personaje.',
             gameplay: 'La historia se desenvuelve a través de la perspectiva del protagonista, usando narrativa en primera persona. El juego usa un modelo tradicional de novela visual basado en texto y sprites con una ventana de texto estilo ADV.',
-            info: 'Katawa Shoujo tiene contenido adulto. Se encuentra bajo creación haciendo uso del sistema de scripting <a href="http://renpy.org/">Ren\'Py</a> por <a href="staff">un equipo internacional de desarrolladores aficionados</a>, y será publicado sin costo alguno bajo la <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.es">Licencia Creative Commons BY-NC-ND</a>. Actualmente no hay fecha definida para su lanzamiento.'
+            info: 'Katawa Shoujo tiene contenido adulto. Se encuentra bajo creación haciendo uso del sistema de scripting <a href="http://renpy.org/">Ren\'Py</a> por <a href="staff">un equipo internacional de desarrolladores aficionados</a>, y será publicado sin costo alguno bajo la <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.es">Licencia Creative Commons BY-NC-ND</a>.'
         }
     },
     fi: {
@@ -36,7 +36,7 @@ export const about = {
             title: 'Tietoa Katawa Shoujosta',
             intro: 'Katawa Shoujo on bishoujo-tyylin visuaalinen novelli, joka sijoittuu kuvitteelliseen Yamakun invalidisoituneiden lasten lukioon, jossain päin modernia Japania. Hisao Nakain, normaalia elämää elävän normaalin pojan elämä kääntyy ylösalaisin, kun synnynnäinen sydänvika pakottaa hänet muuttamaan uuteen kouluun pitkän sairaalajakson päätteeksi. Huolimatta vaikeuksistaan, Hisao kykenee löytämään ystäviä ja kenties rakkaudenkin, jos hän pelaa korttinsa oikein. Pelissä on viisi pääpolkua, jotka vastaavat pelin viittä naishahmoa, jokainen polku seuraa oman hahmonsa kannalta olennaista tarinakaarta.',
             gameplay: 'Tarina kerrotaan päähenkilönsä näkökulmasta, käyttäen ensimmäisen persoonan narratiivia. Tämä peli käyttää perinteistä teksti- ja sprite-pohjaista visuaalisten novellien mallia ADV-tekstilaatikolla. Katawa Shoujo sisältää aikuismateriaalia ja on luotu käyttäen <a href="http://renpy.org/">Ren\'Py</a>-skriptausjärjestelmää.',
-            info: 'Katawa Shoujoa kehittää <a href="staff">kansainvälinen amatöörikehittäjien tiimi</a> ja se julkaistaan maksutta <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fi">Creative Commons BY-NC-ND-lisenssin</a> alaisena. Julkaisupäivämäärää ei tällä hetkellä ole asetettu.'
+            info: 'Katawa Shoujoa kehittää <a href="staff">kansainvälinen amatöörikehittäjien tiimi</a> ja se julkaistaan maksutta <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fi">Creative Commons BY-NC-ND-lisenssin</a> alaisena.'
         }
     },
     fr: {
@@ -44,15 +44,15 @@ export const about = {
             title: 'À propos de Katawa Shoujo',
             intro: 'Katawa Shoujo est un visual novel du style bishoujo qui prend place dans la fictive Université Yamaku spécialisée pour les enfants handicapés, située quelque part dans le Japon contemporain. Hisao Nakai, un garçon normal vivant une vie normale, voit sa vie bouleversée quand une malformation congénitale au cœur le force à partir dans une nouvelle école après une longue hospitalisation. Malgré ses difficultés, Hisao est en mesure de trouver des amis et peut-être l\'amour, s’il joue bien ses cartes. Il y a cinq routes principales correspondant aux cinq filles principales, chaque route suit le scénario se rapportant à ce personnage.',
             gameplay: 'L\'histoire est racontée à travers le point de vue du personnage principal, en utilisant une narration à la première personne. Ce jeu utilise un modèle traditionnel de visual novel basé sur du texte et des sprites, avec une boite de dialogue de style ADV. Katawa Shoujo possède un contenu adulte, et a été créé à l\'aide du système de script <a href="http://renpy.org/">Ren\'Py</a>.',
-            info: 'Katawa Shoujo est en cours de développement par <a href="staff">une équipe internationale de développeurs amateurs</a>, et sera distribué gratuitement sous la <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr">licence Creative Commons BY-NC-ND</a>. Aucune date de sortie n\'a été fixée à l\'heure actuelle.'
+            info: 'Katawa Shoujo est en cours de développement par <a href="staff">une équipe internationale de développeurs amateurs</a>, et sera distribué gratuitement sous la <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr">licence Creative Commons BY-NC-ND</a>.'
         }
     },
     hu: {
         about: {
-            title: 'A Katawa Shoujóról',
-            intro: 'A Katawa Shoujo egy bishoujo-stílusú vizuális regény, ami valahol a modern Japánban, egy testi fogyatékos gyerekek számára kialakított képzeletbeli iskolában, a Yamaku Gimnáziumban játszódik. Hisao egy teljesen átlagos fiú, mígnem veleszületett szívbetegsége miatt egy napon a feje tetejére áll az élete; egy szívroham és hosszú kórházi kezelés után a Yamakuban kell folytatnia a tanulmányait. Nehézségei ellenére Hisao barátokra, sőt, talán szerelemre lelhet itt, ha ügyes és szerencsés. Öt fő történetszál van a játékban, minden női főszereplőhöz egy-egy, az adott karaktert állítva a középpontba.',
+            title: 'A Katawa Shoujo-ról',
+            intro: 'A Katawa Shoujo egy bishoujo-stílusú vizuális regény, ami valahol a modern Japánban, egy testi fogyatékos diákok számára kialakított fiktív iskolában, a Yamaku Akadémiában játszódik. Hisao egy teljesen átlagos fiú, mígnem veleszületett szívbetegsége miatt egy napon a feje tetejére áll az élete; egy szívroham és hosszú kórházi kezelés után a Yamaku-ban kell folytatnia a tanulmányait. Nehézségei ellenére Hisao barátokra, sőt, talán szerelemre lelhet itt, ha ügyes és szerencsés. Öt fő történetszál van a játékban, minden női főszereplőhöz egy-egy, az adott karaktert állítva a középpontba.',
             gameplay: 'A történet egyes szám, első szeméyben, a főszereplő szemszögéből bontakozik ki. A játék hagyományos szöveg és sprite alapú vizuális regény; ADV szövegdobozt használ. A Katawa Shoujo a  <a href="http://renpy.org/">Ren\'Py</a> szkriptelőrendszerrel készült, és felnőtt tartalom is található benne.',
-            info: 'A játékot <a href="staff">amatőr fejlesztők egy nemzetközi csapata</a> fejleszti, és a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.hu">Creative Commons BY-NC-ND licensz</a> nek megfelelően, ingyenes jelleggel lesz elérhető. Várható megjelenési dátuma nem ismert.'
+            info: 'A játékot <a href="staff">amatőr fejlesztők nemzetközi csapata</a> fejlesztette és a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.hu">Creative Commons BY-NC-ND licensz</a>nek megfelelően ingyenesen elérhető bárki számára.'
         }
     },
     it: {
@@ -60,7 +60,7 @@ export const about = {
             title: 'Riguardo a Katawa Shoujo',
             intro: 'Katawa Shoujo è una visual novel in stile bishoujo ambientata nell\' immaginaria Scuola Superiore Yamaku per ragazzi disabili, che si trova da qualche parte nel Giappone moderno. Hisao Nakai, un ragazzo normale che vive una vita normale, vede la sua vita sconvolta quando un difetto cardiaco congenito lo obbliga a trasferirsi in una nuova scuola dopo un lungo ricovero in ospedale. Nonostante i suoi problemi, Hisao riesce a trovare degli amici—e forse l\' amore, se gioca bene le sue carte. Ci sono cinque trame principali corrispondenti ai 5 personaggi femminili principali, con ogni trama che segue la storia pertinente a quel personaggio.',
             gameplay: 'La storia viene raccontata attraverso la prospettiva del personaggio principale, usando narrativa in prima persona. Questo gioco usa un modello tradizionale di visual novel basato su testo e sprite con una finestra testuale ADV. Katawa Shoujo contiene temi adulti, e viene creato usando il sistema di scripting <a href="http://renpy.org/">Ren\'Py</a>.',
-            info: 'Katawa Shoujo sta venendo sviluppato da <a href="staff">un team internazionale di creatori amatoriali</a>, e verrà pubblicato gratuitamente sotto i termini della <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.it">Licenza Creative Commons BY-NC-ND</a>. Correntemente non è stata definita una data di pubblicazione.'
+            info: 'Katawa Shoujo sta venendo sviluppato da <a href="staff">un team internazionale di creatori amatoriali</a>, e verrà pubblicato gratuitamente sotto i termini della <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.it">Licenza Creative Commons BY-NC-ND</a>.'
         }
     },
     ko: {
@@ -76,7 +76,7 @@ export const about = {
             title: 'Sobre',
             intro: 'Katawa Shoujo é uma Visual Novel, de estilo bishoujo, que se passa na ficcional Escola Secundaria Yamaku para crianças deficientes, localizada em algum local do Japão. Hisao Nakai, um garoto normal que tinha até então uma vida comum, teve sua vida virada de cabeça para baixo quando descobre um problema cárdiaco congênito forçando-o a ir para uma nova escola após um longo tempo hospitalizado. Apesar das dificuldades, Hisao é capaz de encontrar amigos - e talvez o amor, caso jogue as cartas corretas. Há cinco possíveis caminhos a seguir, que correspondem pelas cinco protagonistas, a cada caminho seguido conta a estória de cada personagem.',
             gameplay: 'A estória é contada na visão do protagonista, Hisao. Este jogo usa o modelo tradicional de Visual Novel, tanto em texto como em imagens, com uma caixa de texto ADV. Katawa Shoujo possui conteúdo adulto e está sendo criado usando o sistema de scripting da engine <a href="http://renpy.org/">Ren\'Py</a>.',
-            info: 'Katawa Shoujo  é atualmente desenvolvido por <a href="staff">ma equipe internacional de desenvolvedores amadores</a>, e será lançado sem custos sob a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.pt">Licença Creative Commons BY-NC-ND</a>. Não há data definida para o lançamento.'
+            info: 'Katawa Shoujo  é atualmente desenvolvido por <a href="staff">ma equipe internacional de desenvolvedores amadores</a>, e será lançado sem custos sob a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.pt">Licença Creative Commons BY-NC-ND</a>.'
         }
     },
     ru: {

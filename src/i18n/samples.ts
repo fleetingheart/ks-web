@@ -43,7 +43,7 @@ export const samples = {
         "samples": {
             "screenshots": "Képernyőképek",
             "music": "Zene",
-            "opening": "Nyitó"
+            "opening": "Nyitány"
         }
     },
     it: {
