@@ -21,11 +21,6 @@ const app = createApp(App);
 import { router } from "./config/router";
 app.use(router);
 
-// -- Sweetalert2
-import VueSweetalert2 from "vue-sweetalert2";
-import '@sweetalert2/theme-dark/dark.min.css';
-app.use(VueSweetalert2);
-
 // -- i18n
 app.use(i18nInstance);
 
