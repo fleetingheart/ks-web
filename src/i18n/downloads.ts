@@ -29,7 +29,8 @@ export const downloads = {
             "ksab": "Kawasoft Artbook",
             "ksis": "Imperfect Spectrum",
             "ksbs": "Beauty & Strangeness",
-            "kstsh": "The Soft Hour"
+            "kstsh": "The Soft Hour",
+            "dwlanguage": "Languages",
         }
     },
     cs: {
@@ -62,7 +63,8 @@ export const downloads = {
             "ksab": "Kawasoft Artbook",
             "ksis": "Imperfect Spectrum",
             "ksbs": "Beauty & Strangeness",
-            "kstsh": "The Soft Hour"
+            "kstsh": "The Soft Hour",
+            "dwlanguage": "Jazyk",
         }
     },
     de: {
@@ -91,7 +93,8 @@ export const downloads = {
             "fon": "Fragments of Summer",
             "ksmw": "Midwinter",
             "kstt": "Tomorrow/Today",
-            "fr_FR": "Französisch"
+            "fr_FR": "Französisch",
+            "dwlanguage": "Sprache",
         }
     },
     es: {
@@ -108,7 +111,8 @@ export const downloads = {
             "banners": "Banners de sitio",
             "small": "pequeño",
             "medium": "medio",
-            "standard": "standard"
+            "standard": "standard",
+            "dwlanguage": "Idioma",
         }
     },
     fi: {
@@ -125,7 +129,8 @@ export const downloads = {
             "banners": "Linkkibannerit",
             "small": "Pieni",
             "medium": "Medium",
-            "standard": "Standardi"
+            "standard": "Standardi",
+            "dwlanguage": "Kieli",
         }
     },
     fr: {
@@ -142,7 +147,8 @@ export const downloads = {
             "banners": "Bannières",
             "small": "Petit",
             "medium": "Moyen",
-            "standard": "Standard"
+            "standard": "Standard",
+            "dwlanguage": "Langue",
         }
     },
     hu: {
@@ -161,7 +167,8 @@ export const downloads = {
             "banners": "Link Bannerek",
             "small": "Kicsi",
             "medium": "Közepes",
-            "standard": "Alapértelmezett"
+            "standard": "Alapértelmezett",
+            "dwlanguage": "Nyelvek",
         }
     },
     it: {
@@ -178,7 +185,8 @@ export const downloads = {
             "banners": "Banner per collegamento",
             "small": "Piccolo",
             "medium": "Medio",
-            "standard": "Standard"
+            "standard": "Standard",
+            "dwlanguage": "Linguaggio",
         }
     },
     ko: {
@@ -195,7 +203,8 @@ export const downloads = {
             "banners": "링크 배너",
             "small": "소",
             "medium": "중",
-            "standard": "표준"
+            "standard": "표준",
+            "dwlanguage": "언어",
         }
     },
     pt: {
@@ -212,7 +221,8 @@ export const downloads = {
             "banners": "Link Banners",
             "small": "Pequeno",
             "medium": "Médio",
-            "standard": "Grande"
+            "standard": "Grande",
+            "dwlanguage": "Língua",
         }
     },
     ru: {
@@ -245,7 +255,8 @@ export const downloads = {
             "ksab": "Kawasoft Artbook",
             "ksis": "Imperfect Spectrum",
             "ksbs": "Beauty & Strangeness",
-            "kstsh": "The Soft Hour"
+            "kstsh": "The Soft Hour",
+            "dwlanguage": "Язык",
         }
     },
     ja: {
@@ -274,7 +285,8 @@ export const downloads = {
             "fon": "夏の欠片",
             "ksmw": "Midwinter",
             "kstt": "Tomorrow/Today",
-            "fr_FR": "フランス語"
+            "fr_FR": "フランス語",
+            "dwlanguage": "言語",
         }
     },
     zh: {
@@ -293,7 +305,8 @@ export const downloads = {
             "medium": "中",
             "standard": "普通",
             "wiz": "巫师",
-            "tile": "拼图"
+            "tile": "拼图",
+            "dwlanguage": "语言",
         }
     },
     "zh-TW": {
@@ -312,7 +325,8 @@ export const downloads = {
             "medium": "中",
             "standard": "普通",
             "wiz": "巫師",
-            "tile": "拼圖"
+            "tile": "拼圖",
+            "dwlanguage": "語言",
         }
     }
 }
