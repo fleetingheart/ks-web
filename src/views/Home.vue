@@ -40,6 +40,6 @@ a:hover {
 }
 
 #home.kanji-locale a {
-    font-family: 'VLPGothic';
+    font-family: 'Mikachan';
 }
 </style>

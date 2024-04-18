@@ -76,6 +76,11 @@ const useSmallFont = computed(() => {
 }
 
 @font-face {
+    font-family: Mikachan;
+    src: url('/fonts/mikachan_o-PB.otf');
+}
+
+@font-face {
     font-family: VLPGothic;
     src: url('/fonts/VL-PGothic-Regular.ttf');
 }
@@ -100,7 +105,7 @@ header {
 }
 
 header.kanji-locale {
-    font-family: VLPGothic;
+    font-family: Mikachan;
 }
 
 header.jp-locale {
