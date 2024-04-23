@@ -115,6 +115,18 @@ export const navigation = {
             logo: 'Index'
         }
     },
+    "pt-BR": {
+        navigation: {
+            main: 'Katawa Shoujo',
+            about: 'Sobre',
+            characters: 'Personagens',
+            samples: 'Galeria',
+            download: 'Download',
+            staff: 'Equipe',
+            logo: 'Index',
+            
+        }
+    },
     ru: {
         navigation: {
             main: 'Katawa Shoujo',

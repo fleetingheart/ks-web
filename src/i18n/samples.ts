@@ -67,6 +67,15 @@ export const samples = {
             "opening": "Opening"
         }
     },
+
+    "pt-BR": {
+        "samples": {
+            "screenshots": "Fotos",
+            "music": "Música",
+            "opening": "Abertura"
+        }
+    },
+
     ru: {
         "samples": {
             "screenshots": "Скриншоты",

@@ -911,6 +911,98 @@ export const characters = {
             }
         }
     },
+    "pt-BR": {
+        "statstrings": {
+            "bday": "Aniversário",
+            "zodiac": "Signo",
+            "btype": "Tipo Sanguíneo",
+            "height": "Altura",
+            "weight": "Peso",
+            "threes": "Busto/Cintura/Quadril",
+            "hair": "Cabelo",
+            "eyes": "Olhos",
+            "minors": "Personagens Secundários",
+            "cm": "cm",
+            "kg": "kg"
+        },
+        "chardata": {
+            "hisao": {
+                "name": "Hisao Nakai",
+                "description": "Atormentado por sua estadia de meses no hospital depois que seu coração quase parou e tentando se ajustar ao novo ambiente, ele está se esforçando para encontrar seu lugar no mundo. Após ser forçado a um novo começo, as circunstâncias caóticas obrigam Hisao a repensar sua disposição apática, especialmente em relação a coisas como a vida, amizades e o futuro.",
+            },
+            "emi": {
+                "name": "Emi Ibarazaki",
+                "description": "Apesar de ter tido as pernas amputadas abaixo do joelho, Emi é talvez uma das garotas mais alegres e felizes do mundo, quanto mais da escola. Mesmo depois do acidente que lhe tirou as pernas, Emi não se deixa levar pelo desespero e vê sua deficiência mais como uma bênção, pois suas pernas protéticas, em vez de se tornarem um obstáculo em sua vida, a levaram ao auge de sua capacidade na equipe de atletismo.",
+                "birthday": "14 de Março",
+                "btype": "B",
+                "zodiac": "Peixes",
+                "hairColor": "Castanho Claro",
+                "eyeColor": "Verde Choupo"
+            },
+            "hanako": {
+                "name": "Hanako Ikezawa",
+                "description": "Ainda jovem, Hanako passou por uma experiência traumática que deixou sua vida em ruínas. Seu pai morreu quando sua casa foi destruída por um incêndio acidental, que também a desfigurou permanentemente. Ela é extremamente reclusa, afastando-se de todas as outras pessoas a ponto de entrar em pânico com qualquer forma de contato social. Sua única amiga de confiança é Lilly, que a protegeu desde que as duas foram apresentadas uma à outra.",
+                "birthday": "10 de Julho",
+                "btype": "AB",
+                "zodiac": "Câncer",
+                "hairColor": "Roxo",
+                "eyeColor": "Roxo Acinzentado"
+            },
+            "lilly": {
+                "name": "Lilly Satou",
+                "description": "Cega desde o nascimento, Lilly é atenciosa, responsável e amigável — o contraste perfeito para Hanako, sua melhor amiga, com quem ela compartilha um relacionamento quase de mãe e filha, tendo seu tempo livre frequentemente gasto tomando chá com sua colega. Nas aulas, ela é uma aluna assídua, e seu senso de confiança a ajuda a desempenhar bem o papel de representante da turma 3-2.",
+                "birthday": "7 de Fevereiro",
+                "btype": "A",
+                "zodiac": "Aquário",
+                "hairColor": "Loiro",
+                "eyeColor": "Azuis"
+            },
+            "rin": {
+                "name": "Rin Tezuka",
+                "description": "Como os braços de Rin são pequenos cotos devido a um grave defeito de nascença e à cirurgia subsequente, ela usa os pés e, ocasionalmente, a boca para fazer tudo, o que inclui pintar. Devido à sua deficiência, usar saias é difícil, por isso ela usa um uniforme masculino na escola. Sua criatividade é acompanhada por sua veia filosófica: Rin gosta de ocasionalmente se perder em pensamentos e dar voz a ideias abstratas sobre o homem, o universo e outras coisas que confundem profundamente as pessoas.",
+                "birthday": "13 de Março",
+                "btype": "AB",
+                "zodiac": "Peixes",
+                "hairColor": "Ruivo",
+                "eyeColor": "Verde Escuro"
+            },
+            "shizune": {
+                "name": "Shizune Hakamichi",
+                "description": "Determinada e enérgica, Shizune é definitivamente uma líder. Ela é a representante da sala, apesar de ser surda e muda, desde que sua turma teve uma, e assume geralmente o controle em praticamente qualquer situação em que é colocada. Shizune é conhecida em toda a escola como um temível capataz e uma manipuladora hábil, mas também como uma líder justa e imparcial.",
+                "birthday": "6 de Maio",
+                "btype": "O",
+                "zodiac": "Touro",
+                "hairColor": "Azul Escuro",
+                "eyeColor": "Azuis"
+            },
+            "misha": {
+                "name": "Shiina \"Misha\" Mikado",
+                "description": "Misha é a intérprete de Shizune e integrante do grêmio estudantil. Animada, brincalhona e incapaz de calar a boca, ela se junta alegremente às tentativas de Shizune de levar Hisao para o grêmio estudantil.",
+                "birthday": "1 de Novembro",
+                "btype": "AB",
+                "zodiac": "Escorpião",
+                "hairColor": "Rosa",
+                "eyeColor": "Dourados"
+            },
+            "kenji": {
+                "name": "Kenji Setou",
+                "description": "Quase um hikkikomori, Kenji gosta de passar muito tempo em seu quarto, planejando contra qualquer que será o próximo passo do movimento feminista radical. Ele desconfia da atenção instantânea que Hisao parece ter atraído para si, mas, mesmo assim, está muito satisfeito por finalmente ter um companheiro.",
+            },
+            "nurse": {
+                "name": "Enfermeiro",
+                "description": "O chefe da equipe de enfermagem de Yamaku e uma pessoa surpreendentemente jovem para alguém em sua posição. Ele é um cara engraçado e jovial, sempre disposto a rir e muito querido pelos alunos. Além de ter um coração de ouro puro, ele também é muito apaixonado e sério sobre seu trabalho.",
+            },
+            "muto": {
+                "name": "Akio Mutou",
+                "description": "Orientador de sala de aula e professor de ciências do 3-3, ele é tão desatualizado em relação à turma quanto é desatualizado em relação à realidade. Provavelmente nascido para ser professor (não importa o quanto seus alunos discordem), sua maior habilidade é a capacidade de ignorar completamente coisas irrelevantes (não importa o quanto discordem aqueles que gostariam que ele se lembrasse de seus nomes).",
+            },
+            "yuuko": {
+                "name": "Yuuko Shirakawa",
+                "description": "Yuuko tem sérios problemas para gerenciar sua vida, o que a torna a pessoa perfeita para pedir conselhos para gerenciar a sua própria. Ela financia seus estudos universitários trabalhando meio período em uma cafeteria popular. Os esforços que ela faz para evitar ser demitida devido a sua natural falta de jeito deixam as outras pessoas confusas, juntamente com sua atenção neurótica aos detalhes e frequentes surtos de depressão.",
+            }
+        }
+    },
+
     ru: {
         "statstrings": {
             "bday": "День рождения",
