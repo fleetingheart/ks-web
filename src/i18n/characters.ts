@@ -678,9 +678,9 @@ export const characters = {
             "lilly": {
                 "name": "Lilly Satou",
                 "description": "Cieca dalla nascita, Lilly è premurosa, responsabile e amichevole - il perfetto contrasto ad Hanako, la sua migliore amica, con cui condivide una relazione quasi di madre-figlia, in addizione al suo tempo libero che viene spesso speso bevendo tè a fianco della sua compagna. In classe è una studentessa diligente, e il suo senso di confidenza in sè stessa la serve bene nel suo ruolo di rappresentante della classe 3-2.",
-                "birthday": "27 Giugno",
+                "birthday": "7 Febbraio",
                 "btype": "A",
-                "zodiac": "Cancro",
+                "zodiac": "Aquario",
                 "hairColor": "Biondi",
                 "eyeColor": "Blu"
             },
