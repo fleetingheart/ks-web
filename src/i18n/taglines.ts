@@ -89,6 +89,15 @@ export const taglines = {
             shizune: "Você pode me dizer o que pensa?"
         }
     },
+    "pt-BR": {
+        taglines: {
+            emi: "Você consegue lutar sozinho?",
+            hanako: "Você consegue enfrentar seus medos?",
+            lilly: "Você consegue ver o que eu vejo?",
+            rin: "Você consegue aproveitar o dia?",
+            shizune: "Você consegue me dizer o que pensa?"
+        }
+    },
     ja: {
         taglines: {
             emi: "独り立ち、できる？",

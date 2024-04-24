@@ -59,6 +59,12 @@ export const footer = {
             "forum": "Forum"
         }
     },
+    "pt-BR": {
+        footer: {
+            "blog": "Blog",
+            "forum": "Forum"
+        }
+    },
     ru: {
         footer: {
             "blog": "Блог",

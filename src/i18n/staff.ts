@@ -585,6 +585,86 @@ export const staff = {
             `
         }
     },
+    "pt-BR": {
+        "staff": {
+            content: `
+                <h2 class="first">Sobre Four Leaf Studios</h2>
+                <img src="/img/concept.jpg" alt="RAITA's omake page" id="concept-img">
+                O ano novo de 2007 estava destinado a ser um ano normal para o <a href="https://boards.4chan.org/a/">sub-fórum /a/</a> do <a href="http://4chan.org/">4chan</a> até que, em 4 de janeiro, um anônimo postou uma página de <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA's omake page">omake</a> do doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> de <a href="https://www.pixiv.net/en/users/188638">RAITA</a> do círculo de doujins Zettai Shoujo, detalhando uma arte de personagens para um simulador de namoro que ele apelidou de "Katawa Shoujo". Por razões que nunca saberemos, a ideia genial de alguém de concretizar a ideia de RAITA sobre o jogo pegou fogo e logo sugestões que variavam de histórias de amor ternas a fantasias sexuais depravadas estavam correndo soltas no tópico. A ideia insana de criar um jogo original real, baseado em nada além de uma única imagem e das ideias esparsas que RAITA havia escrito nas margens, estimulou tanto a imaginação dos anônimos que as pessoas passaram a levar o projeto incipiente <a href="static/sticky.html">realmente a sério</a>.
+                <br>
+                <br>
+                Logo, surgiram os <a href="http://ks.renai.us/">fóruns</a> de <a href="https://web.archive.org/web/20100407051034/http://s8.invisionfree.com/Zettai_Shojou/index.php">desenvolvimento</a> e, nos meses seguintes, as ideias e sugestões voaram por lá, com as pessoas tentando desenvolver suas propostas, desenhando ilustrações, escrevendo textos, tentando controlar o caos de dezenas de pessoas discutindo e brigando sobre a direção do jogo. A partir daí, as pessoas mais ativas começaram o desenvolvimento real do jogo na forma de um grupo de trabalho chamado Four Leaf Studios, sendo que o projeto realmente decolou no verão de 2007.
+                <br>
+                <br>
+                O capítulo final chegou no ano de 2012. Durante cinco longos anos, a Four Leaf Studios trabalhou no projeto, com o eventual lançamento às vezes parecendo que nunca chegaria. No entanto, no final de 2011, o resultado estava à vista e o esforço final para concluir o jogo começou.
+                <br>
+                <br>
+                Em 4 de janeiro de 2012, Katawa Shoujo foi lançado.
+                <h2>Créditos</h2>
+                <h3>Escritores</h3>
+                <ul>
+                    <li>Anonymous22</li>
+                    <li><a href="http://twitter.com/enneuni" target="_blank">Aura</a></li>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                    <li><a href="http://twitter.com/TheHivemindstw" target="_blank">TheHivemind</a></li>
+                </ul>
+                <h3>Edição de Texto</h3>
+                <ul>
+                    <li>Kagami</li>
+                    <li>Losstarot</li>
+                    <li>Silentcook</li>
+                </ul>
+                <h3>Música</h3>
+                <ul>
+                    <li><a href="http://twitter.com/AoiichiNiiSan" target="_blank">Blue123</a></li>
+                    <li><a href="http://twitter.com/nicolarmarfi" target="_blank">NicolArmarfi</a></li>
+                </ul>
+                <h3>Arte</h3>
+                <ul>
+                    <li><a href="http://twitter.com/MightyKow" target="_blank">gebyy-terar</a></li>
+                    <li>Kamifish</li>
+                    <li><a href="http://twitter.com/burgooblop" target="_blank">moekki</a></li>
+                    <li><a href="http://twitter.com/CurePimmy" target="_blank">Pimmy</a></li>
+                    <li><a href="http://twitter.com/weee_desu" target="_blank">raemz</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                </ul>
+                <h3>Arte Adicional</h3>
+                <ul>
+                    <li><a href="http://twitter.com/not_climatic" target="_blank">climatic</a></li>
+                    <li>Doomfest</li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>Animação FMV</h3>
+                <ul>
+                    <li><a href="http://mikeinel.deviantart.com/" target="_blank">Mike Inel</a></li>
+                </ul>
+                <h3>Direção</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>Programação</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                </ul>
+                <h3>Produção</h3>
+                <ul>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                </ul>
+                <h3>Agradecimentos Especiais</h3>
+                <ul>
+                    <li>replicated</li>
+                    <li><a href="http://twitter.com/hir000" target="_blank">hir</a></li>
+                    <li><a href="http://twitter.com/renpytom" target="_blank">PyTom</a></li>
+                    <li><a href="http://twitter.com/raita_z/" target="_blank">RAITA</a></li>
+                    <li>Há um número grande demais de colaboradores menores e antigos para incluirmos todos aqui...</li>
+                </ul>
+            `
+        }
+    },
     ja: {
         "staff": {
             content: `

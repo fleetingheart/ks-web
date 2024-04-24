@@ -47,6 +47,7 @@ const languages = [
     { name: "日本語", code: "ja" },
     { name: "한국말", code: "ko" },
     { name: "Português", code: "pt" },
+	{ name: "Português Brasileiro", code: "pt-BR" },
     { name: "Русский", code: "ru" },
     { name: "中文(简体)", code: "zh" },
     { name: "中文(繁體)", code: "zh-TW" }
