@@ -112,7 +112,7 @@ export const taglines = {
             emi: "你能自立独行吗？",
             hanako: "你能直面恐惧吗？",
             lilly: "你能视我所见吗？",
-            rin: "你能掌握当前吗？",
+            rin: "你能掌握当下吗？",
             shizune: "你能和我诉说心事吗？"
         }
     },
