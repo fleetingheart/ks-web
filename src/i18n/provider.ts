@@ -56,8 +56,3 @@ export function persistentChangeLocale(instance: WritableComputedRef<string>, ne
     localStorage.setItem('locale', newLocale);
     console.log('[i18nProvider] Locale changed to', newLocale);
 }
-
-export function useIsKanjiLocale(instance: WritableComputedRef<string>) {
-    const kanjiLocales = ['ja', 'zh', 'zh-TW'];
-    return computed(() => kanjiLocales.includes(instance.value));
-}

@@ -2,7 +2,7 @@
     <div
         id="home"
         class="flex flex-col items-center justify-center h-full relative" 
-        :class="{ 'kanji-locale': isKanjiLocale }"
+        :class="{ 'cn-locale': isChineseLocale, 'jp-locale': isJapaneseLocale }"
     >
         <router-link
             :to="`/characters#${randChar}`"
@@ -21,13 +21,14 @@
 </template>
 
 <script setup lang="ts">
+import { computed } from 'vue';
 import { useI18n } from 'vue-i18n';
-import { useIsKanjiLocale } from '@/i18n/provider';
 
 const { t, locale } = useI18n();
 const characters = ["shizune", "emi", "rin", "hanako", "lilly"];
 const randChar = characters[Math.floor(Math.random() * characters.length)];
-const isKanjiLocale = useIsKanjiLocale(locale);
+const isJapaneseLocale = computed(() => locale.value === 'ja');
+const isChineseLocale = computed(() => locale.value === 'zh' || locale.value === 'zh-TW');
 </script>
 
 <style scoped>
@@ -39,7 +40,12 @@ a:hover {
     font-family: 'Playtime';
 }
 
-#home.kanji-locale a {
+#home.jp-locale a {
     font-family: 'Mikachan';
+}
+
+#home.cn-locale a {
+    font-family: ZHCombo;
+    font-weight: 800;
 }
 </style>

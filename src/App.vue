@@ -3,7 +3,7 @@
         <div class="ks-container p-8 relative">
             <header
                 class="px-2 text-[1.1em] relative flex flex-row gap-5 w-[78%] justify-between"
-                :class="{ 'kanji-locale': isKanjiLocale, 'jp-locale': useSmallFont }"
+                :class="{ 'cn-locale': isChineseLocale, 'jp-locale': isJapaneseLocale }"
             >
                 <div>
                     <router-link class="hover:text-black whitespace-nowrap" to="/about">{{ t('navigation.about') }}</router-link>
@@ -41,11 +41,11 @@ import Footer from './components/Footer.vue'
 import { useI18n } from 'vue-i18n';
 import { initTitleManager } from './services/titlemanager';
 import { useRouter } from 'vue-router';
-import { useIsKanjiLocale } from '@/i18n/provider';
 import { computed } from 'vue';
 
 const { t, locale } = useI18n();
-const isKanjiLocale = useIsKanjiLocale(locale);
+const isChineseLocale = computed(() => locale.value === 'zh' || locale.value === 'zh-TW');
+const isJapaneseLocale = computed(() => locale.value === 'ja');
 initTitleManager(t, useRouter());
 
 const downloadCircle = computed(() => {
@@ -81,6 +81,11 @@ const useSmallFont = computed(() => {
 }
 
 @font-face {
+    font-family: ZHCombo;
+    src: url('/fonts/zh_combo.ttf');
+}
+
+@font-face {
     font-family: VLPGothic;
     src: url('/fonts/VL-PGothic-Regular.ttf');
 }
@@ -104,7 +109,12 @@ header {
     font-family: Playtime;
 }
 
-header.kanji-locale {
+header.cn-locale {
+    font-family: ZHCombo;
+    font-weight: 800;
+}
+
+header.jp-locale {
     font-family: Mikachan;
 }
 
