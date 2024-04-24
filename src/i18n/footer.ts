@@ -73,8 +73,8 @@ export const footer = {
     },
     zh: {
         footer: {
-            "blog": "Blog",
-            "forum": "Forum"
+            "blog": "博客",
+            "forum": "论坛"
         }
     },
     'zh-TW': {
