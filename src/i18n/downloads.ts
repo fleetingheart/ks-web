@@ -307,7 +307,6 @@ export const downloads = {
             "wiz": "Wizard",
             "tile": "拼图",
             "dwlanguage": "语言",
-            "tile": "Tile",
             "soviet": "Soviet",
             "artbooks": "同人画集",
             "soundtrack": "原声带",
