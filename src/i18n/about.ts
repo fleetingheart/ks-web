@@ -51,7 +51,7 @@ export const about = {
         about: {
             title: 'A Katawa Shoujo-ról',
             intro: 'A Katawa Shoujo egy bishoujo-stílusú vizuális regény, ami valahol a modern Japánban, egy testi fogyatékos diákok számára kialakított fiktív iskolában, a Yamaku Akadémiában játszódik. Hisao egy teljesen átlagos fiú, mígnem veleszületett szívbetegsége miatt egy napon a feje tetejére áll az élete; egy szívroham és hosszú kórházi kezelés után a Yamaku-ban kell folytatnia a tanulmányait. Nehézségei ellenére Hisao barátokra, sőt, talán szerelemre lelhet itt, ha ügyes és szerencsés. Öt fő történetszál van a játékban, minden női főszereplőhöz egy-egy, az adott karaktert állítva a középpontba.',
-            gameplay: 'A történet egyes szám, első szeméyben, a főszereplő szemszögéből bontakozik ki. A játék hagyományos szöveg és sprite alapú vizuális regény; ADV szövegdobozt használ. A Katawa Shoujo a  <a href="http://renpy.org/">Ren\'Py</a> szkriptelőrendszerrel készült, és felnőtt tartalom is található benne.',
+            gameplay: 'A történet egyes szám, első személyben, a főszereplő szemszögéből bontakozik ki. A játék hagyományos szöveg és sprite alapú vizuális regény; ADV szövegdobozt használ. A Katawa Shoujo a  <a href="http://renpy.org/">Ren\'Py</a> szkriptelőrendszerrel készült, és felnőtt tartalom is található benne.',
             info: 'A játékot <a href="staff">amatőr fejlesztők nemzetközi csapata</a> fejlesztette és a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.hu">Creative Commons BY-NC-ND licensz</a>nek megfelelően ingyenesen elérhető bárki számára.'
         }
     },
