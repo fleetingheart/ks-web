@@ -59,8 +59,8 @@ export const about = {
         about: {
             title: 'Riguardo a Katawa Shoujo',
             intro: 'Katawa Shoujo è una visual novel in stile bishoujo ambientata nell\' immaginaria Scuola Superiore Yamaku per ragazzi disabili, che si trova da qualche parte nel Giappone moderno. Hisao Nakai, un ragazzo normale che vive una vita normale, vede la sua vita sconvolta quando un difetto cardiaco congenito lo obbliga a trasferirsi in una nuova scuola dopo un lungo ricovero in ospedale. Nonostante i suoi problemi, Hisao riesce a trovare degli amici—e forse l\' amore, se gioca bene le sue carte. Ci sono cinque trame principali corrispondenti ai 5 personaggi femminili principali, con ogni trama che segue la storia pertinente a quel personaggio.',
-            gameplay: 'La storia viene raccontata attraverso la prospettiva del personaggio principale, usando narrativa in prima persona. Questo gioco usa un modello tradizionale di visual novel basato su testo e sprite con una finestra testuale ADV. Katawa Shoujo contiene temi adulti, e viene creato usando il sistema di scripting <a href="http://renpy.org/">Ren\'Py</a>.',
-            info: 'Katawa Shoujo sta venendo sviluppato da <a href="staff">un team internazionale di creatori amatoriali</a>, e verrà pubblicato gratuitamente sotto i termini della <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.it">Licenza Creative Commons BY-NC-ND</a>.'
+            gameplay: 'La storia viene raccontata attraverso la prospettiva del personaggio principale, usando narrativa in prima persona. Questo gioco usa un modello tradizionale di visual novel basato su testo e sprite con una finestra testuale ADV.',
+            info: 'Katawa Shoujo contiene temi adulti, ed è stato creato usando il sistema di scripting <a href="http://renpy.org/">Ren\'Py</a>. E\' il prodotto di <a href="staff">un team internazionale di creatori amatoriali</a>, ed è disponibile gratuitamente sotto i termini della <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.it">Licenza Creative Commons BY-NC-ND</a>.'
         }
     },
     ko: {

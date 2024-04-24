@@ -386,34 +386,74 @@ export const staff = {
                 <br>
                 Presto, apparvero <a href="https://web.archive.org/web/20100407051034/http://s8.invisionfree.com/Zettai_Shojou/index.php">forum</a> di <a href="http://ks.renai.us/">sviluppo</a> e per i mesi seguenti, idee e suggerimenti volarono avanti e indietro, con persone che cercavano di concretizzare le proprie idee, producevano disegni dimostrativi, scrivevano testi dimostrativi, e cercavano di controllare il caos di dozzine di persone che discutevano e bisticciavano riguardo la direzione del gioco. Da lì, le persone più attive iniziarono l' effettivo sviluppo del gioco come un gruppo di lavoro chiamato Four Leaf Studios e il progetto prese davvero il volo nell' estate '07.
                 
-                <h2>Attuale Team di Sviluppo</h2>
-                <ul>
-                    <li>cpl_crud: Produttore del progetto, scrittore della trama di Hanako</li>
-                    <li>Aura: Capo Scrittore, Disegnatore del gioco, scrittore della trama di Rin</li>
-                    <li>delta: Programmatore capo, disegnatore dell' UI</li>
-                    <li>TheHivemind: Scrittore della trama di Emi</li>
-                    <li>Anonymous22: Scrittore della trama di Shizune</li>
-                    <li>Suriko: Scrittore della trama di Lilly</li>
-                    <li>Kagami: Editore</li>
-                    <li>Losstarot: Editore</li>
-                    <li>Silentcook: Editore</li>
-                    <li>Ambi07: Grafico</li>
-                    <li>moekki: Grafico</li>
-                    <li>raemz: Grafico</li>
-                    <li>gebyy-terar: Grafico</li>
-                    <li>Kamifish: Grafico</li>
-                    <li>Raide: Grafico</li>
-                    <li>yujovi: Fotografo sfondi</li>
-                    <li>Blue123: Compositore</li>
-                </ul>
+                <br>
+                <br>
+                Il capitolo finale giunge nell' anno 2012. Per cinque lunghi anni Four Leaf Studios lavorò duramente sul progetto, con l' eventuale pubblicazione a volte apparentemente inarrivabile. Alla fine del 2011, però, la conclusione era in vista e l' ultimo sforzo per terminare il gioco ebbe inizio.
                 
-                <h2>Ringraziamenti Speciali</h2>
+                <br>
+                <br>
+                Il 4 gennaio 2012, Katawa Shoujo fu pubblicato.
+
+                <h2>Staff</h2>
+                <h3>Scrittori</h3>
                 <ul>
-                    <li>Anonymous</li>
-                    <li>PyTom</li>
-                    <li>NicolArmarfi</li>
+                    <li>Anonymous22</li>
+                    <li><a href="http://twitter.com/enneuni" target="_blank">Aura</a></li>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                    <li><a href="http://twitter.com/TheHivemindstw" target="_blank">TheHivemind</a></li>
+                </ul>
+                <h3>Editori</h3>
+                <ul>
+                    <li>Kagami</li>
+                    <li>Losstarot</li>
+                    <li>Silentcook</li>
+                </ul>
+                <h3>Compositori</h3>
+                <ul>
+                    <li><a href="http://twitter.com/AoiichiNiiSan" target="_blank">Blue123</a></li>
+                    <li><a href="http://twitter.com/nicolarmarfi" target="_blank">NicolArmarfi</a></li>
+                </ul>
+                <h3>Grafici</h3>
+                <ul>
+                    <li><a href="http://twitter.com/MightyKow" target="_blank">gebyy-terar</a></li>
+                    <li>Kamifish</li>
+                    <li><a href="http://twitter.com/burgooblop" target="_blank">moekki</a></li>
+                    <li><a href="http://twitter.com/CurePimmy" target="_blank">Pimmy</a></li>
+                    <li><a href="http://twitter.com/weee_desu" target="_blank">raemz</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                </ul>
+                <h3>Grafici addizionali</h3>
+                <ul>
+                    <li><a href="http://twitter.com/not_climatic" target="_blank">climatic</a></li>
+                    <li>Doomfest</li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>Animazioni FMV</h3>
+                <ul>
+                    <li><a href="http://mikeinel.deviantart.com/" target="_blank">Mike Inel</a></li>
+                </ul>
+                <h3>Direttori</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>Programmatore</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                </ul>
+                <h3>Produtttori</h3>
+                <ul>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>   
+                </ul>
+                <h3>Ringraziamenti Speciali</h3>
+                <ul>
                     <li>replicated</li>
-                    <li>RAITA</li>
+                    <li><a href="http://twitter.com/hir000" target="_blank">hir</a></li>
+                    <li><a href="http://twitter.com/renpytom" target="_blank">PyTom</a></li>
+                    <li><a href="http://twitter.com/raita_z/" target="_blank">RAITA</a></li>
                     <li>Troppi contribuenti minori e precedenti per poterli listare qui...</li>
                 </ul>
             `
