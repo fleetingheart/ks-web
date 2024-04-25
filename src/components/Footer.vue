@@ -6,7 +6,7 @@
                 ©2007-2013
                 <a href="mailto:staff@katawa-shoujo.com">Four Leaf Studios</a><br> 
                 ©2024
-                <a href="https://fhs.sh">fhs.sh</a> under the <a href="https://codeberg.org/fhs/ks-web/src/branch/main/LICENSE">MIT License</a>
+                <a href="https://fhs.sh">Fleeting Heartbeat Studios</a> and comminuty contributors under the <a href="https://codeberg.org/fhs/ks-web/src/branch/main/LICENSE">MIT License</a>
             </p>
         </div>
         <div id="languages" class="col-span-6 sm:col-span-2 flex items-end justify-center mb-12 sm:mb-0">
