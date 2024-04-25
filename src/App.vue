@@ -3,7 +3,7 @@
         <div class="ks-container p-8 relative">
             <header
                 class="px-2 text-[1.1em] relative flex flex-row gap-5 w-[78%] justify-between"
-                :class="{ 'cn-locale': isChineseLocale, 'jp-locale': isJapaneseLocale }"
+                :class="{ 'cn-locale': isChineseLocale, 'jp-locale': isJapaneseLocale, 'ko-locale': isKoreanLocale }"
             >
                 <div>
                     <router-link class="hover:text-black whitespace-nowrap" to="/about">{{ t('navigation.about') }}</router-link>
@@ -46,6 +46,7 @@ import { computed } from 'vue';
 const { t, locale } = useI18n();
 const isChineseLocale = computed(() => locale.value === 'zh' || locale.value === 'zh-TW');
 const isJapaneseLocale = computed(() => locale.value === 'ja');
+const isKoreanLocale = computed(() => locale.value === 'ko');
 initTitleManager(t, useRouter());
 
 const downloadCircle = computed(() => {
@@ -62,34 +63,29 @@ const downloadCircle = computed(() => {
             return '';
     }
 })
-const useSmallFont = computed(() => {
-    return locale.value === 'ja';
-})
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap');
 
 @font-face {
     font-family: Playtime;
-    src: url('/fonts/playtime.ttf');
+    src: url('/fonts/playtime.woff2');
 }
 
 @font-face {
     font-family: Mikachan;
-    src: url('/fonts/mikachan_o-PB.otf');
+    src: url('/fonts/mikachan_o-PB.woff2');
 }
 
 @font-face {
     font-family: ZHCombo;
-    src: url('/fonts/zh_combo.ttf');
+    src: url('/fonts/zh_combo.woff2');
 }
 
 @font-face {
-    font-family: VLPGothic;
-    src: url('/fonts/VL-PGothic-Regular.ttf');
+    font-family: NewGungsuh;
+    src: url('/fonts/newgungsuh.woff2');
 }
-
 
 body {
     @apply bg-neutral-900 text-white text-xl;
@@ -115,6 +111,10 @@ header {
 header.cn-locale {
     font-family: ZHCombo;
     font-weight: 800;
+}
+
+header.ko-locale {
+    font-family: NewGungsuh;
 }
 
 header.jp-locale {

@@ -2,7 +2,7 @@
     <div
         id="home"
         class="flex flex-col items-center justify-center h-full relative" 
-        :class="{ 'cn-locale': isChineseLocale, 'jp-locale': isJapaneseLocale }"
+        :class="{ 'cn-locale': isChineseLocale, 'jp-locale': isJapaneseLocale, 'ko-locale': isKoreanLocale }"
     >
         <router-link
             :to="`/characters#${randChar}`"
@@ -29,6 +29,8 @@ const characters = ["shizune", "emi", "rin", "hanako", "lilly"];
 const randChar = characters[Math.floor(Math.random() * characters.length)];
 const isJapaneseLocale = computed(() => locale.value === 'ja');
 const isChineseLocale = computed(() => locale.value === 'zh' || locale.value === 'zh-TW');
+const isKoreanLocale = computed(() => locale.value === 'ko');
+
 </script>
 
 <style scoped>
@@ -37,15 +39,19 @@ a:hover {
 }
 
 #home {
-    font-family: 'Playtime';
+    font-family: Playtime;
 }
 
 #home.jp-locale a {
-    font-family: 'Mikachan';
+    font-family: Mikachan;
 }
 
 #home.cn-locale a {
-    font-family: ZHCombo;
+    font-family: ZHCombo, Playtime;
     font-weight: 800;
+}
+
+#home.ko-locale a {
+    font-family: NewGungsuh, Playtime;
 }
 </style>
