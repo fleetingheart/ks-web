@@ -3,10 +3,11 @@
         <div id="copyright" class="col-span-4 sm:col-span-2 order-3 sm:order-[unset]">
             <img src="/img/4lsl.png" alt="Four Leaf Studios Logo">
             <p class="leading-5 mt-2">
-                ©2007-2013
-                <a href="mailto:staff@katawa-shoujo.com">Four Leaf Studios</a><br> 
-                ©2024
-                <a href="https://fhs.sh">Fleeting Heartbeat Studios</a> and comminuty contributors under the <a href="https://codeberg.org/fhs/ks-web/src/branch/main/LICENSE">MIT License</a>
+                © 2007-2024
+                <a href="mailto:staff@katawa-shoujo.com">Four Leaf Studios</a><br>
+                © 2024
+                <a href="https://fhs.sh">Fleeting Heartbeat Studios</a> and the comminuty contributors<br>
+                The code is available under the <a href="https://codeberg.org/fhs/ks-web/src/branch/main/LICENSE">MIT License</a>
             </p>
         </div>
         <div id="languages" class="col-span-6 sm:col-span-2 flex items-end justify-center mb-12 sm:mb-0">
