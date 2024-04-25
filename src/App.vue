@@ -102,7 +102,10 @@ body {
     width: 640px;
     height: 480px;
     background: url('/img/innerbg.jpg');
-    @apply absolute left-[50%] top-[35%] sm:top-[50%] translate-x-[-50%] translate-y-[-50%] scale-[50%] sm:scale-100;
+    @apply absolute left-[50%]
+    top-[35%] sm:top-[45%] md:top-[50%]
+    translate-x-[-50%] translate-y-[-50%]
+    scale-[50%] sm:scale-[90%] md:scale-100;
 }
 
 header {
