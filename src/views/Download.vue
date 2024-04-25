@@ -116,30 +116,30 @@ const commonData = {
     downloads: {
         full: {
             torrent: {
-                windows: "http://www.katawa-shoujo.com/res/shrinkwrap.php?link=gold_1.3.1/%5b4ls%5d_katawa_shoujo_1.3.1-%5bwindows%5d%5bA6A47E20%5d.exe.torrent",
-                mac: "http://www.katawa-shoujo.com/res/shrinkwrap.php?link=gold_1.3.1/%5b4ls%5d_katawa_shoujo_1.3.1-%5bmac%5d%5b1DFC84A6%5d.dmg.torrent",
-                linux: "http://www.katawa-shoujo.com/res/shrinkwrap.php?link=gold_1.3.1/%5b4ls%5d_katawa_shoujo_1.3.1-%5blinux-x86%5d%5b18161880%5d.tar.bz2.torrent",
+                windows: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Bwindows%255D%255BA6A47E20%255D.exe.torrent",
+                mac: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Bmac%255D%255B1DFC84A6%255D.dmg.torrent",
+                linux: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Blinux-x86%255D%255B18161880%255D.tar.bz2.torrent",
             },
             direct: {
-                windows: "http://www.katawa-shoujo.com/res/shrinkwrap.php?link=gold_1.3.1/%5b4ls%5d_katawa_shoujo_1.3.1-%5bwindows%5d%5bA6A47E20%5d.exe",
-                mac: "http://www.katawa-shoujo.com/res/shrinkwrap.php?link=gold_1.3.1/%5b4ls%5d_katawa_shoujo_1.3.1-%5bmac%5d%5b1DFC84A6%5d.dmg",
-                linux: "http://www.katawa-shoujo.com/res/shrinkwrap.php?link=gold_1.3.1/%5b4ls%5d_katawa_shoujo_1.3.1-%5blinux-x86%5d%5b18161880%5d.tar.bz2",
+                windows: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Bwindows%255D%255BA6A47E20%255D.exe",
+                mac: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Bmac%255D%255B1DFC84A6%255D.dmg",
+                linux: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Blinux-x86%255D%255B18161880%255D.tar.bz2",
             }
         },
         act1: {
             torrent: {
-                windows: "http://dl.katawa-shoujo.com/a1v5/%5B4ls%5D_katawa_shoujo_act1_v5_%5Bwindows%5D%5BE9193F09%5D.exe.torrent",
-                mac: "http://dl.katawa-shoujo.com/a1v5/%5B4ls%5D_katawa_shoujo_act1_v5_%5Bmac%5D%5B4392C128%5D.dmg.torrent",
-                linux: "http://dl.katawa-shoujo.com/a1v5/%5B4ls%5D_katawa_shoujo_act1_v5_%5Blinux-x86%5D%5B97624142%5D.tar.bz2.torrent",
+                windows: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Bwindows%255D%255BE9193F09%255D.exe.torrent",
+                mac: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Bmac%255D%255B4392C128%255D.dmg.torrent",
+                linux: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Blinux-x86%255D%255B97624142%255D.tar.bz2.torrent",
             },
             direct: {
-                windows: "http://dl.katawa-shoujo.com/a1v5/mirrors/%5B4ls%5D_katawa_shoujo_act1_v5_%5Bwindows%5D%5BE9193F09%5D.exe",
-                mac: "http://dl.katawa-shoujo.com/a1v5/mirrors/%5B4ls%5D_katawa_shoujo_act1_v5_%5Bmac%5D%5B4392C128%5D.dmg",
-                linux: "http://dl.katawa-shoujo.com/a1v5/mirrors/%5B4ls%5D_katawa_shoujo_act1_v5_%5Blinux-x86%5D%5B97624142%5D.tar.bz2",
+                windows: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Bwindows%255D%255BE9193F09%255D.exe",
+                mac: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Bmac%255D%255B4392C128%255D.dmg",
+                linux: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Blinux-x86%255D%255B97624142%255D.tar.bz2",
             }
         },
         soundtrack: {
-            direct: "http://dl.katawa-shoujo.com/pr/soundtrack/%5b4ls%5D_katawa_shoujo_enigmatic_box_of_sound_%5b503ACD68%5D.zip"
+            direct: "https://cdn.fhs.sh/ks/pr/soundtrack/%255B4ls%255D_katawa_shoujo_enigmatic_box_of_sound_%255B503ACD68%255D.zip"
         }
     },
     artbooks: [
@@ -147,15 +147,15 @@ const commonData = {
             title: "Player Guide",
             languages: ["Japanese"],
             thumbnail: "tn_kspg.jpg",
-            links: ["http://dl.katawa-shoujo.com/pr/artbooks/Katawa_Shoujo_Player_Guide_JA.pdf"]
+            links: ["https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Player_Guide_JA.pdf"]
         },
         {
             title: "Fragments of Summer",
             languages: ["Japanese", "English"],
             thumbnail: "tn_fos.jpg",
             links: [
-                "http://dl.katawa-shoujo.com/pr/artbooks/Katawa_Shoujo_Fragments_of_Summer_JA.pdf",
-                "http://dl.katawa-shoujo.com/pr/artbooks/Katawa_Shoujo_Fragments_of_Summer_EN.pdf"
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Fragments_of_Summer_JA.pdf",
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Fragments_of_Summer_EN.pdf"
             ]
         },
         {
@@ -163,8 +163,8 @@ const commonData = {
             languages: ["Japanese", "English"],
             thumbnail: "tn_ksmw.jpg",
             links: [
-                "http://dl.katawa-shoujo.com/pr/artbooks/Katawa_Shoujo_Midwinter_JA.pdf",
-                "http://dl.katawa-shoujo.com/pr/artbooks/Katawa_Shoujo_Midwinter_EN.pdf"
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Midwinter_JA.pdf",
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Midwinter_EN.pdf"
             ]
         },
         {
@@ -172,7 +172,7 @@ const commonData = {
             languages: ["English"],
             thumbnail: "tn_kstt.jpg",
             links: [
-                "http://dl.katawa-shoujo.com/pr/artbooks/Katawa_Shoujo_Tomorrow_Today_EN.pdf",
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Tomorrow_Today_EN.pdf",
             ]
         },
         {
@@ -180,7 +180,7 @@ const commonData = {
             languages: ["French"],
             thumbnail: "tn_ksab.jpg",
             links: [
-                "http://dl.katawa-shoujo.com/pr/artbooks/Kawasoft_Artbook.pdf",
+                "https://cdn.fhs.sh/ks/pr/artbooks/Kawasoft_Artbook.pdf",
             ]
         },
         {
@@ -188,7 +188,7 @@ const commonData = {
             languages: ["English"],
             thumbnail: "tn_ksis.jpg",
             links: [
-                "http://dl.katawa-shoujo.com/pr/artbooks/Katawa_Shoujo_Imperfect_Spectrum_EN.pdf",
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Imperfect_Spectrum_EN.pdf",
             ]
         },
         {
@@ -196,7 +196,7 @@ const commonData = {
             languages: ["English"],
             thumbnail: "tn_ksbs.jpg",
             links: [
-                "http://dl.katawa-shoujo.com/pr/artbooks/Katawa_Shoujo_Beauty_and_Strangeness_EN.pdf",
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Beauty_and_Strangeness_EN.pdf",
             ]
         },
         {
@@ -204,7 +204,7 @@ const commonData = {
             languages: ["English"],
             thumbnail: "tn_kstsh.png",
             links: [
-                "http://dl.katawa-shoujo.com/pr/artbooks/Katawa_Shoujo_The_Soft_Hour_EN.pdf",
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_The_Soft_Hour_EN.pdf",
             ]
         },
 
@@ -214,48 +214,48 @@ const commonData = {
             thumbnail: "misha_tn.jpg",
             versions: ["Misha 1600x1200", "Misha 2560x1600"],
             links: [
-                "http://dl.katawa-shoujo.com/pr/wallpapers/misha_wp_1600x1200.png",
-                "http://dl.katawa-shoujo.com/pr/wallpapers/misha_wp_2560x1600.png"
+                "https://cdn.fhs.sh/ks/pr/wallpapers/misha_wp_1600x1200.png",
+                "https://cdn.fhs.sh/ks/pr/wallpapers/misha_wp_2560x1600.png"
             ]
         },
         {
             thumbnail: "sd_tn.jpg",
             versions: ["SD Girls 1600x1200", "SD Girls 2560x1600"],
             links: [
-                "http://dl.katawa-shoujo.com/pr/wallpapers/sd_wp_1600x1200.png",
-                "http://dl.katawa-shoujo.com/pr/wallpapers/sd_wp_2560x1600.png"
+                "https://cdn.fhs.sh/ks/pr/wallpapers/sd_wp_1600x1200.png",
+                "https://cdn.fhs.sh/ks/pr/wallpapers/sd_wp_2560x1600.png"
             ]
         },
         {
             thumbnail: "wizard_tn.jpg",
             versions: ["Wizard 1600x1200", "Wizard 1920x1200"],
             links: [
-                "http://dl.katawa-shoujo.com/pr/wallpapers/wizard_wp_1600x1200.png",
-                "http://dl.katawa-shoujo.com/pr/wallpapers/wizard_wp_1920x1200.png"
+                "https://cdn.fhs.sh/ks/pr/wallpapers/wizard_wp_1600x1200.png",
+                "https://cdn.fhs.sh/ks/pr/wallpapers/wizard_wp_1920x1200.png"
             ]
         },
         {
             thumbnail: "tile_tn.jpg",
             versions: ["Tile 1600x1200", "Tile 2560x1600"],
             links: [
-                "http://dl.katawa-shoujo.com/pr/wallpapers/tile_wp_1600x1200.png",
-                "http://dl.katawa-shoujo.com/pr/wallpapers/tile_wp_2560x1600.png"
+                "https://cdn.fhs.sh/ks/pr/wallpapers/tile_wp_1600x1200.png",
+                "https://cdn.fhs.sh/ks/pr/wallpapers/tile_wp_2560x1600.png"
             ]
         },
         {
             thumbnail: "shizune_tn.jpg",
             versions: ["Shizune 1024x768", "Shizune 1280x800"],
             links: [
-                "http://dl.katawa-shoujo.com/pr/wallpapers/shizune_wp_1024x768.png",
-                "http://dl.katawa-shoujo.com/pr/wallpapers/shizune_wp_1280x800.png"
+                "https://cdn.fhs.sh/ks/pr/wallpapers/shizune_wp_1024x768.png",
+                "https://cdn.fhs.sh/ks/pr/wallpapers/shizune_wp_1280x800.png"
             ]
         },
         {
             thumbnail: "soviet_tn.jpg",
             versions: ["Soviet 1600x1200", "Soviet 2560x1600"],
             links: [
-                "http://dl.katawa-shoujo.com/pr/wallpapers/soviet_wp_1600x1200.png",
-                "http://dl.katawa-shoujo.com/pr/wallpapers/soviet_wp_2560x1600.png"
+                "https://cdn.fhs.sh/ks/pr/wallpapers/soviet_wp_1600x1200.png",
+                "https://cdn.fhs.sh/ks/pr/wallpapers/soviet_wp_2560x1600.png"
             ]
         },
     ]
