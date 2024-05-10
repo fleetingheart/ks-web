@@ -136,35 +136,67 @@ export const staff = {
                 <br>
                 Bald gab es <a href="https://web.archive.org/web/20100407051034/http://s8.invisionfree.com/Zettai_Shojou/index.php">Entwickler-</a><a href="http://ks.renai.us/">Foren</a>, und in den nächsten Monaten war die Luft voller Ideen und Vorschlägen, als alle versuchten, ihre Ideen auszubreiten, Kunstbeispiele zu zeichnen, Textbeispiele zu schreiben, und das Chaos von Dutzenden von Leuten, die über die Ausrichtung des Spiels diskutierten und stritten, unter Kontrolle zu halten. Von dort aus begannen die aktivsten Teilnehmer mit der endgültigen Entwicklung des Spiels unter dem Namen "Four Leaf Studios", und im Sommer '07 begann das Projekt tatsächlich, Form anzunehmen.
                 
-                <h2>Gegenwärtiges Entwicklerteam</h2>
+                <h2>Abspann</h2>
+                <h3>Schreiben</h3>
                 <ul>
-                    <li>cpl_crud: Produzent, Autor für den Hanako-Pfad</li>
-                    <li>Aura: Chefautor, Spieldesigner, Autor for den Rin-Pfad</li>
-                    <li>delta: Chefprogrammierer, Interface-Designer</li>
-                    <li>TheHivemind: Autor für den Emi-Pfad</li>
-                    <li>Anonymous22: Autor für den Shizune-Pfad</li>
-                    <li>Suriko: Autor für den Lilly-Pfad</li>
-                    <li>Kagami: Lektor</li>
-                    <li>Losstarot: Lektor</li>
-                    <li>Silentcook: Lektor</li>
-                    <li>Ambi07: Künstler</li>
-                    <li>moekki: Künstler</li>
-                    <li>raemz: Künstler</li>
-                    <li>gebyy-terar: Künstler</li>
-                    <li>Kamifish: Künstler</li>
-                    <li>Raide: Künstler</li>
-                    <li>yujovi: Photograph für Hintergründe</li>
-                    <li>Blue123: Komponist</li>
+                    <li>Anonymous22</li>
+                    <li><a href="http://twitter.com/enneuni" target="_blank">Aura</a></li>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                    <li><a href="http://twitter.com/TheHivemindstw" target="_blank">TheHivemind</a></li>
                 </ul>
-                
-                <h2>Besonderer Dank</h2>
+                <h3>Schnitt</h3>
                 <ul>
-                    <li>Anonymous</li>
-                    <li>PyTom</li>
-                    <li>NicolArmarfi</li>
-                    <li>replicated</li>
-                    <li>RAITA</li>
-                    <li>Zu viele ehemalige und geringfügige Mitarbeiter, um hier alle aufzulisten...</li>
+                    <li>Kagami</li>
+                    <li>Losstarot</li>
+                    <li>Silentcook</li>
+                </ul>
+                <h3>Musik</h3>
+                <ul>
+                    <li><a href="http://twitter.com/AoiichiNiiSan" target="_blank">Blue123</a></li>
+                    <li><a href="http://twitter.com/nicolarmarfi" target="_blank">NicolArmarfi</a></li>
+                </ul>
+                <h3>Kunst</h3>
+                <ul>
+                    <li><a href="http://twitter.com/MightyKow" target="_blank">gebyy-terar</a></li>
+                    <li>Kamifish</li>
+                    <li><a href="http://twitter.com/burgooblop" target="_blank">moekki</a></li>
+                    <li><a href="http://twitter.com/CurePimmy" target="_blank">Pimmy</a></li>
+                    <li><a href="http://twitter.com/weee_desu" target="_blank">raemz</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                </ul>
+                <h3>Zusätzliche Kunst</h3>
+                <ul>
+                    <li><a href="http://twitter.com/not_climatic" target="_blank">climatic</a></li>
+                    <li>Doomfest</li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>FMV Animation</h3>
+                <ul>
+                    <li><a href="http://mikeinel.deviantart.com/" target="_blank">Mike Inel</a></li>
+                </ul>
+                <h3>Regie</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>Ingenieurwesen</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                </ul>
+                <h3>Produktion</h3>
+                <ul>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                </ul>
+                <h3>Besonderer Danke</h3>
+                <ul>
+                    <li>anonymus</li>
+                    <li><a href="http://twitter.com/hir000" target="_blank">hir</a></li>
+                    <li><a href="http://twitter.com/renpytom" target="_blank">PyTom</a></li>
+                    <li><a href="http://twitter.com/raita_z/" target="_blank">RAITA</a></li>
+                    <li>Zu viele geringfügige und ehemalige Mitwirkende, um sie hier aufzulisten...</li>
                 </ul>
             `
         }
