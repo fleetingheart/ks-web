@@ -110,8 +110,8 @@ export const navigation = {
             about: ' Sobre',
             characters: 'Personagens',
             samples: 'Amostras',
-            download: 'Downloads',
-            staff: 'Equipe',
+            download: 'Transferências',
+            staff: 'Equipa',
             logo: 'Index'
         }
     },

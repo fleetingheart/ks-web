@@ -837,11 +837,11 @@ export const characters = {
         "chardata": {
             "hisao": {
                 "name": "Hisao Nakai",
-                "description": "Perturbado pela sua longa estadia no hospital após ter sofrido um ataque cardiáco e tentando se ajustar ao seu novo ambiente que se encontra. Ele agora se esforça para achar seu lugar no mundo. Tentando um novo começo, as circunstâncias forçaram Hisao a repensar em coisas como: vida, amizade e futuro."
+                "description": "Perturbado pela sua longa estadia no hospital após ter sofrido um ataque cardiáco e a tentar se ajustar ao seu novo ambiente em que se encontra. Ele agora se esforça para encontrarseu lugar no mundo. A tentar começar num novo princípio, as circunstâncias complicadas obrigaram o Hisao a repensar em coisas como: vida, amizade e futuro."
             },
             "emi": {
                 "name": "Emi Ibarazaki",
-                "description": "Apesar de ser canhota e com as pernas amputadas abaixo do joelho, Emi é uma das garotas mais alegres e despreocupadas do mundo, para não citar a escola. Não entrou em desespero, mesmo após o acidente que tirou suas pernas, Emi vê a sua deficiência como uma benção, já que suas próteses das pernas levaram-na para o auge de sua habilidade no atletismo ao invés de se tornar um obstáculo.",
+                "description": "Apesar de ser canhota e com as pernas amputadas abaixo do joelho, Emi é uma das garotas mais alegres e despreocupadas do mundo, quanto mais a da escola. Não entrou em desespero, mesmo após o acidente que tirou suas pernas, Emi vê a sua deficiência como uma benção, já que suas próteses das pernas levaram-na para o auge de sua habilidade no atletismo ao invés de se tornar um obstáculo.",
                 "birthday": "14 de março",
                 "btype": "B",
                 "zodiac": "Peixes",
@@ -850,7 +850,7 @@ export const characters = {
             },
             "hanako": {
                 "name": "Hanako Ikezawa",
-                "description": "Quando mais nova Hanako teve um acidente que deixou sua vida em desordem. Seu pai morreu quando a sua casa pegou fogo em um acidente, que  também a desfigurou permanentemente. Ela é extremamente tímida, evitando todas as outras pessoas ao ponto de se aterrorizar com qualquer contato social. A sua única amiga de confiança é Lilly, que a colocou debaixo de suas asas desde seu primeiro encontro.",
+                "description": "Ainda era criança, quando a Hanako teve um acidente que deixou sua vida desordenada. Seu pai morreu quando a sua casa pegou fogo num acidente, que  também a desfigurou permanentemente. Ela é extremamente tímida, a evitar todas as outras pessoas ao ponto de se aterrorizar com qualquer interação social. A sua única amiga de confiança é Lilly, que a colocou debaixo de suas asas desde seu primeiro encontro.",
                 "birthday": "10 de julho",
                 "btype": "AB",
                 "zodiac": "Câncer",
@@ -859,7 +859,7 @@ export const characters = {
             },
             "lilly": {
                 "name": "Lilly Satou",
-                "description": "Cega desde que nascimento, Lilly é gentil, responsável e amigável - o contraste perfeito de Hanako, sua melhor amiga, na qual compartilha uma relação de quase mãe e filha, em adiante ao seu tempo livre, quase sempre fica bebendo chá com sua companheira. Na sala, ela é uma estudante aplicada, com seu senso de confiança servindo bem como representante da turma 3-2.",
+                "description": "Cega desde o nascimento, Lilly é gentil, responsável e amigável - o contraste perfeito de Hanako, sua melhor amiga, com quem compartilha uma relação de quase mãe e filha, em adiante ao seu tempo livre, quase sempre fica a beber chá com sua companheira. Na sala, ela é uma estudante aplicada, com seu senso de confiança servindo bem como representante da turma 3-2.",
                 "birthday": "7 de fevereiro",
                 "btype": "A",
                 "zodiac": "Aquário",
@@ -868,7 +868,7 @@ export const characters = {
             },
             "rin": {
                 "name": "Rin Tezuka",
-                "description": "Rin tem os braços amputados devido a um defeito de nascimento severo e uma cirurgia subseqüente, ela usa seus pés e ocasionalmente sua boca para fazer tudo, até mesmo pintar. Por causa de sua deficiência, ela não usa o uniforme feminino com saia e sim o uniforme masculino na escola. Sua criatividade é igualada por sua tendência à filosofia: Adora ficar perdida em pensamentos e dar voz a idéias abstratas sobre o homem, o universo e outras coisas que basicamente apenas confundem as pessoas.",
+                "description": "Rin tem os braços amputados devido a um defeito de nascimento severo e uma cirurgia subseqüente, ela usa seus pés e ocasionalmente sua boca para fazer tudo, até mesmo pintar. Por causa de sua deficiência, ela não usa o uniforme feminino com saia, mas sim o uniforme masculino na escola. Sua criatividade é igualada por sua tendência à filosofia: Adora ficar perdida em pensamentos e dar voz a ideias abstratas sobre o homem, o universo e outras coisas que basicamente apenas confundem as pessoas.",
                 "birthday": "13 de março",
                 "btype": "AB",
                 "zodiac": "Peixes",
@@ -877,7 +877,7 @@ export const characters = {
             },
             "shizune": {
                 "name": "Shizune Hakamichi",
-                "description": "Extremamente determinada e disposta, Shizune é definitivamente a líder do grupo. Ela é representante de classe (apesar de ser surda e muda). Por tanto tempo que sua turma teve apenas uma representante, e normalmente dá conta de qualquer situação que esteja. Conhecida como uma líder assustadora e manipuladora, mas também como uma líder honrada e justa.",
+                "description": "Extremamente determinada e disposta, Shizune é definitivamente a líder do grupo. Ela é representante de classe apesar de ser surda e muda. Por tanto tempo que sua turma teve apenas uma representante, e normalmente dá conta de qualquer situação em que se encontra. Conhecida como uma líder assustadora e manipuladora, mas também como uma líder honrada e justa.",
                 "birthday": "6 de maio",
                 "btype": "O",
                 "zodiac": "Touro",
@@ -886,7 +886,7 @@ export const characters = {
             },
             "misha": {
                 "name": "Shiina \"Misha\" Mikado",
-                "description": "Misha é a interprete de Shizune e membro do conselho estudantil. Alegre, divertida, nunca foi agressiva, ela alegremente entra nas tentativas de Shizune para fazer com que Hisao entre no conselho estudantil.",
+                "description": "A Misha é a interprete de Shizune e membro do conselho estudantil. Alegre, divertida, nunca foi agressiva, ela alegremente entra nas tentativas de Shizune para fazer com que Hisao entre no conselho estudantil.",
                 "birthday": "1 de novembro",
                 "btype": "AB",
                 "zodiac": "Escorpião",
@@ -895,19 +895,19 @@ export const characters = {
             },
             "kenji": {
                 "name": "Kenji Setou",
-                "description": "Quase um hikokomori. Kenji gosta de passar muito tempo em seu quarto, planejando sua primeira investida contra o movimento feminista radical. Ele está sempre alerta desde a chegada de Hisao, mas, muito feliz por finalmente ter um companheiro de corredor."
+                "description": "Quase um hikokomori. Kenji gosta de passar muito tempo em seu quarto, a tentar adivinhar o próximo passo do movimento feminista radical. Ele está sempre alerta desde a chegada de Hisao, mas muito feliz por finalmente ter um companheiro de corredor."
             },
             "nurse": {
                 "name": "Nurse",
-                "description": "O chefe da equipe de enfermagem de Yamaku e surpreendentemente jovem para alguém em sua posição. Ele é uma pessoa engraçada e jovial, sempre disponível para uma risada e amado pelos estudantes. Além disso, ele tem um coração de ouro e apaixonado pela sua profissão."
+                "description": "O chefe da equipe de enfermagem de Yamaku e surpreendentemente jovem para alguém em seu cargo. Ele é uma pessoa engraçada e jovial, sempre disponível para uma risada e amado pelos estudantes. Além disso, ele tem um coração de ouro e apaixonado pela sua profissão."
             },
             "muto": {
                 "name": "Akio Mutou",
-                "description": "Tanto coordenador e professor de ciências da turma 3-3, tem muito afinco com sua classe, já que ele não tem contato com a realidade. Provavelmente nascido para ser um professor (não importa o quanto seus alunos discordem), sua maior técnica é a habilidade de ignorar completamente coisas irrelevantes (não importando a quantidade de pessoas que gostariam que ele se lembrasse de seus nomes)."
+                "description": "Tanto como coordenador e como o professor de ciências da turma 3-3, tem muito afinco com sua classe, já que ele não tem contacto com a realidade. Provavelmente nascido para ser um professor (não importa o quanto seus alunos discordarem), sua maior técnica é a habilidade de ignorar completamente coisas irrelevantes (não importa a quantidade de pessoas que gostariam que ele se lembrasse de seus nomes)."
             },
             "yuuko": {
                 "name": "Yuuko Shirakawa",
-                "description": "Yuuko têm problemas sérios de organização na sua vida, o que faz com que ela seja a pessoa perfeita para se pedir ajuda para organizar a vida dos outros. Ela paga sua universidade com um trabalho de meio período em uma casa de chá popular. As distancias que ela faz para evitar ser demitida por seu jeito desastroso desconcerta as outras pessoas, com sua atenção neurótica a detalhes e freqüentes ataque de depressão."
+                "description": "Yuuko têm problemas sérios de organização na sua vida, o que faz com que ela seja a pessoa perfeita para se pedir ajuda para organizar a vida dos outros. Ela paga sua universidade com um trabalho de tempo parcial numa casa de chá popular. As coisas que ela faz para evitar ser despedida pelo seu jeito desastroso desconcerta as outras pessoas, com sua atenção neurótica a detalhes e frequente ataque de depressão."
             }
         }
     },

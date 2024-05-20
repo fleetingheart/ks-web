@@ -618,40 +618,78 @@ export const staff = {
             content: `
                 <h2 class="first">Sobre o Four Leaf Studios</h2>
                 <img src="/img/concept.jpg" alt="RAITA's omake page" id="concept-img">
-                O Ano Novo de 2007 estava a ser limitado a trabalho, como usual no <a href="https://boards.4chan.org/a/">/a/</a> do <a href="http://4chan.org/">4chan</a>. Até que no dia 4 de janeiro, um Anonymous postou uma <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA's omake page">pagina de omake</a> do doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a>, por <a href="https://www.pixiv.net/en/users/188638">RAITA</a>, do circulo de doujins Zettai Shoujo, detalhando a arte das personagens para um simulador de encontros que ele havia apelidado de "Katawa Shoujo", por motivos que nunca soubemos e/ou saberemos. A idéia genial de alguns de realizar a idéia de RAITA para o jogo vingou e logo veio sugestões, desde historias de amor até fantasias de sexo depravadas apareceram no tópico do 4chan. A idéia insana de criar um jogo original, baseado em nada mais que uma mera imagem e as escassas idéias que RAITA escreveu nas margens excitaram tanto as imaginações dos Anonymous que as pessoas ficaram <a href="static/sticky.html">veramente sérias</a> quanto ao projeto nascente.
+                O Ano Novo de 2007 estava a ser limitado a trabalho, como habitual no <a href="https://boards.4chan.org/a/">/a/</a> do <a href="http://4chan.org/">4chan</a>. Até que no dia 4 de janeiro, um Anonymous postou uma <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA's omake page">pagina de omake</a> do doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a>, por <a href="https://www.pixiv.net/en/users/188638">RAITA</a>, do circulo de doujins Zettai Shoujo, detalhando a arte das personagens para um simulador de encontros que ele tinha intitulado de "Katawa Shoujo", por motivos que nunca soubemos e/ou saberemos. A ideia genial de alguns de realizar a ideia de RAITA para o jogo vingou e logo vieram sugestões, desde historias de amor até fantasias de sexo depravadas apareceram no tópico do 4chan. A ideia insana de criar um jogo original, baseado em nada mais que uma mera imagem e as escassas ideias que RAITA escreveu nas margens excitaram tanto as imaginações dos Anonymous que as pessoas ficaram <a href="static/sticky.html">veramente sérias</a> quanto ao projeto nascente.
                 <br />
                 <br />
-                Logo, houve um <a href="https://web.archive.org/web/20100407051034/http://s8.invisionfree.com/Zettai_Shojou/index.php">fórum</a> de <a href="http://ks.renai.us/">desenvolvimento</a> e, pelos meses seguintes, idéias e sugestões estavam voando, com pessoas tentando incitar suas idéias, fazendo desenhos, escrevendo amostras de texto, tentando controlar o caos de idéias de pessoas argumentando e discutindo sobre a direção do jogo. De lá as pessoas mais ativas comemoram o desenvolvimento do jogo atual sob o nome de um grupo chamado "Four Leaf Studios" e o projeto começou a andar no verão de 2007.
-                
-                <h2>Equipe atual de desenvolvedores:</h2>
+                Logo, houve um <a href="https://web.archive.org/web/20100407051034/http://s8.invisionfree.com/Zettai_Shojou/index.php">fórum</a> de <a href="http://ks.renai.us/">desenvolvimento</a> e, pelos meses seguintes, ideias e sugestões estavam a voar, com pessoas a tentar incitar suas ideias, a fazer desenhos, a escrever amostras de texto, a tentar controlar o caos de ideias de pessoas a argumentar e discutir sobre a direção do jogo. De lá as pessoas mais ativas iniciaram o desenvolvimento do jogo atual sob o nome de um grupo chamado "Four Leaf Studios" e o projeto começou a andar no verão de 2007.
+				<br />
+				<br />
+				A fase final vem no ano de 2012. Durante os cinco anos Four Leaf Studios trabalhou no projeto, as vezes a parecer que data de lançamento nunca chegaria. Mas até ao final de 2011, o fim estava nas vistas e um impulso final para acabar o jogo começou.
+				<br />
+				<br />
+				E no dia 4 de janeiro de 2012, Katava Shoujo foi lançado.
+				<br />
+                <h2>Créditos</h2>
+                <h3>Escritores</h3>
                 <ul>
-                    <li>cpl_crud: Produtor do projeto, escritor da rota da Hanako</li>
-                    <li>Aura: Escritor-chefe, Game designer, escritor da rota da Rin</li>
-                    <li>delta: Programador-chefe, designer da Interface gráfica</li>
-                    <li>TheHivemind: Escritor da rota da Emi</li>
-                    <li>Anonymous22: Escritor da rota da Shizune</li>
-                    <li>Suriko: Escritor da rota da Lilly</li>
-                    <li>Kagami: Editor</li>
-                    <li>Losstarot: Editor</li>
-                    <li>Silentcook: Editor</li>
-                    <li>Ambi07: Artista</li>
-                    <li>moekki: Artista</li>
-                    <li>raemz: Artista</li>
-                    <li>gebyy-terar: Artista</li>
-                    <li>Kamifish: Artista</li>
-                    <li>Raide: Artista</li>
-                    <li>yujovi: Fotografo de cenários</li>
-                    <li>Blue123: Compositor</li>
+                    <li>Anonymous22</li>
+                    <li><a href="http://twitter.com/enneuni" target="_blank">Aura</a></li>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                    <li><a href="http://twitter.com/TheHivemindstw" target="_blank">TheHivemind</a></li>
                 </ul>
-                
-                <h2>Agradecimentos especiais:</h2>
+                <h3>Editores</h3>
                 <ul>
-                    <li>Anonymous</li>
-                    <li>PyTom</li>
-                    <li>NicolArmarfi</li>
+                    <li>Kagami</li>
+                    <li>Losstarot</li>
+                    <li>Silentcook</li>
+                </ul>
+                <h3>Música</h3>
+                <ul>
+                    <li><a href="http://twitter.com/AoiichiNiiSan" target="_blank">Blue123</a></li>
+                    <li><a href="http://twitter.com/nicolarmarfi" target="_blank">NicolArmarfi</a></li>
+                </ul>
+                <h3>Arte</h3>
+                <ul>
+                    <li><a href="http://twitter.com/MightyKow" target="_blank">gebyy-terar</a></li>
+                    <li>Kamifish</li>
+                    <li><a href="http://twitter.com/burgooblop" target="_blank">moekki</a></li>
+                    <li><a href="http://twitter.com/CurePimmy" target="_blank">Pimmy</a></li>
+                    <li><a href="http://twitter.com/weee_desu" target="_blank">raemz</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                </ul>
+                <h3>Arte Adicional</h3>
+                <ul>
+                    <li><a href="http://twitter.com/not_climatic" target="_blank">climatic</a></li>
+                    <li>Doomfest</li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>Animação FMV</h3>
+                <ul>
+                    <li><a href="http://mikeinel.deviantart.com/" target="_blank">Mike Inel</a></li>
+                </ul>
+                <h3>Realização</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                    <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
+                    <li>yujovi</li>
+                </ul>
+                <h3>Programação</h3>
+                <ul>
+                    <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
+                </ul>
+                <h3>Produção</h3>
+                <ul>
+                    <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
+                    <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
+                </ul>
+                <h3>Agradecimentos Especiais</h3>
+                <ul>
                     <li>replicated</li>
-                    <li>RAITA</li>
-                    <li>Muitos outros contribuidores passados e menores para listar aqui...</li>
+                    <li><a href="http://twitter.com/hir000" target="_blank">hir</a></li>
+                    <li><a href="http://twitter.com/renpytom" target="_blank">PyTom</a></li>
+                    <li><a href="http://twitter.com/raita_z/" target="_blank">RAITA</a></li>
+                    <li>Muitos colaboradores pequenos e antigos para incluirmos todos aqui...</li>
                 </ul>            
             `
         }
