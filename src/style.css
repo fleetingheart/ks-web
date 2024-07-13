@@ -7,7 +7,7 @@
 }
 
 .generic-disabled {
-    @apply disabled:grayscale disabled:cursor-not-allowed;
+    @apply disabled:brightness-75 disabled:cursor-not-allowed;
 }
 
 .separator {

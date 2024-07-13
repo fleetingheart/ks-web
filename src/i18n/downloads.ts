@@ -1,6 +1,13 @@
 export const downloads = {
     en: {
         "downloads": {
+            "cw": {
+                "header": "Content Warning",
+                "warning": "The full version of Katawa Shoujo contains adult material. Please confirm that you are over <b>18 years old</b> and that you will not make the material downloaded available to persons below that age.",
+                "agreement": "I am over 18 years old and agree to the above terms.",
+                "submit": "Submit",
+                "cancel": "Cancel"
+            },
             "preview": "Act 1",
             "previewstatus": "<i>tba</i>",
             "full": "Full version",
@@ -153,6 +160,13 @@ export const downloads = {
     },
     hu: {
         "downloads": {
+            "cw": {
+                "header": "Tartalmi Figyelmeztetés",
+                "warning": "A Katawa Shoujo teljes verziójában felnőtt tartalom is található. Kérlek erősítsd meg, hogy betöltötted a <b>18 életévedet</b>, illetve, hogy nem fogod a letöltött tartalmakat elérhetővé tenni kiskorúak számára.",
+                "agreement": "Betöltöttem a 18 életévemet, és elfogadom a felhasználási feltételeket.",
+                "submit": "Megerősítés",
+                "cancel": "Mégsem"
+            },
             "preview": "Első Fejezet",
             "previewstatus": "<i>tba</i>",
             "full": "Teljes verzió",
@@ -261,6 +275,13 @@ export const downloads = {
     },
     ru: {
         "downloads": {
+            "cw": {
+                "header": "Содержимое для взрослых",
+                "warning": "Полная версия игры Katawa Shoujo содержит в себе материалы, не предназначенные для детей. Скачивая игру, вы подтверждаете, что вам <b>18 лет или более</b>, и что вы не допустите, чтобы в игру играли лица, не достигшие совершеннолетия.",
+                "agreement": "Мне больше 18 лет и я согласен с данными условиями.",
+                "submit": "Подтвердить",
+                "cancel": "Отмена"
+            },
             "preview": "Акт 1",
             "previewstatus": "<i>tba</i>",
             "full": "Последняя версия",

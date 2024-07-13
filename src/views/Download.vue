@@ -1,5 +1,37 @@
 <template>
-    <div id="downloads" class="pageview flex flex-col gap-1">
+    <div
+        id="downloads"
+        class="pageview flex flex-col gap-1 relative"
+        :class="{ '!overflow-hidden': isContentWarningShown }"
+    >
+        <div
+            v-if="isContentWarningShown"
+            id="content-warning"
+            class="absolute left-0 top-0 w-full h-full bg-cream text-muted z-10 flex flex-col gap-5 items-center justify-center text-[0.8em]"
+        >
+            <h2 class="text-3xl text-muted" id="cw-header">{{ t('downloads.cw.header') }}</h2>
+            <p class="text-center px-12" v-html="t('downloads.cw.warning')">
+            </p>
+            <div class="flex flex-row gap-2 items-center">
+                <input type="checkbox" name="age-check" id="age-check" v-model="userConsent">
+                <label for="age-check">{{ t('downloads.cw.agreement') }}</label>
+            </div>
+            <div class="flex flex-row gap-4">
+                <button
+                    class="bg-muted text-cream px-3 py-1 rounded-md generic-hover generic-disabled"
+                    :disabled="!userConsent"
+                    @click="userConsentConfirm()"
+                >
+                    {{ t('downloads.cw.submit') }}
+                </button>
+                <button
+                    class="bg-muted text-cream px-3 py-1 rounded-md generic-hover generic-disabled"
+                    @click="userConsentDeny()"
+                >
+                    {{ t('downloads.cw.cancel') }}
+                </button>
+            </div>
+        </div>
         <div id="full-version">
             <h1 class="font-bold">{{ t('downloads.full') }}</h1>
             <div class="separator"></div>
@@ -7,15 +39,15 @@
             <div class="p-1 text-[0.90em] leading-6">
                 <p>
                     <span class="inline-block font-bold w-14 mr-2">Torrent: </span>
-                    <a :href="commonData.downloads.full.torrent.windows">Windows</a> |
-                    <a :href="commonData.downloads.full.torrent.mac">Mac OS X</a> |
-                    <a :href="commonData.downloads.full.torrent.linux">Linux x86</a>
+                    <a @click="onContentSensitiveLink" :href="commonData.downloads.full.torrent.windows">Windows</a> |
+                    <a @click="onContentSensitiveLink" :href="commonData.downloads.full.torrent.mac">Mac OS X</a> |
+                    <a @click="onContentSensitiveLink" :href="commonData.downloads.full.torrent.linux">Linux x86</a>
                 </p>
                 <p>
                     <span class="inline-block font-bold w-14 mr-2">DDL: </span>
-                    <a :href="commonData.downloads.full.direct.windows">Windows</a> |
-                    <a :href="commonData.downloads.full.direct.mac">Mac OS X</a> |
-                    <a :href="commonData.downloads.full.direct.linux">Linux x86</a>
+                    <a @click="onContentSensitiveLink" :href="commonData.downloads.full.direct.windows">Windows</a> |
+                    <a @click="onContentSensitiveLink" :href="commonData.downloads.full.direct.mac">Mac OS X</a> |
+                    <a @click="onContentSensitiveLink" :href="commonData.downloads.full.direct.linux">Linux x86</a>
                 </p>
             </div>
         </div>
@@ -109,8 +141,34 @@
 </template>
 
 <script setup lang="ts">
+import { ref } from 'vue';
 import { useI18n } from 'vue-i18n';
 const { t } = useI18n();
+const isContentWarningShown = ref(false);
+const userConsent = ref(false);
+const contentWarningLink = ref("");
+
+function onContentSensitiveLink(e: MouseEvent) {
+    e.preventDefault();
+    const target = e.target as HTMLAnchorElement;
+    document.querySelector(".pageview").scrollTop = 0;
+    isContentWarningShown.value = true;
+    contentWarningLink.value = target.href;
+    console.log("[onContentSensitiveLink] Link", contentWarningLink.value);
+}
+
+function userConsentConfirm() {
+    window.open(contentWarningLink.value, '_blank').focus();
+    contentWarningLink.value = "";
+    isContentWarningShown.value = false;
+    userConsent.value = false;
+}
+
+function userConsentDeny() {
+    contentWarningLink.value = "";
+    isContentWarningShown.value = false;
+    userConsent.value = false;
+}
 
 const commonData = {
     downloads: {
@@ -263,4 +321,7 @@ const commonData = {
 </script>
 
 <style>
+#cw-header {
+    font-family: Playtime;
+}
 </style>

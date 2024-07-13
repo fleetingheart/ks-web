@@ -9,7 +9,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "muted": "#8D8375"
+        "muted": "#8D8375",
+        "cream": "#fceed1"
       }
     },
   },
