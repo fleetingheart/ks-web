@@ -248,6 +248,13 @@ export const downloads = {
     },
     "pt-BR": {
         "downloads": {
+            "cw": {
+                "header": "Alerta de Conteúdo",
+                "warning": "A versão completa de Katawa Shoujo contém material adulto. Por favor, confirme que você tem mais de <b>18 anos de idade</b> e que não disponibilizará o material baixado para pessoas abaixo dessa idade.",
+                "agreement": "Tenho mais de 18 anos de idade e aceito os termos acima.",
+                "submit": "Enviar",
+                "cancel": "Cancelar"
+            },
             "preview": "Ato 1",
             "previewstatus": "<i>A ser adicionada</i>",
             "full": "Versão completa",
