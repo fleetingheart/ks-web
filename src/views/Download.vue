@@ -265,6 +265,22 @@ const commonData = {
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_The_Soft_Hour_EN.pdf",
             ]
         },
+        {
+            title: "The Past is Prologue",
+            languages: ["Japanese"],
+            thumbnail: "tn_kspip.jpg",
+            links: [
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_The_Past_is_Prologue.pdf",
+            ]
+        },
+        {
+            title: "Dangerous",
+            languages: ["Japanese"],
+            thumbnail: "tn_ksdng.jpg",
+            links: [
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Dangerous_Artbook.pdf",
+            ]
+        },
 
     ],
     wallpapers: [
