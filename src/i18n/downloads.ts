@@ -4,6 +4,7 @@ export const downloads = {
             "cw": {
                 "header": "Content Warning",
                 "warning": "The full version of Katawa Shoujo contains adult material. Please confirm that you are over <b>18 years old</b> and that you will not make the material downloaded available to persons below that age.",
+                "warning_ab": "This Artbook contains adult material. Please confirm that you are over <b>18 years old</b> and that you will not make the material downloaded available to persons below that age.",
                 "agreement": "I am over 18 years old and agree to the above terms.",
                 "submit": "Submit",
                 "cancel": "Cancel"
@@ -162,8 +163,9 @@ export const downloads = {
         "downloads": {
             "cw": {
                 "header": "Tartalmi Figyelmeztetés",
-                "warning": "A Katawa Shoujo teljes verziójában felnőtt tartalom is található. Kérlek erősítsd meg, hogy betöltötted a <b>18 életévedet</b>, illetve, hogy nem fogod a letöltött tartalmakat elérhetővé tenni kiskorúak számára.",
-                "agreement": "Betöltöttem a 18 életévemet, és elfogadom a felhasználási feltételeket.",
+                "warning": "A Katawa Shoujo teljes verziójában felnőtt tartalom is található. Kérlek erősítsd meg, hogy betöltötted a <b>18. életévedet</b>, illetve, hogy nem fogod a letöltött tartalmakat elérhetővé tenni kiskorúak számára.",
+                "warning_ab": "Ebben a képeskönyvben felnőtt tartalom is található. Kérlek erősítsd meg, hogy betöltötted a <b>18. életévedet</b>, illetve, hogy nem fogod a letöltött tartalmakat elérhetővé tenni kiskorúak számára.",
+                "agreement": "Betöltöttem a 18. életévemet, és elfogadom a felhasználási feltételeket.",
                 "submit": "Megerősítés",
                 "cancel": "Mégsem"
             },

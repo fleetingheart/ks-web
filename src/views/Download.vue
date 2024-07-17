@@ -10,7 +10,7 @@
             class="absolute left-0 top-0 w-full h-full bg-cream text-muted z-10 flex flex-col gap-5 items-center justify-center text-[0.8em]"
         >
             <h2 class="text-3xl text-muted" id="cw-header">{{ t('downloads.cw.header') }}</h2>
-            <p class="text-center px-12" v-html="t('downloads.cw.warning')">
+            <p class="text-center px-12" v-html="contentWarningLink.includes('/bin/') ? t('downloads.cw.warning') : t('downloads.cw.warning_ab')">
             </p>
             <div class="flex flex-row gap-2 items-center">
                 <input type="checkbox" name="age-check" id="age-check" v-model="userConsent">
@@ -84,7 +84,7 @@
             <h1 class="font-bold">{{ t('downloads.artbooks') }}</h1>
             <div class="separator"></div>
             <div class="p-1 text-[0.90em] inline-grid grid-cols-3 gap-3">
-                <div v-for="artbook, k of commonData.artbooks" :key="k" class="flex flex-col items-center leading-5">
+                <div v-for="artbook, k of commonData.artbooks" :key="k" class="flex flex-col items-center leading-5" id="artbook-dl">
                     <img
                         :src="`/img/thumbnail/ab/${artbook.thumbnail}`"
                         :alt="`${artbook.title} Thumbnail`"
@@ -94,6 +94,7 @@
                         v-for="language, idx of artbook.languages"
                         :key="idx"
                         :href="artbook.links[idx]"
+                        @click="e => ratingCheck(e, k)"
                     >
                         {{ language }}
                     </a>
@@ -143,6 +144,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 import { useI18n } from 'vue-i18n';
+
 const { t } = useI18n();
 const isContentWarningShown = ref(false);
 const userConsent = ref(false);
@@ -205,12 +207,14 @@ const commonData = {
             title: "Player Guide",
             languages: ["Japanese"],
             thumbnail: "tn_kspg.jpg",
+            m_content: false,
             links: ["https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Player_Guide_JA.pdf"]
         },
         {
             title: "Fragments of Summer",
             languages: ["Japanese", "English"],
             thumbnail: "tn_fos.jpg",
+            m_content: false,
             links: [
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Fragments_of_Summer_JA.pdf",
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Fragments_of_Summer_EN.pdf"
@@ -220,6 +224,7 @@ const commonData = {
             title: "Midwinter",
             languages: ["Japanese", "English"],
             thumbnail: "tn_ksmw.jpg",
+            m_content: false,
             links: [
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Midwinter_JA.pdf",
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Midwinter_EN.pdf"
@@ -229,6 +234,7 @@ const commonData = {
             title: "Tomorrow/Today",
             languages: ["English"],
             thumbnail: "tn_kstt.jpg",
+            m_content: false,
             links: [
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Tomorrow_Today_EN.pdf",
             ]
@@ -237,6 +243,7 @@ const commonData = {
             title: "Kawasoft Artbook",
             languages: ["French"],
             thumbnail: "tn_ksab.jpg",
+            m_content: true,
             links: [
                 "https://cdn.fhs.sh/ks/pr/artbooks/Kawasoft_Artbook.pdf",
             ]
@@ -245,6 +252,7 @@ const commonData = {
             title: "Imperfect Spectrum",
             languages: ["English"],
             thumbnail: "tn_ksis.jpg",
+            m_content: false,
             links: [
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Imperfect_Spectrum_EN.pdf",
             ]
@@ -253,6 +261,7 @@ const commonData = {
             title: "Beauty & Strangeness",
             languages: ["English"],
             thumbnail: "tn_ksbs.jpg",
+            m_content: false,
             links: [
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Beauty_and_Strangeness_EN.pdf",
             ]
@@ -261,6 +270,7 @@ const commonData = {
             title: "The Soft Hour",
             languages: ["English"],
             thumbnail: "tn_kstsh.png",
+            m_content: true,
             links: [
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_The_Soft_Hour_EN.pdf",
             ]
@@ -269,6 +279,7 @@ const commonData = {
             title: "The Past is Prologue",
             languages: ["Japanese"],
             thumbnail: "tn_kspip.jpg",
+            m_content: false,
             links: [
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_The_Past_is_Prologue.pdf",
             ]
@@ -277,6 +288,7 @@ const commonData = {
             title: "Dangerous",
             languages: ["Japanese"],
             thumbnail: "tn_ksdng.jpg",
+            m_content: true,
             links: [
                 "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Shoujo_Dangerous_Artbook.pdf",
             ]
@@ -333,6 +345,15 @@ const commonData = {
             ]
         },
     ]
+}
+
+const artbookRating = commonData.artbooks;
+
+function ratingCheck (e: MouseEvent, n: any) {
+    console.log("Rating check running!")
+    if (artbookRating[n].m_content == true) {
+        onContentSensitiveLink(e);
+    }
 }
 </script>
 
