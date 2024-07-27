@@ -49,6 +49,10 @@
                     <a @click="onContentSensitiveLink" :href="commonData.downloads.full.direct.mac">Mac OS X</a> |
                     <a @click="onContentSensitiveLink" :href="commonData.downloads.full.direct.linux">Linux x86</a>
                 </p>
+            <i>{{ t('downloads.stores') }}
+                <a :href="commonData.downloads.full.stores.steam">Steam</a>,
+                <a :href="commonData.downloads.full.stores.itch">itch.io</a>.
+            </i>
             </div>
         </div>
         <div id="act-one-version">
@@ -184,6 +188,10 @@ const commonData = {
                 windows: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Bwindows%255D%255BA6A47E20%255D.exe",
                 mac: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Bmac%255D%255B1DFC84A6%255D.dmg",
                 linux: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Blinux-x86%255D%255B18161880%255D.tar.bz2",
+            },
+            stores: {
+                steam: "https://store.steampowered.com/app/3068300/Katawa_Shoujo",
+                itch: "https://4leafstudios.itch.io/katawa-shoujo",
             }
         },
         act1: {

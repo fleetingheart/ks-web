@@ -39,6 +39,7 @@ export const downloads = {
             "ksbs": "Beauty & Strangeness",
             "kstsh": "The Soft Hour",
             "dwlanguage": "Languages",
+            "stores": "The game can also be downloaded here",
         }
     },
     cs: {
@@ -73,6 +74,7 @@ export const downloads = {
             "ksbs": "Beauty & Strangeness",
             "kstsh": "The Soft Hour",
             "dwlanguage": "Jazyk",
+            "stores": "The game can also be downloaded here",
         }
     },
     de: {
@@ -103,6 +105,7 @@ export const downloads = {
             "kstt": "Tomorrow/Today",
             "fr_FR": "Französisch",
             "dwlanguage": "Sprache",
+            "stores": "The game can also be downloaded here",
         }
     },
     es: {
@@ -121,6 +124,7 @@ export const downloads = {
             "medium": "medio",
             "standard": "standard",
             "dwlanguage": "Idioma",
+            "stores": "The game can also be downloaded here",
         }
     },
     fi: {
@@ -139,6 +143,7 @@ export const downloads = {
             "medium": "Medium",
             "standard": "Standardi",
             "dwlanguage": "Kieli",
+            "stores": "The game can also be downloaded here",
         }
     },
     fr: {
@@ -157,6 +162,7 @@ export const downloads = {
             "medium": "Moyen",
             "standard": "Standard",
             "dwlanguage": "Langue",
+            "stores": "The game can also be downloaded here",
         }
     },
     hu: {
@@ -185,6 +191,7 @@ export const downloads = {
             "medium": "Közepes",
             "standard": "Alapértelmezett",
             "dwlanguage": "Nyelvek",
+            "stores": "The game can also be downloaded here",
         }
     },
     it: {
@@ -211,6 +218,7 @@ export const downloads = {
             "medium": "Medio",
             "standard": "Standard",
             "dwlanguage": "Linguaggio",
+            "stores": "Il gioco può anche essere scaricato qui",
         }
     },
     ko: {
@@ -229,6 +237,7 @@ export const downloads = {
             "medium": "중",
             "standard": "표준",
             "dwlanguage": "언어",
+            "stores": "The game can also be downloaded here",
         }
     },
     pt: {
@@ -247,6 +256,7 @@ export const downloads = {
             "medium": "Médio",
             "standard": "Grande",
             "dwlanguage": "Língua",
+            "stores": "The game can also be downloaded here",
         }
     },
     "pt-BR": {
@@ -288,6 +298,7 @@ export const downloads = {
             "ksbs": "Beauty & Strangeness",
             "kstsh": "The Soft Hour",
             "dwlanguage": "Idiomas",
+            "stores": "The game can also be downloaded here",
         }
     },
     ru: {
@@ -329,6 +340,7 @@ export const downloads = {
             "ksbs": "Beauty & Strangeness",
             "kstsh": "The Soft Hour",
             "dwlanguage": "Язык",
+            "stores": "Кроме того, игра доступна на следующих площадках: ",
         }
     },
     ja: {
@@ -366,6 +378,7 @@ export const downloads = {
             "kstt": "Tomorrow/Today",
             "fr_FR": "フランス語",
             "dwlanguage": "言語",
+            "stores": "The game can also be downloaded here",
         }
     },
     zh: {
@@ -400,6 +413,7 @@ export const downloads = {
             "ksis": "Imperfect Spectrum",
             "ksbs": "Beauty & Strangeness",
             "kstsh": "The Soft Hour",
+            "stores": "The game can also be downloaded here",
         }
     },
     "zh-TW": {
@@ -420,6 +434,7 @@ export const downloads = {
             "wiz": "巫師",
             "tile": "拼圖",
             "dwlanguage": "語言",
+            "stores": "The game can also be downloaded here",
         }
     }
 }
