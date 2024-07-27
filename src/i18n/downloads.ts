@@ -191,7 +191,7 @@ export const downloads = {
             "medium": "Közepes",
             "standard": "Alapértelmezett",
             "dwlanguage": "Nyelvek",
-            "stores": "The game can also be downloaded here",
+            "stores": "A játék szintúgy letölthető itt",
         }
     },
     it: {
