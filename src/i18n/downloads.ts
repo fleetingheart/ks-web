@@ -192,6 +192,7 @@ export const downloads = {
             "cw": {
                 "header": "Avviso sui contenuti",
                 "warning": "La versione completa di Katawa Shoujo contiene argomenti per adulti.<br>Per favore confermate che avete compiuto <b>18 anni di età</b> e che non renderete il materiale scaricato disponibile a persone al di sotto di tale età.",
+                "warning_ab": "Questo libro di illustrazioni contiene argomenti per adulti. <br>Per favore confermate che avete compiuto <b>18 anni di età</b> e che non renderete il materiale scaricato disponibile a persone al di sotto di tale età.",
                 "agreement": "Ho più di 18 anni e accetto le condizioni di cui sopra.",
                 "submit": "Conferma",
                 "cancel": "Cancella"
