@@ -340,7 +340,7 @@ export const downloads = {
             "ksbs": "Beauty & Strangeness",
             "kstsh": "The Soft Hour",
             "dwlanguage": "Язык",
-            "stores": "Кроме того, игра доступна на следующих площадках: ",
+            "stores": "Кроме того, игра доступна на следующих площадках",
         }
     },
     ja: {

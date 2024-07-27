@@ -49,10 +49,12 @@
                     <a @click="onContentSensitiveLink" :href="commonData.downloads.full.direct.mac">Mac OS X</a> |
                     <a @click="onContentSensitiveLink" :href="commonData.downloads.full.direct.linux">Linux x86</a>
                 </p>
-            <i>{{ t('downloads.stores') }}
-                <a :href="commonData.downloads.full.stores.steam">Steam</a>,
-                <a :href="commonData.downloads.full.stores.itch">itch.io</a>.
-            </i>
+            <p class="mt-2">
+                <i>{{ t('downloads.stores') }}:
+                    <a :href="commonData.downloads.full.stores.steam">Steam</a>,
+                    <a :href="commonData.downloads.full.stores.itch">itch.io</a>.
+                </i>
+            </p>
             </div>
         </div>
         <div id="act-one-version">
