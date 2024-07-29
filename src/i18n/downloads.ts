@@ -175,7 +175,7 @@ export const downloads = {
                 "submit": "Megerősítés",
                 "cancel": "Mégsem"
             },
-            "preview": "Első Fejezet",
+            "preview": "Első Felvonás",
             "previewstatus": "<i>tba</i>",
             "full": "Teljes verzió",
             "fullstatus": "<i>tba</i>",
