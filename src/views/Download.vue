@@ -147,18 +147,21 @@
         <div id="r18-steam" class="text-[0.90em]">
             <h1 class="font-bold">{{ t('downloads.r18.header') }}</h1>
             <div class="separator"></div>
-            <p>{{  t('downloads.r18.why') }}</p>
-            <p><span class="font-bold">{{ t('downloads.r18.instructions.header') }}</span></p>
-            <ul>
-                <li>{{ t(('downloads.r18.instructions.download')) }}</li>
-                <li>{{  t(('downloads.r18.instructions.navigate')) }}</li>
-            </ul>
-            <p>{{  t('downloads.r18.ack') }}</p>
+            <p>{{ t('downloads.r18.why') }}</p>
             <p>
                 <span class="inline-block font-bold w-18 mr-2">r18 Patch: </span>
-                <a @click="onContentSensitiveLink" :href="commonData.downloads.full.stores.r18">{{ t((
-                'downloads.r18.download')) }}</a> <!-- TODO: we have the file, upload it to CDN no later than Aug 15 -->
+                <a @click="onContentSensitiveLink" :href="commonData.downloads.full.stores.r18">{{ t(('downloads.r18.download')) }}</a>
             </p>
+            <p><span class="font-bold">{{ t('downloads.r18.instructions.header') }}</span></p>
+            <ul class="list-disc">
+                <li>{{ t(('downloads.r18.instructions.download')) }}</li>
+                <li>{{ t(('downloads.r18.instructions.navigate')) }}</li>
+            </ul>
+            <img
+                :src="`src/assets/r18.png`"
+                :alt="`${t('downloads.r18.instructions.alt')}`"
+            >
+            <p>{{ t('downloads.r18.ack') }}</p>
         </div>
     </div>
 </template>
@@ -210,7 +213,7 @@ const commonData = {
             stores: {
                 steam: "https://store.steampowered.com/app/3068300/Katawa_Shoujo",
                 itch: "https://4leafstudios.itch.io/katawa-shoujo",
-                r18: "file:///dev/null"
+                r18: "https://cdn.fhs.sh/ks/steam/r18.rpa",
             }
         },
         act1: {

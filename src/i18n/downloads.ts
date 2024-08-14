@@ -48,6 +48,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -94,6 +95,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -136,6 +138,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -166,6 +169,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -196,6 +200,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -226,6 +231,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -241,7 +247,7 @@ export const downloads = {
                 "submit": "Megerősítés",
                 "cancel": "Mégsem"
             },
-            "preview": "Első Fejezet",
+            "preview": "Első Felvonás",
             "previewstatus": "<i>tba</i>",
             "full": "Teljes verzió",
             "fullstatus": "<i>tba</i>",
@@ -257,7 +263,7 @@ export const downloads = {
             "medium": "Közepes",
             "standard": "Alapértelmezett",
             "dwlanguage": "Nyelvek",
-            "stores": "The game can also be downloaded here",
+            "stores": "A játék szintúgy letölthető itt",
             "r18": {
                 "header": "R18 Steam Patch",
                 "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this to the game, the R18 patch on this page must be used.",
@@ -266,6 +272,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -304,6 +311,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -334,6 +342,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -364,6 +373,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -417,6 +427,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -470,6 +481,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -519,6 +531,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -565,6 +578,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -597,6 +611,7 @@ export const downloads = {
                     "header": "Instructions:",
                     "download": "Download the R18 patch below.",
                     "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
+                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
