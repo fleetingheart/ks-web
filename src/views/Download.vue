@@ -160,7 +160,7 @@
             <div class="p-3">
                 <img
                     class="rounded-md"
-                    :src="`src/assets/r18.png`"
+                    src="/img/r18.png"
                     :alt="`${t('downloads.r18.instructions.alt')}`"
                 >
             </div>
