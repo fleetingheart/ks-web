@@ -149,18 +149,21 @@
             <div class="separator"></div>
             <p>{{ t('downloads.r18.why') }}</p>
             <p>
-                <span class="inline-block font-bold w-18 mr-2">r18 Patch: </span>
+                <span class="inline-block font-bold w-18 mr-2">R18 Patch: </span>
                 <a @click="onContentSensitiveLink" :href="commonData.downloads.full.stores.r18">{{ t(('downloads.r18.download')) }}</a>
             </p>
             <p><span class="font-bold">{{ t('downloads.r18.instructions.header') }}</span></p>
             <ul class="list-disc">
-                <li>{{ t(('downloads.r18.instructions.download')) }}</li>
-                <li>{{ t(('downloads.r18.instructions.navigate')) }}</li>
+                <li class="text-black ml-5" v-html="t(('downloads.r18.instructions.download'))"></li>
+                <li class="text-black ml-5" v-html="t(('downloads.r18.instructions.navigate'))"></li>
             </ul>
-            <img
-                :src="`src/assets/r18.png`"
-                :alt="`${t('downloads.r18.instructions.alt')}`"
-            >
+            <div class="p-3">
+                <img
+                    class="rounded-md"
+                    :src="`src/assets/r18.png`"
+                    :alt="`${t('downloads.r18.instructions.alt')}`"
+                >
+            </div>
             <p>{{ t('downloads.r18.ack') }}</p>
         </div>
     </div>
@@ -390,5 +393,9 @@ function ratingCheck (e: MouseEvent, n: any) {
 <style>
 #cw-header {
     font-family: Playtime;
+}
+
+.mono-code {
+    @apply font-mono bg-black/10 p-0.5 rounded-md text-[#6b2323];
 }
 </style>

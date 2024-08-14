@@ -42,13 +42,13 @@ export const downloads = {
             "stores": "The game can also be downloaded here",
             "r18": {
                 "header": "R18 Steam Patch",
-                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this to the game, the R18 patch on this page must be used.",
-                "ack": "Thanks to Avonder for R18 Patch engineering.",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
                 "instructions": {
                     "header": "Instructions:",
-                    "download": "Download the R18 patch below.",
-                    "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
-                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
                 },
                 "download": "Download",
             }
@@ -266,15 +266,15 @@ export const downloads = {
             "stores": "A játék szintúgy letölthető itt",
             "r18": {
                 "header": "R18 Steam Patch",
-                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this to the game, the R18 patch on this page must be used.",
-                "ack": "Thanks to Avonder for R18 Patch engineering.",
+                "why": "A Katawa Shoujo Steam-es verziója nem tartalmaz felnőtt tartalmat. Hogy a játékban ez a tartalom ismét elérhető legyen, alkalmaznod kell a lennebb található R18 patch-et.",
+                "ack": "Köszönet Avonder-nek az R18 Patch fejlesztéséért.",
                 "instructions": {
-                    "header": "Instructions:",
-                    "download": "Download the R18 patch below.",
-                    "navigate": "Navigate to your Steam folder and copy the downloaded file \"r18.rpa\" to the folder \"Katawa Shoujo/game/\".",
-                    "alt": "Screenshot of Windows Explorer window with Katawa Shoujo installation directory opened",
+                    "header": "Instrukciók:",
+                    "download": "Töltsd le a R18 patch-et.",
+                    "navigate": "Navigálj a Steam mappádba, és másold át a letöltött <span class='mono-code'>r18.rpa</span> fájlt a <span class='mono-code'>Katawa Shoujo/game/</span> mappába.",
+                    "alt": "Képernykép egy Windows Explorer ablakról amiben a Katawa Shoujo telepítési mappája van megnyitva",
                 },
-                "download": "Download",
+                "download": "Letöltés",
             }
         }
     },
