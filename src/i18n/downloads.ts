@@ -40,6 +40,18 @@ export const downloads = {
             "kstsh": "The Soft Hour",
             "dwlanguage": "Languages",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     cs: {
@@ -75,6 +87,18 @@ export const downloads = {
             "kstsh": "The Soft Hour",
             "dwlanguage": "Jazyk",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     de: {
@@ -106,6 +130,18 @@ export const downloads = {
             "fr_FR": "Französisch",
             "dwlanguage": "Sprache",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     es: {
@@ -125,6 +161,18 @@ export const downloads = {
             "standard": "standard",
             "dwlanguage": "Idioma",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     fi: {
@@ -144,6 +192,18 @@ export const downloads = {
             "standard": "Standardi",
             "dwlanguage": "Kieli",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     fr: {
@@ -163,6 +223,18 @@ export const downloads = {
             "standard": "Standard",
             "dwlanguage": "Langue",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     hu: {
@@ -192,6 +264,18 @@ export const downloads = {
             "standard": "Alapértelmezett",
             "dwlanguage": "Nyelvek",
             "stores": "A játék szintúgy letölthető itt",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "A Katawa Shoujo Steam-es verziója nem tartalmaz felnőtt tartalmat. Hogy a játékban ez a tartalom ismét elérhető legyen, alkalmaznod kell a lennebb található R18 patch-et.",
+                "ack": "Köszönet Avonder-nek az R18 Patch fejlesztéséért.",
+                "instructions": {
+                    "header": "Instrukciók:",
+                    "download": "Töltsd le a R18 patch-et.",
+                    "navigate": "Navigálj a Steam mappádba, és másold át a letöltött <span class='mono-code'>r18.rpa</span> fájlt a <span class='mono-code'>Katawa Shoujo/game/</span> mappába.",
+                    "alt": "Képernykép egy Windows Explorer ablakról amiben a Katawa Shoujo telepítési mappája van megnyitva",
+                },
+                "download": "Letöltés",
+            }
         }
     },
     it: {
@@ -219,6 +303,18 @@ export const downloads = {
             "standard": "Standard",
             "dwlanguage": "Linguaggio",
             "stores": "Il gioco può anche essere scaricato qui",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     ko: {
@@ -238,6 +334,18 @@ export const downloads = {
             "standard": "표준",
             "dwlanguage": "언어",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     pt: {
@@ -257,6 +365,18 @@ export const downloads = {
             "standard": "Grande",
             "dwlanguage": "Língua",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     "pt-BR": {
@@ -299,6 +419,18 @@ export const downloads = {
             "kstsh": "The Soft Hour",
             "dwlanguage": "Idiomas",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     ru: {
@@ -341,6 +473,18 @@ export const downloads = {
             "kstsh": "The Soft Hour",
             "dwlanguage": "Язык",
             "stores": "Кроме того, игра доступна на следующих площадках",
+            "r18": {
+                "header": "Патч 18+ для Steam-версии игры",
+                "why": "Версия Katawa Shoujo, опубликованная в Steam, не содержит в себе контента «для взрослых». Чтобы вернуть эту составляющую в игру, нужно воспользоваться патчем, представленным на этой странице.",
+                "ack": "Спасибо Avonder за работу над этим патчем.",
+                "instructions": {
+                    "header": "Инструкция:",
+                    "download": "Скачайте патч 18+ по ссылке ниже.",
+                    "navigate": "Откройте в файловом менеджере директорию с установленным играми Steam и скопируйте файл <span class='mono-code'>r18.rpa</span> в директорию <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Снимок экрана проводника Windows, в котором открыта директория установленной через Steam Katawa Shoujo",
+                },
+                "download": "Скачать",
+            }
         }
     },
     ja: {
@@ -379,6 +523,18 @@ export const downloads = {
             "fr_FR": "フランス語",
             "dwlanguage": "言語",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     zh: {
@@ -414,6 +570,18 @@ export const downloads = {
             "ksbs": "Beauty & Strangeness",
             "kstsh": "The Soft Hour",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     },
     "zh-TW": {
@@ -435,6 +603,18 @@ export const downloads = {
             "tile": "拼圖",
             "dwlanguage": "語言",
             "stores": "The game can also be downloaded here",
+            "r18": {
+                "header": "R18 Steam Patch",
+                "why": "The Steam version of Katawa Shoujo has no adult content. To re-add this content to the game, you must apply the R18 patch found below.",
+                "ack": "Thanks to Avonder for the engineering of the R18 Patch.",
+                "instructions": {
+                    "header": "Instructions:",
+                    "download": "Download the R18 patch.",
+                    "navigate": "Navigate to your Steam folder and copy the downloaded file <span class='mono-code'>r18.rpa</span> to the folder <span class='mono-code'>Katawa Shoujo/game/</span>.",
+                    "alt": "Screenshot of a Windows Explorer window with the Katawa Shoujo installation directory opened",
+                },
+                "download": "Download",
+            }
         }
     }
 }

@@ -144,6 +144,28 @@
                 </div>
             </div>
         </div>
+        <div id="r18-steam" class="text-[0.90em]">
+            <h1 class="font-bold">{{ t('downloads.r18.header') }}</h1>
+            <div class="separator"></div>
+            <p>{{ t('downloads.r18.why') }}</p>
+            <p>
+                <span class="inline-block font-bold w-18 mr-2">R18 Patch: </span>
+                <a @click="onContentSensitiveLink" :href="commonData.downloads.full.stores.r18">{{ t(('downloads.r18.download')) }}</a>
+            </p>
+            <p><span class="font-bold">{{ t('downloads.r18.instructions.header') }}</span></p>
+            <ul class="list-disc">
+                <li class="text-black ml-5" v-html="t(('downloads.r18.instructions.download'))"></li>
+                <li class="text-black ml-5" v-html="t(('downloads.r18.instructions.navigate'))"></li>
+            </ul>
+            <div class="p-3">
+                <img
+                    class="rounded-md"
+                    :src="`src/assets/r18.png`"
+                    :alt="`${t('downloads.r18.instructions.alt')}`"
+                >
+            </div>
+            <p>{{ t('downloads.r18.ack') }}</p>
+        </div>
     </div>
 </template>
 
@@ -194,6 +216,7 @@ const commonData = {
             stores: {
                 steam: "https://store.steampowered.com/app/3068300/Katawa_Shoujo",
                 itch: "https://4leafstudios.itch.io/katawa-shoujo",
+                r18: "https://cdn.fhs.sh/ks/steam/r18.rpa",
             }
         },
         act1: {
@@ -370,5 +393,9 @@ function ratingCheck (e: MouseEvent, n: any) {
 <style>
 #cw-header {
     font-family: Playtime;
+}
+
+.mono-code {
+    @apply font-mono bg-black/10 p-0.5 rounded-md text-[#6b2323];
 }
 </style>
