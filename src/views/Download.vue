@@ -52,7 +52,8 @@
             <p class="mt-2">
                 <i>{{ t('downloads.stores') }}:
                     <a :href="commonData.downloads.full.stores.steam">Steam</a>,
-                    <a :href="commonData.downloads.full.stores.itch">itch.io</a>.
+                    <a :href="commonData.downloads.full.stores.itch">itch.io</a>,
+                    <a :href="commonData.downloads.full.stores.jastusa">JastUSA</a>.
                 </i>
             </p>
             </div>
@@ -216,6 +217,7 @@ const commonData = {
             stores: {
                 steam: "https://store.steampowered.com/app/3068300/Katawa_Shoujo",
                 itch: "https://4leafstudios.itch.io/katawa-shoujo",
+                jastusa: "https://jastusa.com/games/cc001/katawa-shoujo",
                 r18: "https://cdn.fhs.sh/ks/steam/r18.rpa",
             }
         },
