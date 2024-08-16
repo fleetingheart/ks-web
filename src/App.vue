@@ -74,12 +74,12 @@ const downloadCircle = computed(() => {
 
 @font-face {
     font-family: Mikachan;
-    src: url('/fonts/mikachan_o-PB.woff2');
+    src: url('/fonts/mikachan_trimmed.woff2');
 }
 
 @font-face {
     font-family: ZHCombo;
-    src: url('/fonts/zh_combo.woff2');
+    src: url('/fonts/zh_combo_trimmed.woff2');
 }
 
 @font-face {
