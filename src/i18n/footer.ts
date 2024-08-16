@@ -85,8 +85,8 @@ export const footer = {
     },
     'zh-TW': {
         footer: {
-            "blog": "Blog",
-            "forum": "Forum"
+            "blog": "部落格",
+            "forum": "论坛"
         }
     }
 }
