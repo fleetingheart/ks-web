@@ -9,7 +9,7 @@
             class="text-3xl mb-12 text-center"
         >{{ t(`taglines.${randChar}`) }}</router-link>
         <div class="absolute bottom-0 flex flex-col">
-            <img src="/img/line-s.png" alt="Seperator" class="w-48 mx-auto">
+            <img src="/img/line-s.webp" alt="Seperator" class="w-48 mx-auto">
             <div class="flex flex-row mx-5 gap-4 mt-3">
                 <a target="_blank" href="https://katawashoujo.blogspot.com/">{{ t(`footer.blog`) }}</a>
                 <a target="_blank" href="http://ks.fhs.sh/">{{ t(`footer.forum`) }}</a>

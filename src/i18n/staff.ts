@@ -7,7 +7,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">About Four Leaf Studios</h2>
-                <img src="/img/concept.jpg" alt="RAITA's omake page" id="concept-img">
+                <img src="/img/concept.webp" alt="RAITA's omake page" id="concept-img">
                 The New Year of 2007 was bound to be business as usual for the <a href="https://boards.4chan.org/a/">/a/ board</a> of <a href="http://4chan.org/">4chan</a> until on 4th of January, Anonymous posted an <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA's omake page">omake page</a> from the doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> by <a href="https://www.pixiv.net/en/users/188638">RAITA</a> of doujin circle Zettai Shoujo, detailing character art for a dating sim he dubbed “Katawa Shoujo.” For reasons we will never know, someone's genius idea of actually realizing RAITA's idea of the game caught on like wildfire and soon suggestions ranging from tender love stories to depraved sex fantasies were running amok in the thread. The insane idea of creating an actual original game, based on nothing but a single picture and the sparse ideas RAITA had written in the margins titillated the imaginations of Anonymous so much that people became <a href="static/sticky.html">truly serious</a> about the fledgling project.
                 <br>
                 <br>
@@ -88,7 +88,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">O Four Leaf Studios</h2>
-                <img src="/img/concept.jpg" alt="Omake stranu z RAITA" id="concept-img">
+                <img src="/img/concept.webp" alt="Omake stranu z RAITA" id="concept-img">
                 Raitova omake stránka na Nový Rok 2007 byla pro <a href="https://boards.4chan.org/a/">/a/ board</a> <a href="http://4chan.org/">4chanu</a> věc jako každá jiná - až do čtvrtého ledna, kdy Anonym napostoval <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="Omake stranu z RAITA">omake stranu</a> z doujinu <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> od <a href="https://www.pixiv.net/en/users/188638">RAITA</a> z doujin kruhu Zettai Shoujo, na které byl art postav pro vizuální novelu, kterou nazval "Katawa Shoujo". Z důvodů, které se již nikdy nedozvíme, se nečí myšlenka doopravdy uskutečnit Raitovu myšlenku této hry rozšířila jako požár a brzy se nápady, od něžně milostných příběhů po zvrhlé sexuální fantazie, v diskusi jen hrnuly. Ta šílená myšlenka, stvořit opravdovou původní hru jen podle jediného obrázku a sporých Raitových poznámek po okrajích, dráždila představivost Anonmya natolik,  že lidé začali <a href="static/sticky.html">brát sotva opeřený projekt vážně</a>.
                 <br>
                 <br>
@@ -130,7 +130,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">Über Four Leaf Studios</h2>
-                <img src="/img/concept.jpg" alt="RAITAs Omake-Seite" id="concept-img">
+                <img src="/img/concept.webp" alt="RAITAs Omake-Seite" id="concept-img">
                 Das Neujahr 2007 schien das Übliche für das <a href="https://boards.4chan.org/a/" target="_blank">/a/-Board</a> von <a href="http://4chan.org/">4chan</a> zu versprechen, bis Anonymous am 4. Januar eine <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITAs Omake-Seite">Omake-Seite</a> aus dem Doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> von <a href="https://www.pixiv.net/en/users/188638">RAITA</a> aus dem Doujin-Kreis Zettai Shoujo postete, die die Characterdesigns für eine Dating Sim enthielt, die er "Katawa Shoujo" nannte. Aus Gründen, die wir wohl nie erfahren werden, wurde der Vorschlag, diese Konzept umzusetzen, plötzlich zu einem durchschlagenden Erfolg, und bald war der Thread voller Vorschläge, die von gefühlvollen Liebesgeschichten bis hin zu abseitigen Sexphantasien reichten. Die wahnsinnige Idee, auf Basis dieses einen Bildes und den kargen Ideen, die RAITA in die Ränder gekritzelt hattem tatsächlich ein Spiel zu entwickeln, beflügelte die Vorstellungskraft von Anonymous derartig, dass bald <a href="static/sticky.html">wirklich ernsthaft</a> an das Projekt gedacht wurde.
                 <br>
                 <br>
@@ -205,7 +205,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">Acerca de Four Leaf Studios</h2>
-                <img src="/img/concept.jpg" alt="Página de Omake de RAITA" id="concept-img">
+                <img src="/img/concept.webp" alt="Página de Omake de RAITA" id="concept-img">
                 El año nuevo del 2007 parecía ser un día cualquiera para el <a href="https://boards.4chan.org/a/" target="_blank">foro /a/</a> de <a href="http://4chan.org/">4chan</a>, hasta que en el 4 de enero Anonymous publicó una <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="Página de Omake de RAITA">página de omake</a> del comic doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> de <a href="https://www.pixiv.net/en/users/188638">RAITA</a>, perteneciente al círculo doujin Zettai Shoujo, detallando arte conceptual de los personajes de un simulador de citas al que él tituló "Katawa Shoujo". Por razones que nunca sabremos, la genial idea que alguien tuvo de hacer realidad la idea de RAITA se esparció con la rapidez del fuego y pronto sugerencias, que iban desde tiernas historias de amor hasta depravadas fantasías sexuales, corrían sin control en el hilo del foro. La insensata idea de crear un juego realmente original, basado en nada más que una sola imagen y las escasas ideas escritas por RAITA en los márgenes, despertó las imaginaciones de Anonymous a tal grado que la gente comenzó a pensar con <a href="static/sticky.html">seriedad</a> sobre el proyecto en ciernes.
                 <br>
                 <br>Pronto había <a href="https://web.archive.org/web/20100407051034/http://s8.invisionfree.com/Zettai_Shojou/index.php">foros</a> de <a href="http://ks.renai.us/">desarrollo</a> y, en los meses siguientes, ideas y sugerencias seguían volando por doquier, con personas tratando de darle cuerpo a sus ideas, dibujando arte de muestra, escribiendo texto de muestra, tratando de controlar el caos de docenas de personas discutiendo y riñendo sobre la dirección del juego. De ahí, la gente más activa, comenzó el desarrollo propio del juego como un grupo de trabajo denominado "Four Leaf Studios", y durante el verano del 2007 el proyecto verdaderamente despegó.
@@ -247,7 +247,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">Four Leaf Studiosista</h2>
-                <img src="/img/concept.jpg" alt="RAITAn omake-sivu" id="concept-img">
+                <img src="/img/concept.webp" alt="RAITAn omake-sivu" id="concept-img">
                 Uusi vuosi 2007 tuntui olevan sitä samaa vanhaa <a href="https://boards.4chan.org/a/" target="_blank">/a/-laudalle</a> <a href="http://4chan.org/">4chanin</a>, kunnes 4. tammikuuta Anonyymi postitti <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITAn omake-sivu">omake-sivun</a>  doujin-piiri Zettai Shoujon artisti <a href="https://www.pixiv.net/en/users/188638">RAITAn</a> doujinista <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a>, joka kuvailee hahmotaidetta treffisimulaattorista jota hän kutsui "Katawa Shoujoksi". Syistä joita emme tule koskaan tietämään, jonkun nerokas ajatus RAITAn peli-idean toteuttamisesta oikeasti alkoi levitä kulovalkean tavoin ja pian ehdotukset, jotka vaihtelivat hellistä rakkaustarinoista kieroutuneisiin seksifantasioihin, lentelivät villisti ympäriinsä ketjussa. Järjetön ajatus todellisen alkuperäisen pelin luomisesta, pohjanaan vain yksi kuva ja RAITAn marginaaleihin kirjoittamat vähäiset ideat, kiihoittivat Anonyymien mielikuvituksia niin paljon että ihmiset muuttuivat <a href="static/sticky.html">varsin totisiksi</a> vielä untuvikon asteella räpiköivän projektin suhteen.
                 <br>
                 <br>Pian <a href="https://web.archive.org/web/20100407051034/http://s8.invisionfree.com/Zettai_Shojou/index.php">kehitysfoorumi</a> jos <a href="http://ks.renai.us/">toinenkin</a> alkoi nousta ja seuraavina kuukausina ideat ja ehdotukset lentelivät ympäriinsä, kun ihmiset yrittivät hioa ideoitaan, piirsivät esimerkkitaidetta ja kirjoittivat näytetekstejä, yrittäen hallita kaaosta jossa kymmenet ihmiset riitelivät ja kinastelivat pelin suunnasta. Siitä pisteestä kaikkein aktiivisimmat ihmiset alkoivat varsinaisen pelin kehittämisen työryhmänä nimeltään "Four Leaf Studios" ja kesällä -07 projekti lähti todenteolla käyntiin.
@@ -288,7 +288,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">À propos de Four Leaf Studios</h2>
-                <img src="/img/concept.jpg" alt="Page bonus de RAITA" id="concept-img">
+                <img src="/img/concept.webp" alt="Page bonus de RAITA" id="concept-img">
                 Le Nouvel An 2007 était destiné à être la routine habituelle sur <a href="https://boards.4chan.org/a/">/a/</a> de <a href="http://4chan.org/">4chan</a>, jusqu'à ce qu'au 4 janvier, lorsqu'Anonymous posta une <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="Page bonus de RAITA">page bonus</a> du doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> de <a href="https://www.pixiv.net/en/users/188638">RAITA</a> du cercle Zettai Shoujo, détaillant les croquis des personnages pour un simulateur de drague qu'il surnomma “Katawa Shoujo.” Pour quelques raisons que nous ne saurons jamais, l'idée de génie d'une certaine personne de réaliser l'idée du jeu de RAITA alluma des passions enflammées et bientôt des suggestions allant d'histoires d'amour tendre à des fantaisies de débauches sexuelles poussaient comme de la mauvaise herbe dans la discussion. L'idée folle de créer un véritable jeu original, basée sur rien d'autre qu'une unique image et les idées éparses que RAITA avait griffonnées dans les marges titilla tellement les imaginations d'Anonymous que de nombreuses personnes devinrent <a href="static/sticky.html">véritablement sérieuses</a> sur ce projet naissant.
                 <br>
                 <br>
@@ -369,7 +369,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">A Four Leaf Studios-ról</h2>
-                <img src="/img/concept.jpg" alt="RAITA omake oldala" id="concept-img">
+                <img src="/img/concept.webp" alt="RAITA omake oldala" id="concept-img">
                 2007, mint új év, ugyanolyan megszokott évnek ígérkezett a <a href="https://boards.4chan.org/a/">4chan /a/ board</a> közösség számára, mígnem Január 4-én Anonymus közzétett egy <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA's omake page">omake oldalt</a> a <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> című doujinshi-ből, amelyet <a href="https://www.pixiv.net/en/users/188638">RAITA</a> készített, a Zettai Shoujo doujin alkotói körből. Az oldalon egy randiszimulátor játék vázlatai voltak láthatók, amelyet az alkotó "Katawa Shoujo"-nak nevezett. Semmiből kipattanva valakinek azon remek ötlete támadt, hogy tényleg megvalósuljanak a lapon megrajzoltak egy játék formájában. Az ötlet hallatán megannyi ember szerteágazó szerelmi története és megbújt erotikus vágya kapott szárnyra, szétbombázva ezzel az egész thread-et. Az őrült koncepció egy játék megalkotásáról, röpke vázlatok és melléjük írt jegyzetek alapján, olyannyira megmozgatott sokmindenkit, hogy idővel <a href="static/sticky.html">ténylegesen</a> is elkezdődött a játék fejlesztése.
                 <br>
                 <br>
@@ -450,7 +450,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">Riguardo a Four Leaf Studios</h2>
-                <img src="/img/concept.jpg" alt="Pagina di omake di RAITA" id="concept-img">
+                <img src="/img/concept.webp" alt="Pagina di omake di RAITA" id="concept-img">
                 L' Anno Nuovo del 2007 pareva essere tutto come al solito per la <a href="https://boards.4chan.org/a/">board /a/</a> di <a href="http://4chan.org/">4chan</a> finchè il 4 di Gennaio, Anonymous non postò una <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="Pagina di omake di RAITA">pagina di omake</a> dal doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> di <a href="https://www.pixiv.net/en/users/188638">RAITA</a> del circolo doujin Zettai Shoujo, che dettagliava i disegni dei personaggi per un simulatore di appuntamenti amorosi che battezzava “Katawa Shoujo.” Per ragioni che non sapremo mai, l' ideona di qualcuno di effettivamente realizzare l' idea del gioco di RAITA divenne popolare alla velocità di un lampo e presto suggerimenti che variavano da tenere storie di amore a depravate fantasie sessuali stavano imperversando per il thread. La folle idea di creare un vero gioco originale, basato su nulla tranne un singolo disegno e le vaghe idee che RAITA aveva scritto nei margini titillò l' immaginazione di Anonymous a tal punto che la gente diventò <a href="static/sticky.html">veramente seria</a> riguardo al progetto neonato.
                 
                 <br>
@@ -534,7 +534,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">Four Leaf Studios에 관하여</h2>
-                <img src="/img/concept.jpg" alt="Concept Image" id="concept-img">2007년 새해, <a href="http://4chan.org/">4chan</a>의 <a href="https://boards.4chan.org/a/">/a/</a> 게시판은 여느때와 같이 평범하게 돌아가고 있었습니다. 1월 4일, 한 익명의 사용자가 RAITA의 동인지 Schuppen Harnische에 보너스로 수록된 미연시 컨셉 설정 페이지를 “장애소녀”라는 명칭으로 번역하여 올렸습니다. 이유는 모르지만, RAITA의 아이디어를 게임으로 만들자는 한 사람의 천재적인 의견이 엄청난 흥행 몰이에 성공하였습니다. 달달하고 부드러운 러브 스토리로 가자는 의견부터, 불건전한 성적 판타지물로 가자는 의견등, 단시간만에 관련 내용이 쓰레드를 가득 채우게 됩니다. 아무것도 없는 상태에서, 사진 한장과 RAITA가 여백에 적어둔 단순한 아이디어로 게임을 만들자는 정신 나간 생각은 수많은 사용자들을 자극시켰고, 프로젝트를 시작할 것을 진지하게 고려해보게 됩니다.
+                <img src="/img/concept.webp" alt="Concept Image" id="concept-img">2007년 새해, <a href="http://4chan.org/">4chan</a>의 <a href="https://boards.4chan.org/a/">/a/</a> 게시판은 여느때와 같이 평범하게 돌아가고 있었습니다. 1월 4일, 한 익명의 사용자가 RAITA의 동인지 Schuppen Harnische에 보너스로 수록된 미연시 컨셉 설정 페이지를 “장애소녀”라는 명칭으로 번역하여 올렸습니다. 이유는 모르지만, RAITA의 아이디어를 게임으로 만들자는 한 사람의 천재적인 의견이 엄청난 흥행 몰이에 성공하였습니다. 달달하고 부드러운 러브 스토리로 가자는 의견부터, 불건전한 성적 판타지물로 가자는 의견등, 단시간만에 관련 내용이 쓰레드를 가득 채우게 됩니다. 아무것도 없는 상태에서, 사진 한장과 RAITA가 여백에 적어둔 단순한 아이디어로 게임을 만들자는 정신 나간 생각은 수많은 사용자들을 자극시켰고, 프로젝트를 시작할 것을 진지하게 고려해보게 됩니다.
                 
                 <br />
                 <br />
@@ -617,7 +617,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">Sobre o Four Leaf Studios</h2>
-                <img src="/img/concept.jpg" alt="RAITA's omake page" id="concept-img">
+                <img src="/img/concept.webp" alt="RAITA's omake page" id="concept-img">
                 O Ano Novo de 2007 estava a ser limitado a trabalho, como habitual no <a href="https://boards.4chan.org/a/">/a/</a> do <a href="http://4chan.org/">4chan</a>. Até que no dia 4 de janeiro, um Anonymous postou uma <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA's omake page">pagina de omake</a> do doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a>, por <a href="https://www.pixiv.net/en/users/188638">RAITA</a>, do circulo de doujins Zettai Shoujo, detalhando a arte das personagens para um simulador de encontros que ele tinha intitulado de "Katawa Shoujo", por motivos que nunca soubemos e/ou saberemos. A ideia genial de alguns de realizar a ideia de RAITA para o jogo vingou e logo vieram sugestões, desde historias de amor até fantasias de sexo depravadas apareceram no tópico do 4chan. A ideia insana de criar um jogo original, baseado em nada mais que uma mera imagem e as escassas ideias que RAITA escreveu nas margens excitaram tanto as imaginações dos Anonymous que as pessoas ficaram <a href="static/sticky.html">veramente sérias</a> quanto ao projeto nascente.
                 <br />
                 <br />
@@ -698,7 +698,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">Sobre Four Leaf Studios</h2>
-                <img src="/img/concept.jpg" alt="RAITA's omake page" id="concept-img">
+                <img src="/img/concept.webp" alt="RAITA's omake page" id="concept-img">
                 O ano novo de 2007 estava destinado a ser um ano normal para o <a href="https://boards.4chan.org/a/">sub-fórum /a/</a> do <a href="http://4chan.org/">4chan</a> até que, em 4 de janeiro, um anônimo postou uma página de <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA's omake page">omake</a> do doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> de <a href="https://www.pixiv.net/en/users/188638">RAITA</a> do círculo de doujins Zettai Shoujo, detalhando uma arte de personagens para um simulador de namoro que ele apelidou de "Katawa Shoujo". Por razões que nunca saberemos, a ideia genial de alguém de concretizar a ideia de RAITA sobre o jogo pegou fogo e logo sugestões que variavam de histórias de amor ternas a fantasias sexuais depravadas estavam correndo soltas no tópico. A ideia insana de criar um jogo original real, baseado em nada além de uma única imagem e das ideias esparsas que RAITA havia escrito nas margens, estimulou tanto a imaginação dos anônimos que as pessoas passaram a levar o projeto incipiente <a href="static/sticky.html">realmente a sério</a>.
                 <br>
                 <br>
@@ -778,7 +778,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">Four Leaf Studiosについて</h2>
-                <img src="/img/concept.jpg" alt="RAITAのおまけページ" id="concept-img">
+                <img src="/img/concept.webp" alt="RAITAのおまけページ" id="concept-img">
                 <a href="http://4chan.org/">4chan</a>(<a href="http://ja.wikipedia.org/wiki/4chan">参考：Wikipedia</a>)の<a href="https://boards.4chan.org/a/">/a/掲示板</a>（訳注：アニメ・マンガ画像板）にとって、2007年の新年はいつも通りの日になるはずでした -- ある名無しが <a href="https://www.pixiv.net/en/users/188638">RAITA</a>氏の同人サークル「絶対少女」の同人誌<a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a>の<a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITAのおまけページ">おまけページ</a>を投稿するまでは。その１枚絵は彼が「かたわ少女」と名付けた恋愛ゲームのキャラ絵を詳しく説明したものでした。もはや理由は知るよしもありませんが、このRAITA氏のゲーム案を実際に作ってやろうという、誰かの天才的なアイディアは野火のように広まり、該当スレでは繊細なラブストーリーから下劣なエロ妄想に至るまで、あらゆる提案が暴走していました。RAITA氏のたった一枚の絵と、彼が余白に書き加えただけのわずかなアイディアだけをもとに、実際にオリジナルゲームを作ってしまうという、狂気の沙汰としか言いようのない発想は名無したちの想像力を大いに刺激し、ついに彼らはこの生まれたてのプロジェクトに<a href="static/sticky.html">本気で取り組むように</a>なりました。
                 <br />
                 <br />
@@ -853,7 +853,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">О Four Leaf Studios</h2>
-                <img src="/img/concept.jpg" alt="Страница из омаке, нарисованная RAITA" id="concept-img">
+                <img src="/img/concept.webp" alt="Страница из омаке, нарисованная RAITA" id="concept-img">
                 Новый 2007-й год не предвещал ничего необычного для посетителей <a href="https://boards.4chan.org/a/">раздела
                     /a/</a> на <a href="http://4chan.org/">4chan</a>, но 4 января анонимный пользователь запостил <a
                     href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]"
@@ -953,7 +953,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">关于四叶游戏制作室</h2>
-                <img src="/img/concept.jpg" alt="RAITA同人特典图" id="concept-img">在2007年的新年，在日期到达1月4日之前，
+                <img src="/img/concept.webp" alt="RAITA同人特典图" id="concept-img">在2007年的新年，在日期到达1月4日之前，
                 <a href="http://4chan.org/">4chan(四叶)论坛</a>的<a href="https://boards.4chan.org/a/">/a/版</a>还是和往常一样运转。有一位匿名用户在那天发了一张由绝对少女同人圈画家<a href="https://www.pixiv.net/en/users/188638">RAITA</a>创作的<a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA同人特典图"> 同人特典图</a>.这张图上他画了一个被称之为“片轮少女”的恋爱游戏人物设计图。不知如何，想要把RAITA的主意变成真正游戏这个想法就像野火一样烧了起来。很快，各种各样的建议，从感人的爱情故事，到堕落的性幻想在那个帖子里四处横行。随后人们对于这个疯狂的想法，就是要制作一个基础只有一张原图和人物之间夹杂着RAITA随手写着的一些设定的真正原创游戏开始慢慢的变得<a href="static/sticky.html">认真</a>。
                 <br />
                 <br />
@@ -996,7 +996,7 @@ export const staff = {
         "staff": {
             content: `
                 <h2 class="first">關於四葉遊戲製作室</h2>
-                <img src="/img/concept.jpg" alt="RAITA同人特典图" id="concept-img">2007年新年，<a href="http://4chan.org/">4chan四葉論壇</a>的<a href="https://boards.4chan.org/a/">/a/版</a> 一如往常，直到一位匿名用戶在1月4日發了一張由同人社團“絕對少女＂畫家<a href="https://www.pixiv.net/en/users/188638">RAITA</a>繪制的<a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA同人特典图"> 同人特典圖</a>。圖上畫了他戲稱為 “片輪少女”的戀愛遊戲人物設計圖。不知為何，想要將Raita的構想兌現成真的念頭一時之間甚為話題。很快，各式各樣的建議，從感人的愛情故事，到墮落的性幻想在那個帖子裡四處橫行。以一張原畫和Raita隨筆寫下的潦草設定為基礎來製作一款真正的原創遊戲，這個瘋狂念頭激起了網友的想像力，人們開始<a href="static/sticky.html">認真</a>考慮計畫的可行性。
+                <img src="/img/concept.webp" alt="RAITA同人特典图" id="concept-img">2007年新年，<a href="http://4chan.org/">4chan四葉論壇</a>的<a href="https://boards.4chan.org/a/">/a/版</a> 一如往常，直到一位匿名用戶在1月4日發了一張由同人社團“絕對少女＂畫家<a href="https://www.pixiv.net/en/users/188638">RAITA</a>繪制的<a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITA同人特典图"> 同人特典圖</a>。圖上畫了他戲稱為 “片輪少女”的戀愛遊戲人物設計圖。不知為何，想要將Raita的構想兌現成真的念頭一時之間甚為話題。很快，各式各樣的建議，從感人的愛情故事，到墮落的性幻想在那個帖子裡四處橫行。以一張原畫和Raita隨筆寫下的潦草設定為基礎來製作一款真正的原創遊戲，這個瘋狂念頭激起了網友的想像力，人們開始<a href="static/sticky.html">認真</a>考慮計畫的可行性。
                 <br />
                 <br />
                 很快，遊戲<a href="https://web.archive.org/web/20100407051034/http://s8.invisionfree.com/Zettai_Shojou/index.php">製作</a><a href="http://ks.renai.us/">論壇</a>建立了起來，各種建議和想法都開始隨著人們簡單的圖片，簡單的文字顯現出來，人們也不停的辯論著遊戲的方向。從2007年的夏天起，當中最活躍的成員開始了遊戲的開發，四葉遊戲製作室就此成立。

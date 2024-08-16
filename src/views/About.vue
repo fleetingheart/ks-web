@@ -3,7 +3,7 @@
         <h1 class="text-black font-bold">{{ t('about.title') }}</h1>
         <div class="separator"></div>
         <div class="ks-pagetext">
-            <img class="inline float-left mr-4 mb-1" src="/img/sd-chars.png" alt="Characters">
+            <img class="inline float-left mr-4 mb-1" src="/img/sd-chars.webp" alt="Characters">
             <p>{{ t('about.intro') }}</p>
             <br>
             <p v-html="t('about.gameplay')"></p>
