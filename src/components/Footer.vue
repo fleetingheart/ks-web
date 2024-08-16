@@ -1,7 +1,7 @@
 <template>
     <footer class="grid grid-cols-6 w-full p-2">
         <div id="copyright" class="col-span-4 sm:col-span-2 order-3 sm:order-[unset]">
-            <img src="/img/4lsl.png" alt="Four Leaf Studios Logo">
+            <img src="/img/4lsl.webp" alt="Four Leaf Studios Logo">
             <p class="leading-5 mt-2">
                 © 2007-2024
                 <a href="mailto:staff@katawa-shoujo.com">Four Leaf Studios</a><br>
@@ -23,7 +23,7 @@
         <div id="notices" class="col-span-2 order-3 sm:order-[unset] sm:col-span-2 flex flex-col gap-2 items-end justify-end">
             <a target="_blank" href="https://twitter.com/fourleafstudios?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="small" data-show-screen-name="false" data-show-count="false">Follow @fourleafstudios</a>
             <a target="_blank" href="https://creativecommons.org/licenses/by-nc-nd/3.0/">
-                <img src="/img/cc_by_nc_nd_80x15.png" alt="CC by NC-ND license">
+                <img src="/img/cc_by_nc_nd_80x15.webp" alt="CC by NC-ND license">
             </a>
         </div>
     </footer>

@@ -1,11 +1,11 @@
 <template>
     <div id="about" class="pageview">
-        <viewer :images="['/img/concept.jpg']">
+        <viewer :images="['/img/concept.webp']">
             <div class="hidden">
                 <img
                     id="concept-img-viewer"
-                    src="/img/concept.jpg"
-                    key="/img/concept.jpg"
+                    src="/img/concept.webp"
+                    key="/img/concept.webp"
                 />
             </div>
         </viewer>

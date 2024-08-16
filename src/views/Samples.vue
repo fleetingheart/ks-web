@@ -33,7 +33,7 @@
 import { useI18n } from 'vue-i18n';
 const { t } = useI18n();
 
-const images = Array(6).fill(0).map((_, i) => `/img/screenshot/screen_${i + 1}.jpg`);
+const images = Array(6).fill(0).map((_, i) => `/img/screenshot/screen_${i + 1}.webp`);
 console.log(images);
 </script>
 

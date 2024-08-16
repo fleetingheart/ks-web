@@ -27,8 +27,8 @@
                 </div>
             </header>
             <router-link class="group absolute -right-9 -top-9 z-20" to="/">
-                <img class="group-hover:hidden" src="/img/logo.png" alt="Katawa Shoujo Logo">
-                <img class="hidden group-hover:block" src="/img/logo-over.png" alt="Katawa Shoujo Logo">
+                <img class="group-hover:hidden" src="/img/logo.webp" alt="Katawa Shoujo Logo">
+                <img class="hidden group-hover:block" src="/img/logo-over.webp" alt="Katawa Shoujo Logo">
             </router-link>
             <router-view class="mt-9 max-h-[85%] bg-red-500/0 overflow-y-auto pr-2"></router-view>
         </div>
@@ -90,14 +90,14 @@ const downloadCircle = computed(() => {
 body {
     @apply bg-neutral-900 text-white text-xl;
     /* font-family: 'Poppins', sans-serif; */
-    background: url('/img/mainbg.png');
+    background: url('/img/mainbg.webp');
     color: #8D8375;
 }
 
 .ks-container {
     width: 640px;
     height: 480px;
-    background: url('/img/innerbg.jpg');
+    background: url('/img/innerbg.webp');
     @apply absolute left-[50%]
     top-[35%] sm:top-[45%] md:top-[50%]
     translate-x-[-50%] translate-y-[-50%]
@@ -134,17 +134,17 @@ header.jp-locale {
 }
 
 .dl-link::before {
-    content: url('/img/redcircle.png');
+    content: url('/img/redcircle.webp');
     @apply absolute -z-10 left-[-10%] top-[-75%];
 }
 
 .dl-link-short::before {
-    content: url('/img/redcircle_short.png')!important;
+    content: url('/img/redcircle_short.webp')!important;
     @apply left-[-30%];
 }
 
 .dl-link-long::before {
-    content: url('/img/redcircle_long.png')!important;
+    content: url('/img/redcircle_long.webp')!important;
 }
 
 /* width */

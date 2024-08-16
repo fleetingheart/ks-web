@@ -7,7 +7,7 @@
         <div class="separator"></div>
         <div class="flex flex-row gap-1">
             <div class="flex-none">
-                <img class="w-[180px]" :src="`/img/char/char_${character}.png`" :alt="t(`chardata.${character}.name`)">
+                <img class="w-[180px]" :src="`/img/char/char_${character}.webp`" :alt="t(`chardata.${character}.name`)">
             </div>
             <div class="character-detail ks-pagetext">
                 <div v-if="isDetailed">

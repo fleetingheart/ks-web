@@ -161,7 +161,7 @@
             <div class="p-3">
                 <img
                     class="rounded-md"
-                    src="/img/r18.png"
+                    src="/img/r18.webp"
                     :alt="`${t('downloads.r18.instructions.alt')}`"
                 >
             </div>
