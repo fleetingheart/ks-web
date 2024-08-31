@@ -1,0 +1,23 @@
+body {
+    background:#dad6c9;
+    background-image:url(background.jpg);
+    background-repeat:no-repeat;
+    margin:0px;
+}
+.maincontent {
+    margin-left:520px;
+    margin-top:20px;
+	font-size:1em;
+	font-family:sans-serif;
+    width:280px;
+}
+a {
+	text-decoration:none;
+	color:#FF5522;
+}
+a:hover {
+	text-decoration:underline;
+}
+.boilerplate {
+	font-size:0.7em;
+}

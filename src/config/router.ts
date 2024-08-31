@@ -10,6 +10,7 @@ export const routes: vRoute[] = [
     { path: "/samples", name: "Samples", component: () => import("@/views/Samples.vue") },
     { path: "/staff", name: "Staff", component: () => import("@/views/Staff.vue") },
     { path: '/pxt', name: "pxt", beforeEnter() { window.location.href = '/pxt/pxt.html'; }} as any,
+    { path: "/the_answer", name:"The Answer", beforeEnter() { window.location.href = '/theanswer/the_answer.html'; }} as any,
 ];
 
 export const router = createRouter({
