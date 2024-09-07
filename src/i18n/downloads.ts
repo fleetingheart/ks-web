@@ -38,6 +38,7 @@ export const downloads = {
             "ksis": "Imperfect Spectrum",
             "ksbs": "Beauty & Strangeness",
             "kstsh": "The Soft Hour",
+            "kskf": "Katawa Fantasy",
             "dwlanguage": "Languages",
             "stores": "The game can also be downloaded here",
             "r18": {
