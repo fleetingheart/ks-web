@@ -334,7 +334,7 @@ const commonData = {
             thumbnail: "tn_kskf.jpg",
             m_content: true,
             links: [
-                "https://cplcrud.wordpress.com/wp-content/uploads/2019/05/ksbook10_katawafantasy_web.pdf"
+                "https://cdn.fhs.sh/ks/pr/artbooks/Katawa_Fantasy.pdf"
             ]
         },
     ],
