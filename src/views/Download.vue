@@ -10,7 +10,7 @@
             class="absolute left-0 top-0 w-full h-full bg-cream text-muted z-10 flex flex-col gap-5 items-center justify-center text-[0.8em]"
         >
             <h2 class="text-3xl text-muted" id="cw-header">{{ t('downloads.cw.header') }}</h2>
-            <p class="text-center px-12" v-html="contentWarningLink.includes('/bin/') ? t('downloads.cw.warning') : t('downloads.cw.warning_ab')">
+            <p class="text-center px-12" v-html="contentWarningLink.includes('/bin/') || contentWarningLink.includes('/steam/') ? t('downloads.cw.warning') : t('downloads.cw.warning_ab')">
             </p>
             <div class="flex flex-row gap-2 items-center">
                 <input type="checkbox" name="age-check" id="age-check" v-model="userConsent">
