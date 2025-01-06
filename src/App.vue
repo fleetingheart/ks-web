@@ -57,6 +57,8 @@ const downloadCircle = computed(() => {
             return 'dl-link-short'
         case 'ja':
             return 'dl-link-long'
+        case 'pt':
+            return 'dl-link-long'
         case 'fi':
             return 'dl-link-short'
         default:
