@@ -268,7 +268,7 @@ export const downloads = {
             "r18": {
                 "header": "R18 Steam Patch",
                 "why": "A Katawa Shoujo Steam-es verziója nem tartalmaz felnőtt tartalmat. Hogy a játékban ez a tartalom ismét elérhető legyen, alkalmaznod kell a lennebb található R18 patch-et.",
-                "ack": "Köszönet Avonder-nek az R18 Patch fejlesztéséért.",
+                "ack": "Kösz Avonder-nek az R18 Patch fejlesztéséért.",
                 "instructions": {
                     "header": "Instrukciók:",
                     "download": "Töltsd le a R18 patch-et.",
