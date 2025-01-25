@@ -3,7 +3,7 @@
         <div class="ks-container p-8 relative">
             <header
                 class="px-2 text-[1.1em] relative flex flex-row gap-5 w-[78%] justify-between"
-                :class="{ 'cn-locale': isChineseLocale, 'jp-locale': isJapaneseLocale, 'ko-locale': isKoreanLocale }"
+                :class="{ 'cn-locale': isChineseLocale, 'jp-locale': isJapaneseLocale, 'ko-locale': isKoreanLocale, 'gap-[3%]': isPortugueseLocale }"
             >
                 <div>
                     <router-link class="hover:text-black whitespace-nowrap" to="/about">{{ t('navigation.about') }}</router-link>
@@ -47,6 +47,7 @@ const { t, locale } = useI18n();
 const isChineseLocale = computed(() => locale.value === 'zh' || locale.value === 'zh-TW');
 const isJapaneseLocale = computed(() => locale.value === 'ja');
 const isKoreanLocale = computed(() => locale.value === 'ko');
+const isPortugueseLocale = computed(() => locale.value === 'pt');
 initTitleManager(t, useRouter());
 
 const downloadCircle = computed(() => {
@@ -61,6 +62,8 @@ const downloadCircle = computed(() => {
             return 'dl-link-long'
         case 'fi':
             return 'dl-link-short'
+        case 'hu':
+            return 'dl-link-hu'
         default:
             return '';
     }
@@ -147,6 +150,11 @@ header.jp-locale {
 
 .dl-link-long::before {
     content: url('/img/redcircle_long.webp')!important;
+}
+
+.dl-link-hu::before {
+    content: url('/img/redcircle.webp')!important;
+    @apply left-[-20%]
 }
 
 /* width */

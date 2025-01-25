@@ -205,14 +205,14 @@ const commonData = {
     downloads: {
         full: {
             torrent: {
-                windows: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Bwindows%255D%255BA6A47E20%255D.exe.torrent",
-                mac: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Bmac%255D%255B1DFC84A6%255D.dmg.torrent",
-                linux: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Blinux-x86%255D%255B18161880%255D.tar.bz2.torrent",
+                windows: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Bwindows%5D%5BA6A47E20%5D.exe.torrent",
+                mac: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Bmac%5D%5B1DFC84A6%5D.dmg.torrent",
+                linux: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Blinux-x86%5D%5B18161880%5D.tar.bz2.torrent",
             },
             direct: {
-                windows: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Bwindows%255D%255BA6A47E20%255D.exe",
-                mac: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Bmac%255D%255B1DFC84A6%255D.dmg",
-                linux: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%255B4ls%255D_katawa_shoujo_1.3.1-%255Blinux-x86%255D%255B18161880%255D.tar.bz2",
+                windows: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Bwindows%5D%5BA6A47E20%5D.exe",
+                mac: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Bmac%5D%5B1DFC84A6%5D.dmg",
+                linux: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Blinux-x86%5D%5B18161880%5D.tar.bz2",
             },
             stores: {
                 steam: "https://store.steampowered.com/app/3068300/Katawa_Shoujo",
@@ -223,18 +223,18 @@ const commonData = {
         },
         act1: {
             torrent: {
-                windows: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Bwindows%255D%255BE9193F09%255D.exe.torrent",
-                mac: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Bmac%255D%255B4392C128%255D.dmg.torrent",
-                linux: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Blinux-x86%255D%255B97624142%255D.tar.bz2.torrent",
+                windows: "https://cdn.fhs.sh/ks/bin/a1v5/%5B4ls%5D_katawa_shoujo_act1_v5_%5Bwindows%5D%5BE9193F09%5D.exe.torrent",
+                mac: "https://cdn.fhs.sh/ks/bin/a1v5/%5B4ls%5D_katawa_shoujo_act1_v5_%5Bmac%5D%5B4392C128%5D.dmg.torrent",
+                linux: "https://cdn.fhs.sh/ks/bin/a1v5/%5B4ls%5D_katawa_shoujo_act1_v5_%5Blinux-x86%5D%5B97624142%5D.tar.bz2.torrent",
             },
             direct: {
-                windows: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Bwindows%255D%255BE9193F09%255D.exe",
-                mac: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Bmac%255D%255B4392C128%255D.dmg",
-                linux: "https://cdn.fhs.sh/ks/bin/a1v5/%255B4ls%255D_katawa_shoujo_act1_v5_%255Blinux-x86%255D%255B97624142%255D.tar.bz2",
+                windows: "https://cdn.fhs.sh/ks/bin/a1v5/%5B4ls%5D_katawa_shoujo_act1_v5_%5Bwindows%5D%5BE9193F09%5D.exe",
+                mac: "https://cdn.fhs.sh/ks/bin/a1v5/%5B4ls%5D_katawa_shoujo_act1_v5_%5Bmac%5D%5B4392C128%5D.dmg",
+                linux: "https://cdn.fhs.sh/ks/bin/a1v5/%5B4ls%5D_katawa_shoujo_act1_v5_%5Blinux-x86%5D%5B97624142%5D.tar.bz2",
             }
         },
         soundtrack: {
-            direct: "https://cdn.fhs.sh/ks/pr/soundtrack/%255B4ls%255D_katawa_shoujo_enigmatic_box_of_sound_%255B503ACD68%255D.zip"
+            direct: "https://cdn.fhs.sh/ks/pr/soundtrack/%5B4ls%5D_katawa_shoujo_enigmatic_box_of_sound_%5B503ACD68%5D.zip"
         }
     },
     artbooks: [
