@@ -131,12 +131,17 @@ export const staff = {
             content: `
                 <h2 class="first">Über Four Leaf Studios</h2>
                 <img src="/img/concept.webp" alt="RAITAs Omake-Seite" id="concept-img">
-                Das Neujahr 2007 schien das Übliche für das <a href="https://boards.4chan.org/a/" target="_blank">/a/-Board</a> von <a href="http://4chan.org/">4chan</a> zu versprechen, bis Anonymous am 4. Januar eine <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITAs Omake-Seite">Omake-Seite</a> aus dem Doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> von <a href="https://www.pixiv.net/en/users/188638">RAITA</a> aus dem Doujin-Kreis Zettai Shoujo postete, die die Characterdesigns für eine Dating Sim enthielt, die er "Katawa Shoujo" nannte. Aus Gründen, die wir wohl nie erfahren werden, wurde der Vorschlag, diese Konzept umzusetzen, plötzlich zu einem durchschlagenden Erfolg, und bald war der Thread voller Vorschläge, die von gefühlvollen Liebesgeschichten bis hin zu abseitigen Sexphantasien reichten. Die wahnsinnige Idee, auf Basis dieses einen Bildes und den kargen Ideen, die RAITA in die Ränder gekritzelt hattem tatsächlich ein Spiel zu entwickeln, beflügelte die Vorstellungskraft von Anonymous derartig, dass bald <a href="static/sticky.html">wirklich ernsthaft</a> an das Projekt gedacht wurde.
+                Das Neujahr 2007 schien das Übliche für das <a href="https://boards.4chan.org/a/" target="_blank">/a/-Board</a> von <a href="http://4chan.org/">4chan</a> zu versprechen, bis Anonymous am 4. Januar eine <a href="https://web.archive.org/web/20190119013653/http://shimmie.katawa-shoujo.com/image/9.jpg" rel="gb_image[]" title="RAITAs Omake-Seite">Omake-Seite</a> aus dem Doujin <a href="http://www.mangaupdates.com/series.html?id=40014">Schuppen Harnische</a> von <a href="https://www.pixiv.net/en/users/188638">RAITA</a> aus dem Doujin-Kreis Zettai Shoujo postete, die die Charakterdesigns für eine Dating-Sim enthielt, die er "Katawa Shoujo" nannte. Aus Gründen, die wir wohl nie erfahren werden, wurde der Vorschlag, dieses Konzept umzusetzen, plötzlich zu einem durchschlagenden Erfolg, und bald war der Thread voller Vorschläge, die von gefühlvollen Liebesgeschichten bis hin zu abseitigen Sexphantasien reichten. Die wahnsinnige Idee, auf Basis dieses einen Bildes und der kargen Ideen, die RAITA in die Ränder gekritzelt hatte, tatsächlich ein Spiel zu entwickeln, beflügelte die Vorstellungskraft von Anonymous derartig, dass bald <a href="static/sticky.html">wirklich ernsthaft</a> an das Projekt gedacht wurde.
                 <br>
                 <br>
+                Der Schlusspunkt folgte schließlich im Jahr 2012. Fünf lange Jahre hatte Four Leaf Studios an dem Projekt gearbeitet, wobei die endgültige Veröffentlichung manchmal in weiter Ferne zu liegen schien. Doch Ende 2011 war das Ziel endlich greifbar, und die letzte Phase zur Fertigstellung des Spiels begann.
+                <br>
+                <br>
+                Am 4. Januar 2012 wurde Katawa Shoujo schließlich veröffentlicht.
+
                 Bald gab es <a href="https://web.archive.org/web/20100407051034/http://s8.invisionfree.com/Zettai_Shojou/index.php">Entwickler-</a><a href="http://ks.renai.us/">Foren</a>, und in den nächsten Monaten war die Luft voller Ideen und Vorschlägen, als alle versuchten, ihre Ideen auszubreiten, Kunstbeispiele zu zeichnen, Textbeispiele zu schreiben, und das Chaos von Dutzenden von Leuten, die über die Ausrichtung des Spiels diskutierten und stritten, unter Kontrolle zu halten. Von dort aus begannen die aktivsten Teilnehmer mit der endgültigen Entwicklung des Spiels unter dem Namen "Four Leaf Studios", und im Sommer '07 begann das Projekt tatsächlich, Form anzunehmen.
                 
-                <h2>Abspann</h2>
+                <h2>Credits</h2>
                 <h3>Schreiben</h3>
                 <ul>
                     <li>Anonymous22</li>
@@ -145,7 +150,7 @@ export const staff = {
                     <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
                     <li><a href="http://twitter.com/TheHivemindstw" target="_blank">TheHivemind</a></li>
                 </ul>
-                <h3>Schnitt</h3>
+                <h3>Redaktion</h3>
                 <ul>
                     <li>Kagami</li>
                     <li>Losstarot</li>
@@ -181,7 +186,7 @@ export const staff = {
                     <li><a href="http://twitter.com/Fiohnel" target="_blank">Raide</a></li>
                     <li>yujovi</li>
                 </ul>
-                <h3>Ingenieurwesen</h3>
+                <h3>Technische Entwicklung</h3>
                 <ul>
                     <li><a href="http://twitter.com/deltakurshiva" target="_blank">delta</a></li>
                 </ul>
@@ -190,13 +195,13 @@ export const staff = {
                     <li><a href="http://twitter.com/ONeillCam" target="_blank">cpl_crud</a></li>
                     <li><a href="http://twitter.com/Surikoo" target="_blank">Suriko</a></li>
                 </ul>
-                <h3>Besonderer Danke</h3>
+                <h3>Besonderer Dank</h3>
                 <ul>
-                    <li>anonymus</li>
+                    <li>Anonymous</li>
                     <li><a href="http://twitter.com/hir000" target="_blank">hir</a></li>
                     <li><a href="http://twitter.com/renpytom" target="_blank">PyTom</a></li>
                     <li><a href="http://twitter.com/raita_z/" target="_blank">RAITA</a></li>
-                    <li>Zu viele geringfügige und ehemalige Mitwirkende, um sie hier aufzulisten...</li>
+                    <li>Zu viele kleinere Beiträge und ehemalige Mitwirkende, um sie hier aufzulisten...</li>
                 </ul>
             `
         }

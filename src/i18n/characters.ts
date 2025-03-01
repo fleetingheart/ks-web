@@ -199,11 +199,11 @@ export const characters = {
         "chardata": {
             "hisao": {
                 "name": "Hisao Nakai",
-                "description": "Nach einem Herzstillstand und mehrmonatigen Krankenhausaufenthalt, der ihn schwer belastete, versucht Hisao nun, seinen Platz in der Welt wiederzufinden. Der plötzliche und radikale Neuanfang an der Yamaku-Akademie und seine chaotischen Umstände zwingen ihn dazu, seine apathische Grundhaltung zu überdenken, besonders, was Dinge wie Leben, Freundschaft und Zukunft angeht."
+                "description": "Nach einem monatelangen Krankenhausaufenthalt, nachdem sein Herz beinahe versagt hatte, versucht Hisao nun, sich in seiner neuen Umgebung zurechtzufinden und seinen Platz in der Welt zu finden. Der plötzliche und radikale Neuanfang an der Yamaku-Akademie sowie die chaotischen Umstände zwingen ihn dazu, seine apathische Grundhaltung zu überdenken – insbesondere in Bezug auf Leben, Freundschaft und Zukunft."
             },
             "emi": {
                 "name": "Emi Ibarazaki",
-                "description": "Obwohl sie mit einer beidseitigen Beinamputation unterhalb der Knie leben muss, ist Emi wahrscheinlich eines der fröhlichsten und positivsten Mädchen auf dem Planeten, geschweige denn der Schule. Leicht hätte sie nach dem Unfall, der sie ihre Beine gekostet hat, in Verzweiflung versinken können. Doch Emi versteht ihre Behinderung fast als eine Art Segen, da ihre Beinprothesen sie im Leichtathletik-Team an die Spitze ihrer Leistungsfähigkeit treiben, anstatt eine permanente Hürde für sie darzustellen.",
+                "description": "Obwohl sie mit einer beidseitigen Beinamputation unterhalb der Knie leben muss, ist Emi wahrscheinlich eines der fröhlichsten und unbeschwertesten Mädchen auf dem Planeten, geschweige denn der Schule. Nach dem Unfall, der sie ihre Beine kostete, hätte sie leicht in Verzweiflung versinken können. Doch Emi versteht ihre Behinderung fast als eine Art Segen, da ihre Beinprothesen sie im Leichtathletik-Team an die Spitze ihrer Leistungsfähigkeit treiben, anstatt eine permanente Hürde für sie darzustellen.",
                 "birthday": "14. März",
                 "btype": "B",
                 "zodiac": "Fische",
@@ -212,7 +212,7 @@ export const characters = {
             },
             "hanako": {
                 "name": "Hanako Ikezawa",
-                "description": "Ein traumatisches Erlebnis in Hanakos Kindheit machte aus ihrem Leben einen Scherbenhaufen. Ihr Vater starb, als ihr Haus in einem Unfall niederbrannte, der auch Hanako für immer entstellen sollte. Sie ist extrem zurückgezogen und weist alle Menschen zurück; zwischenmenschliche Kontakte können gar in Panikanfällen enden. Nur ihrer einzige Freundin Lilly, die Hanako unter ihre Fittiche genommen hat, als sie einander vorgestellt worden sind, kann sie vertrauen.",
+                "description": "Ein traumatisches Erlebnis in Hanakos Kindheit hinterließ ihr Leben in Trümmern. Ihr Vater starb, als ihr Zuhause bei einem Unfall niederbrannte, der auch Hanako für immer entstellen sollte. Sie ist extrem zurückgezogen und weist alle Menschen zurück; zwischenmenschliche Kontakte können gar in Panikanfällen enden. Nur ihrer einzigen Freundin Lilly, die Hanako unter ihre Fittiche nahm, als sie einander vorgestellt wurden, kann sie vertrauen.",
                 "birthday": "10. Juli",
                 "btype": "AB",
                 "zodiac": "Krebs",
@@ -221,7 +221,7 @@ export const characters = {
             },
             "lilly": {
                 "name": "Lilly Satou",
-                "description": "Lilly, von Geburt an blind, ist fürsorglich, verantwortungsbewusst und freundlich - das perfekte Gegenstück zu Hanako, mit der sie eine enge Beziehung verbindet, die fast an Mutter und Tochter erinnert; oft verbringen sie ihre Freizeit beim gemeinsamen Teetrinken. In der Schule ist sie eine gewissenhafte Schülerin, und ihr Selbstvertrauen hilft ihr bei der Bewältigung ihrer Aufgabe als Klassensprecherin der Klasse 3-2.",
+                "description": "Lilly, von Geburt an blind, ist fürsorglich, verantwortungsbewusst und freundlich - die ideale Ergänzung zu Hanako, mit der sie eine enge Beziehung verbindet, die fast an Mutter und Tochter erinnert. Oft verbringen sie ihre Freizeit beim gemeinsamen Teetrinken. In der Schule ist sie eine gewissenhafte Schülerin und ihr Selbstvertrauen kommt ihr in ihrer Rolle als Klassensprecherin der Klasse 3-2 zugute.",
                 "birthday": "7. Februar",
                 "btype": "A",
                 "zodiac": "Wassermann",
@@ -230,7 +230,7 @@ export const characters = {
             },
             "rin": {
                 "name": "Rin Tezuka",
-                "description": "Da von Rins Armen wegen eines schweren Geburtsfehlers und der folgenden Operationen nur kleine Stümpfe geblieben sind, nutzt sie ihre Füße (und gelegentlich ihren Mund), um alles zu erledigen - darunter auch Malen. Wegen ihrer Behinderung ist es unpraktisch für sie, einen Rock zu tragen, deshalb bevorzugt sie in der Schule eine Uniform für Jungen. Rins Kreativität findet ihre Entsprechung in ihrer philosophischen Ader: Sie verliert sich gerne im Nachsinnen über abstrakte Ansichten zum Menschen, zum Universum und zu sonstigen Dingen, die andere Leute nur gründlich verwirren.",
+                "description": "Da von Rins Armen wegen eines schweren Geburtsfehlers und der folgenden Operationen nur kleine Stümpfe geblieben sind, nutzt sie ihre Füße (und gelegentlich ihren Mund) für alles - auch zum Malen. Wegen ihrer Behinderung ist es unpraktisch für sie, einen Rock zu tragen, deshalb bevorzugt sie in der Schule eine Uniform für Jungen. Rins Kreativität geht Hand in Hand mit ihrer philosophischen Ader: Sie verliert sich gerne in Gedanken über abstrakte Ansichten zum Menschen, zum Universum und zu sonstigen Dingen, die andere Leute oft nur verwirren.",
                 "birthday": "13. März",
                 "btype": "AB",
                 "zodiac": "Fische",
@@ -239,7 +239,7 @@ export const characters = {
             },
             "shizune": {
                 "name": "Shizune Hakamichi",
-                "description": "Shizune ist definitiv die geborene Anführerin, willensstark und forsch, wie sie ist. Trotz ihrer Gehörlosigkeit ist sie die Klassensprecherin der 3-3, seit es diesen Posten gibt, und sie übernimmt das Ruder in so ziemlich jeder Situation, in der sie sich wiederfindet. Shizune gilt schulweit als furchterregende Vorgesetzte und geschickte Intrigantin, aber auch als faire und gerechte Herrscherin.",
+                "description": "Shizune ist definitiv die geborene Anführerin, willensstark und durchsetzungsfähig. Trotz ihrer Taubheit und Stummheit ist sie schon so lange Klassensprecherin ihrer Klasse, wie es diesen Posten überhaupt gibt und übernimmt in nahezu jeder Situation das Ruder. An der Schule ist sie für ihren furchteinflößenden Führungsstil und ihre geschickte Manipulation bekannt, gilt aber dennoch als faire und gerechte Anführerin.",
                 "birthday": "6. Mai",
                 "btype": "O",
                 "zodiac": "Stier",
@@ -248,7 +248,7 @@ export const characters = {
             },
             "misha": {
                 "name": "Shiina \"Misha\" Mikado",
-                "description": "Misha übersetzt für Shizune und ist mit ihr im Schülerrat tätig. Sie ist fröhlich, verspielt und arglos und hilft mit Freuden Shizune dabei, Hisao dazu zu bringen, im Schülerrat mitzuarbeiten.",
+                "description": "Misha übersetzt für Shizune und ist gemeinsam mit ihr im Schülerrat tätig. Sie ist fröhlich, verspielt und nimmt kein Blatt vor den Mund. Mit Begeisterung unterstützt sie Shizunes Versuche, Hisao für den Schülerrat zu bekommen.",
                 "birthday": "1. November",
                 "btype": "AB",
                 "zodiac": "Skorpion",
@@ -257,19 +257,19 @@ export const characters = {
             },
             "kenji": {
                 "name": "Kenji Setou",
-                "description": "Als grenzwertiger Hikkikomori mag Kenji es, viel Zeit in seinem Zimmer zu verbringen und sich auf den nächsten Schachzug der radikalfeministischen Weltverschwörung vorzubereiten. Er ist skeptisch gegenüber der sofortigen Aufmerksamkeit, die Hisao scheinbar auf sich gezogen hat, aber nichtsdestotrotz sehr zufrieden, endlich einen Gangnachbarn zu haben."
+                "description": "Als grenzwertiger Hikikomori mag Kenji es, viel Zeit in seinem Zimmer zu verbringen und sich auf den nächsten Schachzug der radikalfeministischen Weltverschwörung vorzubereiten. Er ist skeptisch gegenüber der sofortigen Aufmerksamkeit, die Hisao anscheinend auf sich gezogen hat, aber nichtsdestotrotz sehr zufrieden, endlich einen Gangnachbarn zu haben."
             },
             "nurse": {
                 "name": "Doc",
-                "description": "Das Oberhaupt des medizinischen Stabs der Yamaku ist für seine Position verblüffffend jung. Doc ist ein lustiger und jovialer Typ, immer für einen Lacher gut und beliebt bei den Schülern. Trotzdem hat er ein Herz aus purem Gold und ist sehr gründlich und ernsthaft, wenn es um seine Arbeit geht."
+                "description": "Das Oberhaupt des medizinischen Stabs der Yamaku ist für seine Position verblüffend jung. Doc ist ein lustiger und jovialer Typ, immer für einen Lacher gut und beliebt bei den Schülern. Trotzdem hat er ein Herz aus purem Gold und ist sehr gründlich und ernsthaft, wenn es um seine Arbeit geht."
             },
             "muto": {
                 "name": "Akio Mutou",
-                "description": "Mutou ist sowohl Klassenleiter als auch Lehrer für Naturwissenschaften in der Klasse 3-3, und genauso weit entfernt von seinen Schülern wie von der Realität. Wahrscheinlich ist er zum Lehrer geboren (auch wenn seine Schüler völlig anderer Meinung sind), und seine größte Stärke ist seine Fähigkeit, irrelevante Dinge zu ignorieren (auch wenn alle Schüler, deren Namen er sich nicht merken kann, völlig anderer Meinung sind)."
+                "description": "Mutou ist sowohl Klassenleiter als auch Lehrer für Naturwissenschaften in der Klasse 3-3 und genauso weit entfernt von seinen Schülern wie von der Realität. Wahrscheinlich ist er zum Lehrer geboren (auch wenn seine Schüler völlig anderer Meinung sind) und seine größte Stärke ist seine Fähigkeit, irrelevante Dinge zu ignorieren (auch wenn alle Schüler, deren Namen er sich nicht merken kann, völlig anderer Meinung sind)."
             },
             "yuuko": {
                 "name": "Yuuko Shirakawa",
-                "description": "Yuuko hat ernsthafte Schwierigkeiten damit, ihr Leben in den Griff zu kriegen - was sie natürlich zur perfekten Ansprechpartnerin in Sachen Lebenshilfe macht. Sie finanziert ihr Universitätsstudium mit einem Job als Kellnerin in einem beliebten Café. Ihre Anstrengungen, nicht wegen ihrer angeborenen Ungeschicklichkeit gefeuert zu werden, sorgen bei anderen Leute ebenso für Verwunderung wie ihre neurotische Detailversessenheit und ihre häufigen depressiven Launen."
+                "description": "Yuuko hat ernsthafte Schwierigkeiten damit, ihr Leben in den Griff zu kriegen - was sie natürlich zur perfekten Ansprechpartnerin in Sachen Lebenshilfe macht. Sie finanziert ihr Universitätsstudium mit einem Job als Kellnerin in einem beliebten Café. Ihre Anstrengungen, nicht wegen ihrer angeborenen Ungeschicklichkeit gefeuert zu werden, sorgen bei anderen ebenso für Verwunderung wie ihre neurotische Detailversessenheit und ihre häufigen depressiven Phasen."
             }
         }
     },
