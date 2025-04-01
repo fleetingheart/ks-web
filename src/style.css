@@ -35,3 +35,29 @@
 .pageview a:hover {
     text-decoration: underline;
 }
+
+/* Aprils Fools */
+.lilly-mode {
+    background: black;
+}
+
+.lilly-mode .ks-container {
+    opacity: 10%;
+}
+
+.lilly-mode #languages, .lilly-mode #notices, .lilly-mode #copyright p {
+    opacity: 30%;
+    filter: grayscale(100%);
+}
+
+.lilly-mode #fourleaf-logo {
+    filter: invert(100%);
+}
+
+.lilly-mode .lilly-btn {
+    opacity: 30%;
+}
+
+.lilly-btn img {
+    -webkit-mask-image: linear-gradient(180deg,#000 80%,transparent);
+}
