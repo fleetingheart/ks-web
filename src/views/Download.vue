@@ -206,19 +206,19 @@ const commonData = {
         full: {
             torrent: {
                 windows: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Bwindows%5D%5BA6A47E20%5D.exe.torrent",
-                mac: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Bmac%5D%5B1DFC84A6%5D.dmg.torrent",
-                linux: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Blinux-x86%5D%5B18161880%5D.tar.bz2.torrent",
+                mac: "https://cdn.fhs.sh/ks/bin/1.3.2/%5B4ls%5D_katawa_shoujo_1.3.2-%5Bmac%5D%5B9B151ED6%5D.dmg.torrent",
+                linux: "https://cdn.fhs.sh/ks/bin/1.3.2/%5B4ls%5D_katawa_shoujo_1.3.2-%5Blinux-x86%5D%5BBA993979%5D.tar.zst.torrent",
             },
             direct: {
-                windows: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Bwindows%5D%5BA6A47E20%5D.exe",
-                mac: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Bmac%5D%5B1DFC84A6%5D.dmg",
-                linux: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Blinux-x86%5D%5B18161880%5D.tar.bz2",
+                windows: "https://cdn.fhs.sh/ks/bin/1.3.2/%5B4ls%5D_katawa_shoujo_1.3.2-%5Bwindows%5D%5BD3DB8F97%5D.exe",
+                mac: "https://cdn.fhs.sh/ks/bin/1.3.2/%5B4ls%5D_katawa_shoujo_1.3.2-%5Bmac%5D%5B9B151ED6%5D.dmg",
+                linux: "https://cdn.fhs.sh/ks/bin/1.3.2/%5B4ls%5D_katawa_shoujo_1.3.2-%5Blinux-x86%5D%5BBA993979%5D.tar.zst",
             },
             stores: {
                 steam: "https://store.steampowered.com/app/3068300/Katawa_Shoujo",
                 itch: "https://4leafstudios.itch.io/katawa-shoujo",
                 jastusa: "https://jastusa.com/games/cc001/katawa-shoujo",
-                r18: "https://cdn.fhs.sh/ks/steam/r18.rpa",
+                r18: "https://cdn.fhs.sh/ks/bin/1.3.2/r18.rpa",
             }
         },
         act1: {
