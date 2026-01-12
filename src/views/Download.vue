@@ -205,7 +205,7 @@ const commonData = {
     downloads: {
         full: {
             torrent: {
-                windows: "https://cdn.fhs.sh/ks/bin/gold_1.3.1/%5B4ls%5D_katawa_shoujo_1.3.1-%5Bwindows%5D%5BA6A47E20%5D.exe.torrent",
+                windows: "https://cdn.fhs.sh/ks/bin/1.3.2/%5B4ls%5D_katawa_shoujo_1.3.2-%5Bwindows%5D%5BD3DB8F97%5D.exe.torrent",
                 mac: "https://cdn.fhs.sh/ks/bin/1.3.2/%5B4ls%5D_katawa_shoujo_1.3.2-%5Bmac%5D%5B9B151ED6%5D.dmg.torrent",
                 linux: "https://cdn.fhs.sh/ks/bin/1.3.2/%5B4ls%5D_katawa_shoujo_1.3.2-%5Blinux-x86%5D%5BBA993979%5D.tar.zst.torrent",
             },
