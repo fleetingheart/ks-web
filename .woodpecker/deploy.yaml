@@ -1,0 +1,82 @@
+when:
+  branch: main
+  event: push
+
+
+variables:
+  .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
+  .ssh_setup_import_key: &ssh_setup_import_key echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
+  .ssh_setup_configure: &ssh_setup_configure mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+  .install_packages: &install_packages apk update && apk add openssh-client gettext
+
+steps:
+  build:
+    image: oven/bun:alpine
+    commands:
+      - bun install
+      - bun run build
+  
+  push:
+    image: alpine:latest
+    environment:
+      CI_SSH_HOST:
+        from_secret: ssh_host
+      CI_SSH_PORT:
+        from_secret: ssh_port
+      CI_SSH_USER:
+        from_secret: ssh_user
+      CI_DESTINATION_DIRECTORY:
+        from_secret: destination_directory
+      CI_PRIVATE_SSH_KEY:
+        from_secret: ssh_key
+      DOMAIN_NAME:
+        from_secret: domain_name
+      TLS_EMAIL:
+        from_secret: tls_email
+      CADDY_ROOT_PREFIX:
+        from_secret: caddy_root_prefix
+      LOG_PATH:
+        from_secret: log_path
+    commands:
+      - *install_packages
+      - *ssh_setup_start_agent
+      - *ssh_setup_import_key
+      - *ssh_setup_configure
+      - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "[ -d $${CI_DESTINATION_DIRECTORY} ] || mkdir $${CI_DESTINATION_DIRECTORY}"
+      - scp -P $${CI_SSH_PORT} -r dist $${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_DESTINATION_DIRECTORY}/${CI_COMMIT_SHA}
+    depends_on:
+      - build
+
+  render_caddy_config:
+    image: alpine:latest
+    environment:
+      CI_SSH_HOST:
+        from_secret: ssh_host
+      CI_SSH_PORT:
+        from_secret: ssh_port
+      CI_SSH_USER:
+        from_secret: ssh_user
+      CI_PRIVATE_SSH_KEY:
+        from_secret: ssh_key
+      DOMAIN_NAME:
+        from_secret: domain_name
+      TLS_EMAIL:
+        from_secret: tls_email
+      CADDY_ROOT_PREFIX:
+        from_secret: caddy_root_prefix
+      LOG_PATH:
+        from_secret: log_path
+      CADDY_CONFIG_PREFIX:
+        from_secret: caddy_config_prefix
+    commands:
+      - set -eu
+      - *install_packages
+      - *ssh_setup_start_agent
+      - *ssh_setup_import_key
+      - *ssh_setup_configure
+      - export CADDY_ROOT=$${CADDY_ROOT_PREFIX}/${CI_COMMIT_SHA}/
+      - cat caddy.conf.template | envsubst > $${DOMAIN_NAME}.conf
+      - scp -P $${CI_SSH_PORT} $${DOMAIN_NAME}.conf $${CI_SSH_USER}@$${CI_SSH_HOST}:$${CADDY_CONFIG_PREFIX}/
+    depends_on:
+      - build
+      - push

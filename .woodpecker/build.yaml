@@ -1,0 +1,11 @@
+when:
+  event: push
+  branch:
+    exclude: main
+
+steps:
+  test-build:
+    image: oven/bun:alpine
+    commands:
+      - bun install
+      - bun run build
